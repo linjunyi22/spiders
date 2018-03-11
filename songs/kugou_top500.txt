@@ -1,0 +1,2478 @@
+{'index': '1', 'singer': '于文文', 'song_name': '体面', 'time': '4:42'}
+{'index': '2', 'singer': '袁娅维', 'song_name': '说散就散', 'time': '4:02'}
+{'index': '3', 'singer': '新乐尘符', 'song_name': '123我爱你', 'time': '3:19'}
+{'index': '4', 'singer': '鞠文娴', 'song_name': 'BINGBIAN病变 (女声版)', 'time': '4:07'}
+{'index': '5', 'singer': '胡66', 'song_name': '空空如也', 'time': '3:31'}
+{'index': '6', 'singer': '广东雨神', 'song_name': '广东爱情故事', 'time': '3:34'}
+{'index': '7', 'singer': '大壮', 'song_name': '我们不一样', 'time': '4:31'}
+{'index': '8', 'singer': '张北北', 'song_name': '拥抱你离去', 'time': '4:02'}
+{'index': '9', 'singer': '买辣椒也用券', 'song_name': '起风了', 'time': '5:24'}
+{'index': '10', 'singer': 'ラムジ', 'song_name': 'PLANET', 'time': '4:08'}
+{'index': '11', 'singer': '杨宗纬、张碧晨', 'song_name': '凉凉', 'time': '5:33'}
+{'index': '12', 'singer': '校长', 'song_name': '带你去旅行', 'time': '3:46'}
+{'index': '13', 'singer': '大壮', 'song_name': '差一步', 'time': '4:05'}
+{'index': '14', 'singer': '麦小兜', 'song_name': '9420', 'time': '3:49'}
+{'index': '15', 'singer': '金志文、徐佳莹', 'song_name': '远走高飞', 'time': '3:55'}
+{'index': '16', 'singer': '岑宁儿', 'song_name': '追光者', 'time': '3:55'}
+{'index': '17', 'singer': '徐秉龙、沈以诚', 'song_name': '白羊', 'time': '2:48'}
+{'index': '18', 'singer': '胡66', 'song_name': '不必说抱歉', 'time': '4:03'}
+{'index': '19', 'singer': '安苏羽', 'song_name': '缺氧', 'time': '4:31'}
+{'index': '20', 'singer': '华语群星', 'song_name': '少林英雄', 'time': '3:00'}
+{'index': '21', 'singer': '李玉刚', 'song_name': '刚好遇见你', 'time': '3:19'}
+{'index': '22', 'singer': '音阙诗听', 'song_name': '红昭愿', 'time': '2:53'}
+{'index': '23', 'singer': '筷子兄弟', 'song_name': '小苹果', 'time': '3:31'}
+{'index': '24', 'singer': 'Matteo', 'song_name': 'Panama', 'time': '3:20'}
+{'index': '25', 'singer': '赵雷', 'song_name': '成都', 'time': '5:28'}
+{'index': '26', 'singer': '青蛙', 'song_name': '小跳蛙', 'time': '2:28'}
+{'index': '27', 'singer': '毛不易', 'song_name': '消愁 (Live)', 'time': '2:59'}
+{'index': '28', 'singer': '罗之豪', 'song_name': 'BINGBIAN病变', 'time': '4:03'}
+{'index': '29', 'singer': '周笔畅', 'song_name': '最美的期待', 'time': '3:30'}
+{'index': '30', 'singer': 'Alan Walker', 'song_name': 'Faded', 'time': '3:33'}
+{'index': '31', 'singer': 'The Chainsmokers、Coldplay', 'song_name': 'Something Just Like This', 'time': '4:07'}
+{'index': '32', 'singer': 'CG', 'song_name': '文爱', 'time': '3:20'}
+{'index': '33', 'singer': 'Dragon Pig、CLOUD WANG、CNBALLER', 'song_name': '全部都是你', 'time': '3:24'}
+{'index': '34', 'singer': '毛不易', 'song_name': '像我这样的人 (Live)', 'time': '2:51'}
+{'index': '35', 'singer': 'PRC 巴音汗', 'song_name': '80000 ! (prod.by DROCY原声版)', 'time': '1:48'}
+{'index': '36', 'singer': '可泽、夏凌兮', 'song_name': '樱花树下的约定 (原版)', 'time': '3:32'}
+{'index': '37', 'singer': '张宇', 'song_name': '给你们', 'time': '4:47'}
+{'index': '38', 'singer': '南宫嘉骏、彭清', 'song_name': '回忆总想哭', 'time': '4:53'}
+{'index': '39', 'singer': '蒋蒋、杨清柠', 'song_name': '小公主', 'time': '3:11'}
+{'index': '40', 'singer': '白小白', 'song_name': '最美情侣', 'time': '4:02'}
+{'index': '41', 'singer': '周杰伦', 'song_name': '告白气球', 'time': '3:36'}
+{'index': '42', 'singer': '白小白、球球', 'song_name': '宠爱吖', 'time': '3:37'}
+{'index': '43', 'singer': '姜玉阳、南宫嘉骏', 'song_name': '回忆总想哭', 'time': '4:52'}
+{'index': '44', 'singer': 'Бамбинтон', 'song_name': 'Зая', 'time': '3:40'}
+{'index': '45', 'singer': '王建房', 'song_name': '在人间', 'time': '3:54'}
+{'index': '46', 'singer': '秋裤大叔', 'song_name': '一晃就老了', 'time': '4:15'}
+{'index': '47', 'singer': '周杰伦', 'song_name': '等你下课 (with 杨瑞代)', 'time': '4:30'}
+{'index': '48', 'singer': '林俊杰', 'song_name': '醉赤壁', 'time': '4:41'}
+{'index': '49', 'singer': '庄心妍', 'song_name': '再见只是陌生人', 'time': '4:12'}
+{'index': '50', 'singer': '张杰', 'song_name': '三生三世', 'time': '4:17'}
+{'index': '51', 'singer': '汪苏泷、By2', 'song_name': '有点甜', 'time': '3:55'}
+{'index': '52', 'singer': '金志文', 'song_name': '远走高飞', 'time': '4:01'}
+{'index': '53', 'singer': '大哲', 'song_name': '三十出头', 'time': '3:23'}
+{'index': '54', 'singer': '彭筝', 'song_name': '太想念', 'time': '3:50'}
+{'index': '55', 'singer': 'Tez Cadey', 'song_name': 'Seve (Radio Edit)', 'time': '3:30'}
+{'index': '56', 'singer': '赵方婧', 'song_name': '尽头', 'time': '4:16'}
+{'index': '57', 'singer': 'TFBOYS', 'song_name': '青春修炼手册', 'time': '4:23'}
+{'index': '58', 'singer': '薛之谦', 'song_name': '演员', 'time': '4:21'}
+{'index': '59', 'singer': '云菲菲', 'song_name': '殇雪', 'time': '4:44'}
+{'index': '60', 'singer': '纳兰珠儿、高安', 'song_name': '花桥流水', 'time': '3:34'}
+{'index': '61', 'singer': '杨清柠、王乐乐', 'song_name': '我们', 'time': '3:40'}
+{'index': '62', 'singer': '陈一发儿', 'song_name': '童话镇', 'time': '4:17'}
+{'index': '63', 'singer': '旭日阳刚刘刚', 'song_name': '怀念青春', 'time': '4:28'}
+{'index': '64', 'singer': '王乐乐', 'song_name': '雨后人去楼也空', 'time': '3:08'}
+{'index': '65', 'singer': '吴亦凡、赵丽颖', 'song_name': '想你', 'time': '4:04'}
+{'index': '66', 'singer': 'BEYOND', 'song_name': '海阔天空', 'time': '5:22'}
+{'index': '67', 'singer': '张杰', 'song_name': '逆战', 'time': '3:49'}
+{'index': '68', 'singer': 'JC', 'song_name': '说散就散', 'time': '3:51'}
+{'index': '69', 'singer': '华晨宇', 'song_name': '齐天 (Live)', 'time': '4:49'}
+{'index': '70', 'singer': '叶炫清', 'song_name': '九张机', 'time': '3:40'}
+{'index': '71', 'singer': 'TFBOYS', 'song_name': '加油!AMIGO', 'time': '4:24'}
+{'index': '72', 'singer': 'TFBOYS', 'song_name': '大梦想家', 'time': '3:46'}
+{'index': '73', 'singer': '尚钰淞', 'song_name': '起风了', 'time': '4:23'}
+{'index': '74', 'singer': '金南玲', 'song_name': '逆流成河', 'time': '2:05'}
+{'index': '75', 'singer': '贾乃亮、贾云馨', 'song_name': '大王叫我来巡山', 'time': '3:41'}
+{'index': '76', 'singer': 'TFBOYS', 'song_name': '宠爱', 'time': '4:26'}
+{'index': '77', 'singer': 'Joel Adams', 'song_name': "Please Don't Go", 'time': '3:31'}
+{'index': '78', 'singer': 'BEYOND', 'song_name': '光辉岁月', 'time': '5:01'}
+{'index': '79', 'singer': '薛之谦', 'song_name': '丑八怪', 'time': '4:13'}
+{'index': '80', 'singer': 'Ed Sheeran', 'song_name': 'Shape of You', 'time': '3:53'}
+{'index': '81', 'singer': '冯提莫', 'song_name': '说散就散', 'time': '3:50'}
+{'index': '82', 'singer': '蒋龙', 'song_name': '行者', 'time': '3:02'}
+{'index': '83', 'singer': 'Luis Fonsi、Daddy Yankee、Justin Bieber', 'song_name': 'Despacito (Remix)', 'time': '3:48'}
+{'index': '84', 'singer': '阿涵', 'song_name': '过客', 'time': '4:30'}
+{'index': '85', 'singer': '张韶涵', 'song_name': '阿刁 (Live)', 'time': '5:21'}
+{'index': '86', 'singer': '王欣宇', 'song_name': '心愿便利贴', 'time': '2:57'}
+{'index': '87', 'singer': '张杰', 'song_name': 'Precious', 'time': '3:43'}
+{'index': '88', 'singer': '张艺兴', 'song_name': '羊 (SHEEP)', 'time': '3:25'}
+{'index': '89', 'singer': '刘佳', 'song_name': '爱的就是你', 'time': '4:33'}
+{'index': '90', 'singer': '鹿晗', 'song_name': '致爱 Your Song', 'time': '3:11'}
+{'index': '91', 'singer': '筷子兄弟', 'song_name': '父亲', 'time': '5:01'}
+{'index': '92', 'singer': '高安、黑鸭子', 'song_name': '红尘情歌', 'time': '3:29'}
+{'index': '93', 'singer': '花姐', 'song_name': '等一分钟 (Live)', 'time': '2:17'}
+{'index': '94', 'singer': '梦然', 'song_name': '没有你陪伴真的好孤单', 'time': '1:03'}
+{'index': '95', 'singer': '林志颖、郭涛、Kimi、张亮、张悦轩、王岳伦、郭子睿、王诗龄', 'song_name': '...', 'time': '4:35'}
+{'index': '96', 'singer': '李荣浩', 'song_name': '李白', 'time': '4:33'}
+{'index': '97', 'singer': '刀郎', 'song_name': '西海情歌', 'time': '5:43'}
+{'index': '98', 'singer': '刘若英', 'song_name': '后来', 'time': '5:41'}
+{'index': '99', 'singer': '田馥甄', 'song_name': '小幸运', 'time': '4:25'}
+{'index': '100', 'singer': '王丽坤、朱亚文', 'song_name': '漂洋过海来看你', 'time': '4:40'}
+{'index': '101', 'singer': '阿冷', 'song_name': '春风吹', 'time': '2:05'}
+{'index': '102', 'singer': '庄心妍', 'song_name': '放过自己', 'time': '4:09'}
+{'index': '103', 'singer': 'Cubi、江澈、Younglife', 'song_name': 'BINGBIAN病变', 'time': '4:02'}
+{'index': '104', 'singer': '齐晨', 'song_name': '咱们结婚吧', 'time': '3:48'}
+{'index': '105', 'singer': '周杰伦', 'song_name': '青花瓷', 'time': '3:57'}
+{'index': '106', 'singer': '庄心妍', 'song_name': '走着走着就散了', 'time': '4:28'}
+{'index': '107', 'singer': '赵鑫', 'song_name': '许多年以后', 'time': '5:12'}
+{'index': '108', 'singer': '黑龙', 'song_name': '盗心贼', 'time': '3:34'}
+{'index': '109', 'singer': '你样哥', 'song_name': '平底锅吃鸡摇', 'time': '3:30'}
+{'index': '110', 'singer': '尢枫', 'song_name': '123我爱你', 'time': '3:19'}
+{'index': '111', 'singer': 'BEYOND', 'song_name': '真的爱你', 'time': '4:38'}
+{'index': '112', 'singer': '周延英(英子-effie)', 'song_name': '那个人', 'time': '4:39'}
+{'index': '113', 'singer': '萧全', 'song_name': '社会摇', 'time': '4:09'}
+{'index': '114', 'singer': 'TFBOYS', 'song_name': '我们的时光', 'time': '3:50'}
+{'index': '115', 'singer': '苏勒亚其其格', 'song_name': '歌在飞', 'time': '4:04'}
+{'index': '116', 'singer': '鹿晗', 'song_name': '追梦赤子心', 'time': '4:56'}
+{'index': '117', 'singer': '刘德华', 'song_name': '恭喜发财', 'time': '3:22'}
+{'index': '118', 'singer': 'G.E.M.邓紫棋', 'song_name': '喜欢你', 'time': '3:59'}
+{'index': '119', 'singer': '王奕心', 'song_name': '我的唇吻不到我爱的人', 'time': '4:39'}
+{'index': '120', 'singer': 'Tungevaag & Raaban', 'song_name': 'Samsara', 'time': '3:31'}
+{'index': '121', 'singer': '刘佳、十二星宿 风之少年', 'song_name': '爱的就是你', 'time': '3:53'}
+{'index': '122', 'singer': '容祖儿', 'song_name': '这种天真', 'time': '5:12'}
+{'index': '123', 'singer': '李翊君', 'song_name': '雨蝶', 'time': '3:52'}
+{'index': '124', 'singer': '张杰', 'song_name': '我们都一样 (Live)', 'time': '5:04'}
+{'index': '125', 'singer': 'Ryan.B of CNBALLER、AY杨佬叁', 'song_name': '再也没有', 'time': '3:32'}
+{'index': '126', 'singer': '汪苏泷', 'song_name': '一笑倾城', 'time': '3:51'}
+{'index': '127', 'singer': '鹿晗', 'song_name': '勋章', 'time': '3:33'}
+{'index': '128', 'singer': '郑源', 'song_name': '包容', 'time': '4:23'}
+{'index': '129', 'singer': 'RADWIMPS', 'song_name': 'スパークル (Movie ver.)', 'time': '8:54'}
+{'index': '130', 'singer': '朴树', 'song_name': '平凡之路', 'time': '5:02'}
+{'index': '131', 'singer': '蒋蒋', 'song_name': '退', 'time': '4:01'}
+{'index': '132', 'singer': 'Wiz Khalifa、Charlie Puth', 'song_name': 'See You Again', 'time': '3:49'}
+{'index': '133', 'singer': '贝瓦儿歌', 'song_name': '拍手歌', 'time': '2:59'}
+{'index': '134', 'singer': 'TFBOYS', 'song_name': '躲猫猫', 'time': '3:09'}
+{'index': '135', 'singer': '贺敬轩', 'song_name': '罗曼蒂克的爱情', 'time': '3:29'}
+{'index': '136', 'singer': '陶喆', 'song_name': '就是爱你', 'time': '4:22'}
+{'index': '137', 'singer': '薛之谦', 'song_name': '认真的雪', 'time': '4:18'}
+{'index': '138', 'singer': '熊梓淇', 'song_name': '说爱你', 'time': '3:35'}
+{'index': '139', 'singer': '蒋雪儿', 'song_name': '爱河', 'time': '3:38'}
+{'index': '140', 'singer': '刘珂矣', 'song_name': '风筝误', 'time': '3:58'}
+{'index': '141', 'singer': '冯提莫', 'song_name': '再见前任', 'time': '3:20'}
+{'index': '142', 'singer': '王雪晶', 'song_name': '拔萝卜', 'time': '1:37'}
+{'index': '143', 'singer': '徐誉滕', 'song_name': '等一分钟', 'time': '3:56'}
+{'index': '144', 'singer': '陈雅森', 'song_name': '我的快乐就是想你', 'time': '5:05'}
+{'index': '145', 'singer': '陆树铭', 'song_name': '一壶老酒', 'time': '4:20'}
+{'index': '146', 'singer': '刘珂矣', 'song_name': '半壶纱', 'time': '3:42'}
+{'index': '147', 'singer': '简弘亦', 'song_name': '体面', 'time': '4:39'}
+{'index': '148', 'singer': 'Idina Menzel', 'song_name': 'Let It Go', 'time': '3:44'}
+{'index': '149', 'singer': '巧千金', 'song_name': '小毛驴', 'time': '2:02'}
+{'index': '150', 'singer': '双笙', 'song_name': '我的一个道姑朋友', 'time': '5:14'}
+{'index': '151', 'singer': '王宝与正午阳光', 'song_name': '儿子 我是你爸爸 (Demo版)', 'time': '1:56'}
+{'index': '152', 'singer': 'KT、Chiu Chiu', 'song_name': '7538 (Me U-Remix)', 'time': '3:30'}
+{'index': '153', 'singer': 'TFBOYS', 'song_name': '魔法城堡', 'time': '4:17'}
+{'index': '154', 'singer': '薛明媛、朱贺', 'song_name': '非酋', 'time': '2:52'}
+{'index': '155', 'singer': '陈奕迅', 'song_name': '十年', 'time': '3:22'}
+{'index': '156', 'singer': '薛之谦', 'song_name': '你还要我怎样', 'time': '5:10'}
+{'index': '157', 'singer': '降央卓玛', 'song_name': '西海情歌', 'time': '5:02'}
+{'index': '158', 'singer': '曾缔', 'song_name': '还是爱了', 'time': '3:52'}
+{'index': '159', 'singer': '任然', 'song_name': '空空如也', 'time': '3:33'}
+{'index': '160', 'singer': '凤凰传奇', 'song_name': '最炫民族风', 'time': '4:45'}
+{'index': '161', 'singer': '薛之谦', 'song_name': '天后 (Live)', 'time': '4:07'}
+{'index': '162', 'singer': 'Justin Bieber、Ludacris', 'song_name': 'Baby', 'time': '3:34'}
+{'index': '163', 'singer': '汪苏泷', 'song_name': '小星星', 'time': '3:16'}
+{'index': '164', 'singer': '易烊千玺', 'song_name': '离骚', 'time': '4:26'}
+{'index': '165', 'singer': '赵天宇、周震南', 'song_name': '吸引力法则', 'time': '4:20'}
+{'index': '166', 'singer': '正云、少薇', 'song_name': '下定决心忘记你', 'time': '3:42'}
+{'index': '167', 'singer': '杨清柠', 'song_name': '四年半', 'time': '3:49'}
+{'index': '168', 'singer': '汪苏泷', 'song_name': '追光者 (Live)', 'time': '4:09'}
+{'index': '169', 'singer': 'DAISHI DANCE、Cecile Corbel', 'song_name': 'Take Me Hand', 'time': '4:19'}
+{'index': '170', 'singer': '华晨宇', 'song_name': '智商二五零', 'time': '3:33'}
+{'index': '171', 'singer': '周传雄', 'song_name': '黄昏', 'time': '5:44'}
+{'index': '172', 'singer': '冷漠、杨小曼', 'song_name': '爱如星火', 'time': '4:20'}
+{'index': '173', 'singer': '南征北战NZBZ', 'song_name': '我的天空', 'time': '3:54'}
+{'index': '174', 'singer': 'TFBOYS', 'song_name': '是你', 'time': '3:51'}
+{'index': '175', 'singer': '李晓杰', 'song_name': '把酒倒满', 'time': '4:26'}
+{'index': '176', 'singer': 'Luis Fonsi', 'song_name': 'Despacito (Versión Pop)', 'time': '3:49'}
+{'index': '177', 'singer': '杨洋', 'song_name': '微微一笑很倾城', 'time': '3:25'}
+{'index': '178', 'singer': '段丽阳', 'song_name': '爸爸妈妈听我说', 'time': '3:27'}
+{'index': '179', 'singer': '陈慧娴', 'song_name': '千千阕歌', 'time': '5:00'}
+{'index': '180', 'singer': '唐古', 'song_name': '你的过去我不介意', 'time': '4:04'}
+{'index': '181', 'singer': '庄心妍', 'song_name': '以后的以后', 'time': '4:58'}
+{'index': '182', 'singer': '周杰伦', 'song_name': '稻香', 'time': '3:43'}
+{'index': '183', 'singer': '冷漠、杨小曼', 'song_name': '心锁', 'time': '4:16'}
+{'index': '184', 'singer': '邓丽君', 'song_name': '我只在乎你', 'time': '4:16'}
+{'index': '185', 'singer': '刘大美人', 'song_name': '你是我爱的人', 'time': '4:00'}
+{'index': '186', 'singer': '王童语', 'song_name': '丫头', 'time': '5:32'}
+{'index': '187', 'singer': '薛之谦', 'song_name': '意外', 'time': '4:47'}
+{'index': '188', 'singer': '许巍', 'song_name': '曾经的你', 'time': '4:23'}
+{'index': '189', 'singer': '车继铃', 'song_name': '最远的你是我最近的爱', 'time': '4:12'}
+{'index': '190', 'singer': '金莎', 'song_name': '爱的魔法', 'time': '3:11'}
+{'index': '191', 'singer': '王冕', 'song_name': '勉为其难', 'time': '4:09'}
+{'index': '192', 'singer': '白鹿', 'song_name': '凤囚凰', 'time': '5:03'}
+{'index': '193', 'singer': '胡彦斌', 'song_name': '你要的全拿走', 'time': '4:59'}
+{'index': '194', 'singer': 'Vicetone、Cozi Zuehlsdorff', 'song_name': 'Nevada', 'time': '3:28'}
+{'index': '195', 'singer': '林俊杰', 'song_name': '当你', 'time': '4:09'}
+{'index': '196', 'singer': '祖海', 'song_name': '好运来', 'time': '3:34'}
+{'index': '197', 'singer': '巧千金', 'song_name': '小宝贝', 'time': '2:31'}
+{'index': '198', 'singer': '董真', 'song_name': '繁花', 'time': '3:45'}
+{'index': '199', 'singer': 'BEYOND', 'song_name': '不再犹豫', 'time': '4:12'}
+{'index': '200', 'singer': '薛之谦', 'song_name': '绅士', 'time': '4:51'}
+{'index': '201', 'singer': '蜘向镜ALine', 'song_name': 'PLANET', 'time': '4:08'}
+{'index': '202', 'singer': 'K.D', 'song_name': 'BINGBIAN病变', 'time': '4:00'}
+{'index': '203', 'singer': '卢冠廷、莫文蔚', 'song_name': '一生所爱', 'time': '4:34'}
+{'index': '204', 'singer': '麦小兜', 'song_name': '心愿便利贴', 'time': '4:17'}
+{'index': '205', 'singer': '薛之谦', 'song_name': '刚刚好', 'time': '4:11'}
+{'index': '206', 'singer': '范晓萱', 'song_name': '我爱洗澡', 'time': '2:50'}
+{'index': '207', 'singer': '杨沛宜', 'song_name': '左手右手', 'time': '2:41'}
+{'index': '208', 'singer': '刀郎', 'song_name': '冲动的惩罚', 'time': '7:50'}
+{'index': '209', 'singer': '薛之谦', 'song_name': '狐狸', 'time': '3:54'}
+{'index': '210', 'singer': '毛宁、杨钰莹', 'song_name': '心雨', 'time': '4:36'}
+{'index': '211', 'singer': 'TFBOYS', 'song_name': '萤火', 'time': '4:12'}
+{'index': '212', 'singer': '大哲', 'song_name': '下定决心忘记你', 'time': '3:43'}
+{'index': '213', 'singer': '逃跑计划', 'song_name': '夜空中最亮的星', 'time': '4:12'}
+{'index': '214', 'singer': 'RADWIMPS', 'song_name': 'ぜんぜんぜんせ', 'time': '4:45'}
+{'index': '215', 'singer': 'KOGIRLS', 'song_name': '微笑糖果', 'time': '3:56'}
+{'index': '216', 'singer': '林忆莲', 'song_name': '至少还有你', 'time': '4:34'}
+{'index': '217', 'singer': '洛天依', 'song_name': '东京不太热', 'time': '4:04'}
+{'index': '218', 'singer': '魏新雨', 'song_name': '恋人心', 'time': '3:28'}
+{'index': '219', 'singer': '李朝、王圣锋', 'song_name': '情话微甜', 'time': '3:28'}
+{'index': '220', 'singer': '熊梓淇、李溪芮', 'song_name': '不是冲动', 'time': '4:27'}
+{'index': '221', 'singer': 'TFBOYS', 'song_name': '不完美小孩', 'time': '4:20'}
+{'index': '222', 'singer': '黑龙', 'song_name': '感谢', 'time': '4:18'}
+{'index': '223', 'singer': '李少白', 'song_name': '山楂树之恋', 'time': '3:04'}
+{'index': '224', 'singer': '卓依婷', 'song_name': '恭喜发财', 'time': '3:20'}
+{'index': '225', 'singer': '夏天播放', 'song_name': '小宝贝', 'time': '3:12'}
+{'index': '226', 'singer': 'Michael Learns to Rock', 'song_name': 'Take Me To Your Heart', 'time': '3:58'}
+{'index': '227', 'singer': 'LAMPHO', 'song_name': '短发', 'time': '3:12'}
+{'index': '228', 'singer': 'Selena Gomez、Charlie Puth', 'song_name': "We Don't Talk Anymore", 'time': '3:37'}
+{'index': '229', 'singer': '张学友', 'song_name': '吻别 (国)', 'time': '4:59'}
+{'index': '230', 'singer': '暖暖笑', 'song_name': '起风了', 'time': '3:56'}
+{'index': '231', 'singer': '前小白', 'song_name': '广东爱情故事', 'time': '3:26'}
+{'index': '232', 'singer': '葛林', 'song_name': '林中鸟', 'time': '3:52'}
+{'index': '233', 'singer': '赵丽颖、张碧晨', 'song_name': '望', 'time': '4:15'}
+{'index': '234', 'singer': '凤凰传奇', 'song_name': '拜新年', 'time': '3:38'}
+{'index': '235', 'singer': 'Meghan Trainor', 'song_name': 'Me Too', 'time': '3:01'}
+{'index': '236', 'singer': '陈百强', 'song_name': '偏偏喜欢你', 'time': '3:32'}
+{'index': '237', 'singer': '杨烁', 'song_name': '小兔子乖乖', 'time': '1:57'}
+{'index': '238', 'singer': '王杰', 'song_name': '不浪漫罪名', 'time': '4:47'}
+{'index': '239', 'singer': '卢焱', 'song_name': '流浪', 'time': '3:21'}
+{'index': '240', 'singer': 'Maroon 5', 'song_name': 'Sugar', 'time': '3:55'}
+{'index': '241', 'singer': '祁隆、乐凡', 'song_name': '等你等了那么久', 'time': '5:06'}
+{'index': '242', 'singer': 'Unlike Pluto、Joanna Jones', 'song_name': 'Wannabe (Spice Girls Cover)', 'time': '3:39'}
+{'index': '243', 'singer': '神马乐团', 'song_name': '爱河', 'time': '5:12'}
+{'index': '244', 'singer': '小虎队', 'song_name': '爱', 'time': '4:31'}
+{'index': '245', 'singer': '门丽、龙飞', 'song_name': '亲爱的你在哪里', 'time': '4:01'}
+{'index': '246', 'singer': '艾福杰尼、黄旭、田羽生', 'song_name': '说散就散', 'time': '3:51'}
+{'index': '247', 'singer': '谭咏麟', 'song_name': '讲不出再见', 'time': '4:52'}
+{'index': '248', 'singer': 'Fly Project', 'song_name': 'Toca Toca (Radio Edit)', 'time': '2:44'}
+{'index': '249', 'singer': '张雨生', 'song_name': '大海', 'time': '4:35'}
+{'index': '250', 'singer': '降央卓玛', 'song_name': '走天涯', 'time': '4:30'}
+{'index': '251', 'singer': '周华健', 'song_name': '风雨无阻', 'time': '4:33'}
+{'index': '252', 'singer': '杨烁', 'song_name': '小燕子', 'time': '2:58'}
+{'index': '253', 'singer': '张韶涵', 'song_name': '隐形的翅膀', 'time': '3:44'}
+{'index': '254', 'singer': '田馥甄', 'song_name': '你就不要想起我', 'time': '4:40'}
+{'index': '255', 'singer': '韩安旭', 'song_name': '多幸运', 'time': '4:09'}
+{'index': '256', 'singer': '萧全', 'song_name': '海草舞', 'time': '4:37'}
+{'index': '257', 'singer': '张芸京', 'song_name': '偏爱', 'time': '3:32'}
+{'index': '258', 'singer': '高安', 'song_name': '你不来我不老', 'time': '4:47'}
+{'index': '259', 'singer': 'Owl City、Carly Rae Jepsen', 'song_name': 'Good Time', 'time': '3:26'}
+{'index': '260', 'singer': 'BIGBANG', 'song_name': 'FANTASTIC BABY', 'time': '3:52'}
+{'index': '261', 'singer': '刘辰希', 'song_name': '专属情歌', 'time': '4:35'}
+{'index': '262', 'singer': 'Miley Cyrus', 'song_name': "We Can't Stop", 'time': '3:52'}
+{'index': '263', 'singer': 'Chris Medina', 'song_name': 'What Are Words', 'time': '3:07'}
+{'index': '264', 'singer': '戴荃', 'song_name': '悟空 (Live)', 'time': '3:20'}
+{'index': '265', 'singer': 'Barbie', 'song_name': 'Good Time', 'time': '3:53'}
+{'index': '266', 'singer': '许歌淳一', 'song_name': '偶像练习生', 'time': '3:03'}
+{'index': '267', 'singer': '刘增瞳', 'song_name': '多想留在你身边', 'time': '3:32'}
+{'index': '268', 'singer': '刘德华', 'song_name': '来生缘', 'time': '3:56'}
+{'index': '269', 'singer': '花姐', 'song_name': '最远的你是我最近的爱', 'time': '4:51'}
+{'index': '270', 'singer': '薛之谦', 'song_name': '暧昧', 'time': '5:12'}
+{'index': '271', 'singer': '梁博', 'song_name': '男孩 (Live)', 'time': '5:11'}
+{'index': '272', 'singer': '易烊千玺', 'song_name': 'Nothing To Lose', 'time': '2:37'}
+{'index': '273', 'singer': '张杰', 'song_name': '星星 (Live)', 'time': '4:32'}
+{'index': '274', 'singer': '杨烁', 'song_name': '虫儿飞', 'time': '2:42'}
+{'index': '275', 'singer': '周杰伦', 'song_name': '晴天', 'time': '4:29'}
+{'index': '276', 'singer': '冯提莫', 'song_name': '远走高飞', 'time': '4:01'}
+{'index': '277', 'singer': '杨烁', 'song_name': '两只老虎', 'time': '1:12'}
+{'index': '278', 'singer': 'Adele', 'song_name': 'Hello', 'time': '4:55'}
+{'index': '279', 'singer': '张津涤', 'song_name': '女人没有错', 'time': '3:20'}
+{'index': '280', 'singer': '许巍', 'song_name': '蓝莲花', 'time': '4:30'}
+{'index': '281', 'singer': '郑智化', 'song_name': '水手', 'time': '4:59'}
+{'index': '282', 'singer': '卓依婷', 'song_name': '明天会更好', 'time': '4:40'}
+{'index': '283', 'singer': '黄龄', 'song_name': '痒', 'time': '3:48'}
+{'index': '284', 'singer': '孙燕姿', 'song_name': '遇见', 'time': '3:29'}
+{'index': '285', 'singer': '李荣浩', 'song_name': '后羿', 'time': '3:25'}
+{'index': '286', 'singer': 'Jam', 'song_name': '七月上', 'time': '3:10'}
+{'index': '287', 'singer': 'BIGBANG', 'song_name': 'BANG BANG BANG (뱅뱅뱅) (Korean Ver.)', 'time': '3:40'}
+{'index': '288', 'singer': '姜鹏', 'song_name': '兄弟想你了', 'time': '3:45'}
+{'index': '289', 'singer': '蒙面哥', 'song_name': '一亿个伤心', 'time': '4:24'}
+{'index': '290', 'singer': '张碧晨', 'song_name': '年轮', 'time': '4:34'}
+{'index': '291', 'singer': '李克勤', 'song_name': '红日', 'time': '4:47'}
+{'index': '292', 'singer': '毛不易', 'song_name': '说散就散', 'time': '1:29'}
+{'index': '293', 'singer': 'Michael Jackson', 'song_name': 'Beat It (Single Version)', 'time': '4:18'}
+{'index': '294', 'singer': '高进、小沈阳', 'song_name': '我的好兄弟', 'time': '4:37'}
+{'index': '295', 'singer': '草蜢', 'song_name': '失恋阵线联盟', 'time': '2:52'}
+{'index': '296', 'singer': '门丽', 'song_name': '死心塌地去爱你', 'time': '3:39'}
+{'index': '297', 'singer': '陈小云', 'song_name': '爱情的骗子我问你 (重制版)', 'time': '4:29'}
+{'index': '298', 'singer': '庞龙', 'song_name': '兄弟抱一下', 'time': '4:25'}
+{'index': '299', 'singer': '云朵', 'song_name': '我的楼兰', 'time': '5:27'}
+{'index': '300', 'singer': '薛之谦、毛不易', 'song_name': '消愁 (Live)', 'time': '2:53'}
+{'index': '301', 'singer': '杨宗纬', 'song_name': '一次就好', 'time': '4:26'}
+{'index': '302', 'singer': '罗大佑', 'song_name': '恋曲1990', 'time': '5:14'}
+{'index': '303', 'singer': '费玉清', 'song_name': '一剪梅', 'time': '3:46'}
+{'index': '304', 'singer': '高胜美', 'song_name': '千年等一回', 'time': '3:36'}
+{'index': '305', 'singer': '小峰峰', 'song_name': '足够', 'time': '1:49'}
+{'index': '306', 'singer': '林俊杰', 'song_name': '曹操', 'time': '4:04'}
+{'index': '307', 'singer': '薛之谦', 'song_name': '像风一样', 'time': '4:15'}
+{'index': '308', 'singer': '李晓东', 'song_name': '消愁 (Live)', 'time': '5:30'}
+{'index': '309', 'singer': '林俊杰', 'song_name': '可惜没如果', 'time': '4:58'}
+{'index': '310', 'singer': '王俊凯', 'song_name': '树读', 'time': '3:56'}
+{'index': '311', 'singer': '李克勤', 'song_name': '月半小夜曲', 'time': '4:53'}
+{'index': '312', 'singer': '张靓颖', 'song_name': '我的梦', 'time': '3:39'}
+{'index': '313', 'singer': '蔡徐坤', 'song_name': 'I Wanna Get Love', 'time': '3:14'}
+{'index': '314', 'singer': '张杰', 'song_name': '着魔', 'time': '3:35'}
+{'index': '315', 'singer': '正云', 'song_name': '不变的情缘', 'time': '4:16'}
+{'index': '316', 'singer': '十二大美女', 'song_name': '爱情骗子我问你', 'time': '4:12'}
+{'index': '317', 'singer': '华晨宇', 'song_name': '一人饮酒醉 (Live)', 'time': '3:35'}
+{'index': '318', 'singer': '王杰', 'song_name': '谁明浪子心', 'time': '5:03'}
+{'index': '319', 'singer': '卓依婷', 'song_name': '财神来到我家门', 'time': '3:03'}
+{'index': '320', 'singer': '汤潮', 'song_name': '妈妈我想你', 'time': '4:40'}
+{'index': '321', 'singer': '郭少杰', 'song_name': '一曲红尘', 'time': '4:30'}
+{'index': '322', 'singer': '易烊千玺', 'song_name': '宝贝', 'time': '2:47'}
+{'index': '323', 'singer': '陈洁丽', 'song_name': '猪猪侠', 'time': '3:36'}
+{'index': '324', 'singer': '张杰', 'song_name': '星辰', 'time': '4:09'}
+{'index': '325', 'singer': '林俊杰', 'song_name': '江南', 'time': '4:28'}
+{'index': '326', 'singer': '李晓杰', 'song_name': '朋友的酒', 'time': '4:23'}
+{'index': '327', 'singer': '杨幂', 'song_name': '爱的供养', 'time': '3:39'}
+{'index': '328', 'singer': '许嵩、何曼婷', 'song_name': '素颜', 'time': '3:58'}
+{'index': '329', 'singer': '馒头', 'song_name': '带你去网吧里偷耳机', 'time': '1:05'}
+{'index': '330', 'singer': '正云、少薇', 'song_name': '不变的情缘', 'time': '4:10'}
+{'index': '331', 'singer': 'TFBOYS', 'song_name': '信仰之名', 'time': '3:46'}
+{'index': '332', 'singer': '那英', 'song_name': '默', 'time': '5:25'}
+{'index': '333', 'singer': '苏芮', 'song_name': '酒干倘卖无', 'time': '4:38'}
+{'index': '334', 'singer': '孙子涵', 'song_name': '回忆那么伤', 'time': '3:57'}
+{'index': '335', 'singer': 'BEYOND', 'song_name': '喜欢你', 'time': '4:29'}
+{'index': '336', 'singer': '陈雅森', 'song_name': '温柔乡', 'time': '4:13'}
+{'index': '337', 'singer': '魏语诺', 'song_name': '一个人的歌', 'time': '3:33'}
+{'index': '338', 'singer': '张杰', 'song_name': '剑心', 'time': '4:12'}
+{'index': '339', 'singer': '胡蒎', 'song_name': '喝醉以后才明白', 'time': '3:52'}
+{'index': '340', 'singer': '冯提莫', 'song_name': '刚好遇见你', 'time': '3:21'}
+{'index': '341', 'singer': '凤凰传奇', 'song_name': '荷塘月色', 'time': '4:10'}
+{'index': '342', 'singer': 'TFBOYS', 'song_name': '样 (YOUNG)', 'time': '4:24'}
+{'index': '343', 'singer': '刀郎、云朵', 'song_name': '爱是你我', 'time': '5:18'}
+{'index': '344', 'singer': '孙露', 'song_name': '离别的秋天', 'time': '4:23'}
+{'index': '345', 'singer': 'G.E.M.邓紫棋', 'song_name': '泡沫', 'time': '4:18'}
+{'index': '346', 'singer': '林志炫', 'song_name': '你的样子', 'time': '4:23'}
+{'index': '347', 'singer': 'Mi2', 'song_name': '勇敢爱', 'time': '4:16'}
+{'index': '348', 'singer': '王蓉', 'song_name': '小鸡小鸡', 'time': '3:32'}
+{'index': '349', 'singer': '张镐哲', 'song_name': '路太远', 'time': '4:37'}
+{'index': '350', 'singer': 'Russ', 'song_name': 'Psycho, Pt. 2', 'time': '2:42'}
+{'index': '351', 'singer': '郁可唯', 'song_name': '思慕', 'time': '5:07'}
+{'index': '352', 'singer': '徐誉滕', 'song_name': '天使的翅膀', 'time': '3:35'}
+{'index': '353', 'singer': '封茗囧菌', 'song_name': '红昭愿', 'time': '2:52'}
+{'index': '354', 'singer': '陈瑞', 'song_name': '白狐', 'time': '5:09'}
+{'index': '355', 'singer': '白小白', 'song_name': '最后我们没在一起', 'time': '3:19'}
+{'index': '356', 'singer': 'Alan Walker', 'song_name': 'Alone', 'time': '2:41'}
+{'index': '357', 'singer': '汪峰', 'song_name': '儿时 (Live)', 'time': '5:44'}
+{'index': '358', 'singer': '刘欢', 'song_name': '好汉歌', 'time': '3:12'}
+{'index': '359', 'singer': '陈势安', 'song_name': '天后', 'time': '4:49'}
+{'index': '360', 'singer': 'Tiësto、Sevenn', 'song_name': 'BOOM', 'time': '2:34'}
+{'index': '361', 'singer': '李溪芮', 'song_name': '抱着都痛', 'time': '4:15'}
+{'index': '362', 'singer': 'Zedd、Jon Bellion', 'song_name': 'Beautiful Now', 'time': '3:38'}
+{'index': '363', 'singer': '大哲', 'song_name': '闯码头', 'time': '3:37'}
+{'index': '364', 'singer': '陈奕迅', 'song_name': '等你爱我', 'time': '4:44'}
+{'index': '365', 'singer': '刘德华', 'song_name': '一起走过的日子', 'time': '3:56'}
+{'index': '366', 'singer': '吴静', 'song_name': '女儿情', 'time': '4:32'}
+{'index': '367', 'singer': 'Punch、灿烈', 'song_name': 'Stay With Me', 'time': '3:12'}
+{'index': '368', 'singer': '金志文、黑墨', 'song_name': '远走高飞 (Live)', 'time': '5:11'}
+{'index': '369', 'singer': '叶洛洛', 'song_name': '咖喱咖喱', 'time': '2:38'}
+{'index': '370', 'singer': '刀郎', 'song_name': '手心里的温柔', 'time': '4:56'}
+{'index': '371', 'singer': '张学友', 'song_name': '只想一生跟你走', 'time': '5:13'}
+{'index': '372', 'singer': '叶倩文', 'song_name': '潇洒走一回', 'time': '4:10'}
+{'index': '373', 'singer': '夏婉安', 'song_name': '一个人', 'time': '3:14'}
+{'index': '374', 'singer': '冷漠、杨小曼', 'song_name': '我爱你胜过你爱我', 'time': '4:43'}
+{'index': '375', 'singer': '卓依婷', 'song_name': '童年', 'time': '3:07'}
+{'index': '376', 'singer': '白小白', 'song_name': '不甘示弱', 'time': '3:32'}
+{'index': '377', 'singer': '张信哲', 'song_name': '过火 (Live)', 'time': '2:34'}
+{'index': '378', 'singer': '刘德华', 'song_name': '忘情水', 'time': '4:25'}
+{'index': '379', 'singer': '林俊杰', 'song_name': '小酒窝', 'time': '3:37'}
+{'index': '380', 'singer': 'Git Fresh', 'song_name': 'Booty Music', 'time': '3:01'}
+{'index': '381', 'singer': '张二嫂', 'song_name': '他真的比我爱你吗', 'time': '4:26'}
+{'index': '382', 'singer': 'BEYOND', 'song_name': '谁伴我闯荡', 'time': '4:12'}
+{'index': '383', 'singer': '周华健', 'song_name': '难念的经', 'time': '4:48'}
+{'index': '384', 'singer': '冷漠', 'song_name': '伤心城市', 'time': '4:24'}
+{'index': '385', 'singer': 'GAI', 'song_name': '苦行僧 (Live)', 'time': '2:23'}
+{'index': '386', 'singer': '黄渤', 'song_name': '正义之道', 'time': '3:34'}
+{'index': '387', 'singer': '徐薇', 'song_name': '体面', 'time': '4:43'}
+{'index': '388', 'singer': '冷漠、张冬玲', 'song_name': '我在红尘中遇见你', 'time': '4:36'}
+{'index': '389', 'singer': '周华健', 'song_name': '朋友', 'time': '5:11'}
+{'index': '390', 'singer': '伍佰&China Blue', 'song_name': '突然的自我 (Live)', 'time': '3:36'}
+{'index': '391', 'singer': '吴亦凡', 'song_name': 'JULY', 'time': '3:06'}
+{'index': '392', 'singer': '贾玲、刘维', 'song_name': '感觉自己萌萌哒', 'time': '3:46'}
+{'index': '393', 'singer': '张碧晨', 'song_name': '下一秒', 'time': '3:14'}
+{'index': '394', 'singer': '梅艳芳', 'song_name': '女人花', 'time': '4:50'}
+{'index': '395', 'singer': '李玉刚', 'song_name': '新贵妃醉酒', 'time': '4:55'}
+{'index': '396', 'singer': '郑源', 'song_name': '爱情码头', 'time': '5:00'}
+{'index': '397', 'singer': '陶钰玉', 'song_name': '你会爱我到什么时候', 'time': '4:02'}
+{'index': '398', 'singer': '侯旭', 'song_name': '逃', 'time': '3:59'}
+{'index': '399', 'singer': '韩宝仪', 'song_name': '粉红色的回忆', 'time': '3:49'}
+{'index': '400', 'singer': 'BEYOND', 'song_name': '灰色轨迹', 'time': '5:26'}
+{'index': '401', 'singer': '樊竹青', 'song_name': '蓝精灵', 'time': '2:06'}
+{'index': '402', 'singer': '六哲', 'song_name': '让全世界知道我爱你', 'time': '4:22'}
+{'index': '403', 'singer': '动力火车', 'song_name': '当', 'time': '5:00'}
+{'index': '404', 'singer': '杨宗纬', 'song_name': '红尘来去一场梦 (Live)', 'time': '4:10'}
+{'index': '405', 'singer': '吴亦凡', 'song_name': '时间煮雨', 'time': '4:08'}
+{'index': '406', 'singer': '高进、大壮', 'song_name': '本色英雄', 'time': '4:02'}
+{'index': '407', 'singer': '张艺兴', 'song_name': '一个人', 'time': '3:51'}
+{'index': '408', 'singer': '梁静茹', 'song_name': '问 (Live)', 'time': '3:27'}
+{'index': '409', 'singer': 'TFBOYS', 'song_name': '真心话太冒险', 'time': '3:40'}
+{'index': '410', 'singer': '张学友', 'song_name': '一千个伤心的理由', 'time': '4:36'}
+{'index': '411', 'singer': '张震岳', 'song_name': '再见', 'time': '3:03'}
+{'index': '412', 'singer': '孙露', 'song_name': '再度重相逢', 'time': '3:27'}
+{'index': '413', 'singer': '薛之谦', 'song_name': '动物世界', 'time': '3:50'}
+{'index': '414', 'singer': '凤凰传奇', 'song_name': '自由飞翔', 'time': '4:12'}
+{'index': '415', 'singer': '庄心妍', 'song_name': '两个人的回忆一个人过', 'time': '4:27'}
+{'index': '416', 'singer': '回音哥', 'song_name': '海绵宝宝', 'time': '3:28'}
+{'index': '417', 'singer': '云菲菲、冷漠', 'song_name': '这条街', 'time': '3:53'}
+{'index': '418', 'singer': '莫露露', 'song_name': '爱情主演', 'time': '3:59'}
+{'index': '419', 'singer': '邓丽君', 'song_name': '漫步人生路', 'time': '3:44'}
+{'index': '420', 'singer': '菲儿', 'song_name': '太想念', 'time': '3:50'}
+{'index': '421', 'singer': '曹越', 'song_name': '你的眼角流着我的泪', 'time': '4:24'}
+{'index': '422', 'singer': '林志炫', 'song_name': '单身情歌', 'time': '4:37'}
+{'index': '423', 'singer': '阿悄、本兮', 'song_name': '无限速', 'time': '2:51'}
+{'index': '424', 'singer': 'Alan Walker', 'song_name': 'The Spectre', 'time': '3:14'}
+{'index': '425', 'singer': '许嵩', 'song_name': '有何不可', 'time': '3:59'}
+{'index': '426', 'singer': '水木年华', 'song_name': '一生有你', 'time': '4:18'}
+{'index': '427', 'singer': '孙晨', 'song_name': '拜托', 'time': '3:45'}
+{'index': '428', 'singer': '刀郎', 'song_name': '2002年的第一场雪', 'time': '4:14'}
+{'index': '429', 'singer': '庄心妍', 'song_name': '再遇不到你这样的人', 'time': '5:22'}
+{'index': '430', 'singer': '雨露', 'song_name': '下一次相遇', 'time': '4:32'}
+{'index': '431', 'singer': '鹿晗', 'song_name': '超级冠军', 'time': '4:29'}
+{'index': '432', 'singer': '毛不易', 'song_name': '无问', 'time': '4:18'}
+{'index': '433', 'singer': '曾咏欣', 'song_name': '心微痛', 'time': '4:07'}
+{'index': '434', 'singer': '孙露', 'song_name': '想着你亲爱的', 'time': '4:05'}
+{'index': '435', 'singer': 'Alex Goot、Madilyn Bailey', 'song_name': 'Something Just Like This', 'time': '2:59'}
+{'index': '436', 'singer': 'Sainkho Namtchylak', 'song_name': 'Lost Rivers', 'time': '7:18'}
+{'index': '437', 'singer': '冷漠', 'song_name': '没有你陪伴我真的好孤单', 'time': '4:49'}
+{'index': '438', 'singer': 'Gibb-Z', 'song_name': 'My Hot Girl', 'time': '3:53'}
+{'index': '439', 'singer': '汪峰', 'song_name': '普通DISCO (Live)', 'time': '4:06'}
+{'index': '440', 'singer': '陈雪凝', 'song_name': '白山茶', 'time': '4:14'}
+{'index': '441', 'singer': '刀郎', 'song_name': '谢谢你', 'time': '5:56'}
+{'index': '442', 'singer': 'Colbie Caillat', 'song_name': 'Try', 'time': '3:44'}
+{'index': '443', 'singer': '张冬玲', 'song_name': '花开的时候你就来看我', 'time': '3:48'}
+{'index': '444', 'singer': '霍建华、赵丽颖', 'song_name': '不可说', 'time': '3:42'}
+{'index': '445', 'singer': '程响', 'song_name': '新娘不是我', 'time': '4:42'}
+{'index': '446', 'singer': '杨峻荣、范晓萱', 'song_name': '健康歌', 'time': '3:00'}
+{'index': '447', 'singer': '张磊', 'song_name': '文艺少年', 'time': '4:21'}
+{'index': '448', 'singer': '胡一天、赵天宇', 'song_name': '带你去旅行 (Live)', 'time': '2:09'}
+{'index': '449', 'singer': 'BEYOND', 'song_name': '大地', 'time': '4:19'}
+{'index': '450', 'singer': '小曾', 'song_name': '军中绿花', 'time': '4:09'}
+{'index': '451', 'singer': '陈小虎', 'song_name': '可乐', 'time': '3:56'}
+{'index': '452', 'singer': '张韶涵', 'song_name': '梦里花 (Live)', 'time': '4:42'}
+{'index': '453', 'singer': '任贤齐', 'song_name': '伤心太平洋', 'time': '4:26'}
+{'index': '454', 'singer': '毛毛', 'song_name': '奇迹再现', 'time': '3:56'}
+{'index': '455', 'singer': '蔡依林、陶喆', 'song_name': '今天你要嫁给我', 'time': '4:32'}
+{'index': '456', 'singer': '刘思涵', 'song_name': '走在冷风中', 'time': '3:35'}
+{'index': '457', 'singer': 'Bridge', 'song_name': '老大 (Live)', 'time': '1:08'}
+{'index': '458', 'singer': '吉克隽逸', 'song_name': '一生所爱', 'time': '4:02'}
+{'index': '459', 'singer': '刘明湘', 'song_name': '漂洋过海来看你', 'time': '5:01'}
+{'index': '460', 'singer': '赖鸿根', 'song_name': '谈判官', 'time': '4:22'}
+{'index': '461', 'singer': '许哲佩', 'song_name': '气球', 'time': '4:17'}
+{'index': '462', 'singer': '周杰伦', 'song_name': '听妈妈的话', 'time': '4:23'}
+{'index': '463', 'singer': '鹿晗', 'song_name': '让我留在你身边', 'time': '3:02'}
+{'index': '464', 'singer': '晨熙、司徒兰芳', 'song_name': '永远放你在心底', 'time': '3:57'}
+{'index': '465', 'singer': '汪苏泷', 'song_name': '那个男孩', 'time': '3:36'}
+{'index': '466', 'singer': '汤宝如、张学友', 'song_name': '相思风雨中', 'time': '4:10'}
+{'index': '467', 'singer': '谭咏麟', 'song_name': '一生中最爱', 'time': '4:27'}
+{'index': '468', 'singer': '赵雷', 'song_name': '我们的时光', 'time': '4:30'}
+{'index': '469', 'singer': '宋祖英', 'song_name': '好日子', 'time': '2:53'}
+{'index': '470', 'singer': '李玉刚、石头', 'song_name': '雨花石', 'time': '5:32'}
+{'index': '471', 'singer': '陈瑞', 'song_name': '相思的债', 'time': '4:50'}
+{'index': '472', 'singer': '麦小兜、校长', 'song_name': '甜了个蜜', 'time': '3:55'}
+{'index': '473', 'singer': '冯提莫', 'song_name': '凉凉', 'time': '5:36'}
+{'index': '474', 'singer': '杜歌', 'song_name': '兄弟难当', 'time': '4:11'}
+{'index': '475', 'singer': '胡歌', 'song_name': '忘记时间', 'time': '4:25'}
+{'index': '476', 'singer': '叶倩文', 'song_name': '曾经心痛', 'time': '4:41'}
+{'index': '477', 'singer': '张宇', 'song_name': '雨一直下', 'time': '4:49'}
+{'index': '478', 'singer': 'Queen', 'song_name': 'We Will Rock You (我们将击败你)', 'time': '2:03'}
+{'index': '479', 'singer': 'Carpenters', 'song_name': 'Yesterday Once More', 'time': '4:01'}
+{'index': '480', 'singer': 'G-DRAGON', 'song_name': '삐딱하게 (Crooked)', 'time': '3:44'}
+{'index': '481', 'singer': '卓依婷', 'song_name': '生日快乐', 'time': '2:02'}
+{'index': '482', 'singer': '门丽', 'song_name': '美美哒', 'time': '3:38'}
+{'index': '483', 'singer': '张宇', 'song_name': '月亮惹的祸', 'time': '4:19'}
+{'index': '484', 'singer': '陈奕迅、王菲', 'song_name': '因为爱情', 'time': '3:37'}
+{'index': '485', 'singer': '张碧晨', 'song_name': '不要忘记我爱你', 'time': '3:45'}
+{'index': '486', 'singer': '程响', 'song_name': '不再联系', 'time': '3:56'}
+{'index': '487', 'singer': '王菲', 'song_name': '匆匆那年', 'time': '4:03'}
+{'index': '488', 'singer': '李圣杰', 'song_name': '痴心绝对', 'time': '4:22'}
+{'index': '489', 'singer': 'G.E.M.邓紫棋', 'song_name': '夜空中最亮的星', 'time': '3:52'}
+{'index': '490', 'singer': '汪苏泷', 'song_name': '不分手的恋爱', 'time': '3:25'}
+{'index': '491', 'singer': '邓丽君', 'song_name': '甜蜜蜜', 'time': '3:29'}
+{'index': '492', 'singer': '李思琳', 'song_name': '三个和尚', 'time': '3:50'}
+{'index': '493', 'singer': '庄心妍', 'song_name': '好可惜', 'time': '5:15'}
+{'index': '494', 'singer': '罗文、甄妮', 'song_name': '铁血丹心', 'time': '2:57'}
+{'index': '495', 'singer': '冰冰超人', 'song_name': '八年的爱', 'time': '3:12'}
+{'index': '496', 'singer': '南宫嘉骏', 'song_name': '回忆总想哭', 'time': '4:50'}
+{'index': '497', 'singer': '光良', 'song_name': '童话', 'time': '4:04'}
+{'index': '498', 'singer': 'Cash Cash、Sofia Reyes', 'song_name': 'How To Love', 'time': '3:38'}
+{'index': '499', 'singer': '薛之谦', 'song_name': '我好像在哪见过你', 'time': '4:39'}
+{'index': '500', 'singer': '蒋蒋', 'song_name': '残雪', 'time': '3:59'}
+{'index': '1', 'singer': '于文文', 'song_name': '体面', 'time': '4:42'}
+{'index': '2', 'singer': '袁娅维', 'song_name': '说散就散', 'time': '4:02'}
+{'index': '3', 'singer': '新乐尘符', 'song_name': '123我爱你', 'time': '3:19'}
+{'index': '4', 'singer': '鞠文娴', 'song_name': 'BINGBIAN病变 (女声版)', 'time': '4:07'}
+{'index': '5', 'singer': '胡66', 'song_name': '空空如也', 'time': '3:31'}
+{'index': '6', 'singer': '广东雨神', 'song_name': '广东爱情故事', 'time': '3:34'}
+{'index': '7', 'singer': '大壮', 'song_name': '我们不一样', 'time': '4:31'}
+{'index': '8', 'singer': '张北北', 'song_name': '拥抱你离去', 'time': '4:02'}
+{'index': '9', 'singer': '买辣椒也用券', 'song_name': '起风了', 'time': '5:24'}
+{'index': '10', 'singer': 'ラムジ', 'song_name': 'PLANET', 'time': '4:08'}
+{'index': '11', 'singer': '杨宗纬、张碧晨', 'song_name': '凉凉', 'time': '5:33'}
+{'index': '12', 'singer': '校长', 'song_name': '带你去旅行', 'time': '3:46'}
+{'index': '13', 'singer': '大壮', 'song_name': '差一步', 'time': '4:05'}
+{'index': '14', 'singer': '麦小兜', 'song_name': '9420', 'time': '3:49'}
+{'index': '15', 'singer': '金志文、徐佳莹', 'song_name': '远走高飞', 'time': '3:55'}
+{'index': '16', 'singer': '岑宁儿', 'song_name': '追光者', 'time': '3:55'}
+{'index': '17', 'singer': '徐秉龙、沈以诚', 'song_name': '白羊', 'time': '2:48'}
+{'index': '18', 'singer': '胡66', 'song_name': '不必说抱歉', 'time': '4:03'}
+{'index': '19', 'singer': '安苏羽', 'song_name': '缺氧', 'time': '4:31'}
+{'index': '20', 'singer': '华语群星', 'song_name': '少林英雄', 'time': '3:00'}
+{'index': '21', 'singer': '李玉刚', 'song_name': '刚好遇见你', 'time': '3:19'}
+{'index': '22', 'singer': '音阙诗听', 'song_name': '红昭愿', 'time': '2:53'}
+{'index': '23', 'singer': '筷子兄弟', 'song_name': '小苹果', 'time': '3:31'}
+{'index': '24', 'singer': 'Matteo', 'song_name': 'Panama', 'time': '3:20'}
+{'index': '25', 'singer': '赵雷', 'song_name': '成都', 'time': '5:28'}
+{'index': '26', 'singer': '青蛙', 'song_name': '小跳蛙', 'time': '2:28'}
+{'index': '27', 'singer': '毛不易', 'song_name': '消愁 (Live)', 'time': '2:59'}
+{'index': '28', 'singer': '罗之豪', 'song_name': 'BINGBIAN病变', 'time': '4:03'}
+{'index': '29', 'singer': '周笔畅', 'song_name': '最美的期待', 'time': '3:30'}
+{'index': '30', 'singer': 'Alan Walker', 'song_name': 'Faded', 'time': '3:33'}
+{'index': '31', 'singer': 'The Chainsmokers、Coldplay', 'song_name': 'Something Just Like This', 'time': '4:07'}
+{'index': '32', 'singer': 'CG', 'song_name': '文爱', 'time': '3:20'}
+{'index': '33', 'singer': 'Dragon Pig、CLOUD WANG、CNBALLER', 'song_name': '全部都是你', 'time': '3:24'}
+{'index': '34', 'singer': '毛不易', 'song_name': '像我这样的人 (Live)', 'time': '2:51'}
+{'index': '35', 'singer': 'PRC 巴音汗', 'song_name': '80000 ! (prod.by DROCY原声版)', 'time': '1:48'}
+{'index': '36', 'singer': '可泽、夏凌兮', 'song_name': '樱花树下的约定 (原版)', 'time': '3:32'}
+{'index': '37', 'singer': '张宇', 'song_name': '给你们', 'time': '4:47'}
+{'index': '38', 'singer': '南宫嘉骏、彭清', 'song_name': '回忆总想哭', 'time': '4:53'}
+{'index': '39', 'singer': '蒋蒋、杨清柠', 'song_name': '小公主', 'time': '3:11'}
+{'index': '40', 'singer': '白小白', 'song_name': '最美情侣', 'time': '4:02'}
+{'index': '41', 'singer': '周杰伦', 'song_name': '告白气球', 'time': '3:36'}
+{'index': '42', 'singer': '白小白、球球', 'song_name': '宠爱吖', 'time': '3:37'}
+{'index': '43', 'singer': '姜玉阳、南宫嘉骏', 'song_name': '回忆总想哭', 'time': '4:52'}
+{'index': '44', 'singer': 'Бамбинтон', 'song_name': 'Зая', 'time': '3:40'}
+{'index': '45', 'singer': '王建房', 'song_name': '在人间', 'time': '3:54'}
+{'index': '46', 'singer': '秋裤大叔', 'song_name': '一晃就老了', 'time': '4:15'}
+{'index': '47', 'singer': '周杰伦', 'song_name': '等你下课 (with 杨瑞代)', 'time': '4:30'}
+{'index': '48', 'singer': '林俊杰', 'song_name': '醉赤壁', 'time': '4:41'}
+{'index': '49', 'singer': '庄心妍', 'song_name': '再见只是陌生人', 'time': '4:12'}
+{'index': '50', 'singer': '张杰', 'song_name': '三生三世', 'time': '4:17'}
+{'index': '51', 'singer': '汪苏泷、By2', 'song_name': '有点甜', 'time': '3:55'}
+{'index': '52', 'singer': '金志文', 'song_name': '远走高飞', 'time': '4:01'}
+{'index': '53', 'singer': '大哲', 'song_name': '三十出头', 'time': '3:23'}
+{'index': '54', 'singer': '彭筝', 'song_name': '太想念', 'time': '3:50'}
+{'index': '55', 'singer': 'Tez Cadey', 'song_name': 'Seve (Radio Edit)', 'time': '3:30'}
+{'index': '56', 'singer': '赵方婧', 'song_name': '尽头', 'time': '4:16'}
+{'index': '57', 'singer': 'TFBOYS', 'song_name': '青春修炼手册', 'time': '4:23'}
+{'index': '58', 'singer': '薛之谦', 'song_name': '演员', 'time': '4:21'}
+{'index': '59', 'singer': '云菲菲', 'song_name': '殇雪', 'time': '4:44'}
+{'index': '60', 'singer': '纳兰珠儿、高安', 'song_name': '花桥流水', 'time': '3:34'}
+{'index': '61', 'singer': '杨清柠、王乐乐', 'song_name': '我们', 'time': '3:40'}
+{'index': '62', 'singer': '陈一发儿', 'song_name': '童话镇', 'time': '4:17'}
+{'index': '63', 'singer': '旭日阳刚刘刚', 'song_name': '怀念青春', 'time': '4:28'}
+{'index': '64', 'singer': '王乐乐', 'song_name': '雨后人去楼也空', 'time': '3:08'}
+{'index': '65', 'singer': '吴亦凡、赵丽颖', 'song_name': '想你', 'time': '4:04'}
+{'index': '66', 'singer': 'BEYOND', 'song_name': '海阔天空', 'time': '5:22'}
+{'index': '67', 'singer': '张杰', 'song_name': '逆战', 'time': '3:49'}
+{'index': '68', 'singer': 'JC', 'song_name': '说散就散', 'time': '3:51'}
+{'index': '69', 'singer': '华晨宇', 'song_name': '齐天 (Live)', 'time': '4:49'}
+{'index': '70', 'singer': '叶炫清', 'song_name': '九张机', 'time': '3:40'}
+{'index': '71', 'singer': 'TFBOYS', 'song_name': '加油!AMIGO', 'time': '4:24'}
+{'index': '72', 'singer': 'TFBOYS', 'song_name': '大梦想家', 'time': '3:46'}
+{'index': '73', 'singer': '尚钰淞', 'song_name': '起风了', 'time': '4:23'}
+{'index': '74', 'singer': '金南玲', 'song_name': '逆流成河', 'time': '2:05'}
+{'index': '75', 'singer': '贾乃亮、贾云馨', 'song_name': '大王叫我来巡山', 'time': '3:41'}
+{'index': '76', 'singer': 'TFBOYS', 'song_name': '宠爱', 'time': '4:26'}
+{'index': '77', 'singer': 'Joel Adams', 'song_name': "Please Don't Go", 'time': '3:31'}
+{'index': '78', 'singer': 'BEYOND', 'song_name': '光辉岁月', 'time': '5:01'}
+{'index': '79', 'singer': '薛之谦', 'song_name': '丑八怪', 'time': '4:13'}
+{'index': '80', 'singer': 'Ed Sheeran', 'song_name': 'Shape of You', 'time': '3:53'}
+{'index': '81', 'singer': '冯提莫', 'song_name': '说散就散', 'time': '3:50'}
+{'index': '82', 'singer': '蒋龙', 'song_name': '行者', 'time': '3:02'}
+{'index': '83', 'singer': 'Luis Fonsi、Daddy Yankee、Justin Bieber', 'song_name': 'Despacito (Remix)', 'time': '3:48'}
+{'index': '84', 'singer': '阿涵', 'song_name': '过客', 'time': '4:30'}
+{'index': '85', 'singer': '张韶涵', 'song_name': '阿刁 (Live)', 'time': '5:21'}
+{'index': '86', 'singer': '王欣宇', 'song_name': '心愿便利贴', 'time': '2:57'}
+{'index': '87', 'singer': '张杰', 'song_name': 'Precious', 'time': '3:43'}
+{'index': '88', 'singer': '张艺兴', 'song_name': '羊 (SHEEP)', 'time': '3:25'}
+{'index': '89', 'singer': '刘佳', 'song_name': '爱的就是你', 'time': '4:33'}
+{'index': '90', 'singer': '鹿晗', 'song_name': '致爱 Your Song', 'time': '3:11'}
+{'index': '91', 'singer': '筷子兄弟', 'song_name': '父亲', 'time': '5:01'}
+{'index': '92', 'singer': '高安、黑鸭子', 'song_name': '红尘情歌', 'time': '3:29'}
+{'index': '93', 'singer': '花姐', 'song_name': '等一分钟 (Live)', 'time': '2:17'}
+{'index': '94', 'singer': '梦然', 'song_name': '没有你陪伴真的好孤单', 'time': '1:03'}
+{'index': '95', 'singer': '林志颖、郭涛、Kimi、张亮、张悦轩、王岳伦、郭子睿、王诗龄', 'song_name': '...', 'time': '4:35'}
+{'index': '96', 'singer': '李荣浩', 'song_name': '李白', 'time': '4:33'}
+{'index': '97', 'singer': '刀郎', 'song_name': '西海情歌', 'time': '5:43'}
+{'index': '98', 'singer': '刘若英', 'song_name': '后来', 'time': '5:41'}
+{'index': '99', 'singer': '田馥甄', 'song_name': '小幸运', 'time': '4:25'}
+{'index': '100', 'singer': '王丽坤、朱亚文', 'song_name': '漂洋过海来看你', 'time': '4:40'}
+{'index': '101', 'singer': '阿冷', 'song_name': '春风吹', 'time': '2:05'}
+{'index': '102', 'singer': '庄心妍', 'song_name': '放过自己', 'time': '4:09'}
+{'index': '103', 'singer': 'Cubi、江澈、Younglife', 'song_name': 'BINGBIAN病变', 'time': '4:02'}
+{'index': '104', 'singer': '齐晨', 'song_name': '咱们结婚吧', 'time': '3:48'}
+{'index': '105', 'singer': '周杰伦', 'song_name': '青花瓷', 'time': '3:57'}
+{'index': '106', 'singer': '庄心妍', 'song_name': '走着走着就散了', 'time': '4:28'}
+{'index': '107', 'singer': '赵鑫', 'song_name': '许多年以后', 'time': '5:12'}
+{'index': '108', 'singer': '黑龙', 'song_name': '盗心贼', 'time': '3:34'}
+{'index': '109', 'singer': '你样哥', 'song_name': '平底锅吃鸡摇', 'time': '3:30'}
+{'index': '110', 'singer': '尢枫', 'song_name': '123我爱你', 'time': '3:19'}
+{'index': '111', 'singer': 'BEYOND', 'song_name': '真的爱你', 'time': '4:38'}
+{'index': '112', 'singer': '周延英(英子-effie)', 'song_name': '那个人', 'time': '4:39'}
+{'index': '113', 'singer': '萧全', 'song_name': '社会摇', 'time': '4:09'}
+{'index': '114', 'singer': 'TFBOYS', 'song_name': '我们的时光', 'time': '3:50'}
+{'index': '115', 'singer': '苏勒亚其其格', 'song_name': '歌在飞', 'time': '4:04'}
+{'index': '116', 'singer': '鹿晗', 'song_name': '追梦赤子心', 'time': '4:56'}
+{'index': '117', 'singer': '刘德华', 'song_name': '恭喜发财', 'time': '3:22'}
+{'index': '118', 'singer': 'G.E.M.邓紫棋', 'song_name': '喜欢你', 'time': '3:59'}
+{'index': '119', 'singer': '王奕心', 'song_name': '我的唇吻不到我爱的人', 'time': '4:39'}
+{'index': '120', 'singer': 'Tungevaag & Raaban', 'song_name': 'Samsara', 'time': '3:31'}
+{'index': '121', 'singer': '刘佳、十二星宿 风之少年', 'song_name': '爱的就是你', 'time': '3:53'}
+{'index': '122', 'singer': '容祖儿', 'song_name': '这种天真', 'time': '5:12'}
+{'index': '123', 'singer': '李翊君', 'song_name': '雨蝶', 'time': '3:52'}
+{'index': '124', 'singer': '张杰', 'song_name': '我们都一样 (Live)', 'time': '5:04'}
+{'index': '125', 'singer': 'Ryan.B of CNBALLER、AY杨佬叁', 'song_name': '再也没有', 'time': '3:32'}
+{'index': '126', 'singer': '汪苏泷', 'song_name': '一笑倾城', 'time': '3:51'}
+{'index': '127', 'singer': '鹿晗', 'song_name': '勋章', 'time': '3:33'}
+{'index': '128', 'singer': '郑源', 'song_name': '包容', 'time': '4:23'}
+{'index': '129', 'singer': 'RADWIMPS', 'song_name': 'スパークル (Movie ver.)', 'time': '8:54'}
+{'index': '130', 'singer': '朴树', 'song_name': '平凡之路', 'time': '5:02'}
+{'index': '131', 'singer': '蒋蒋', 'song_name': '退', 'time': '4:01'}
+{'index': '132', 'singer': 'Wiz Khalifa、Charlie Puth', 'song_name': 'See You Again', 'time': '3:49'}
+{'index': '133', 'singer': '贝瓦儿歌', 'song_name': '拍手歌', 'time': '2:59'}
+{'index': '134', 'singer': 'TFBOYS', 'song_name': '躲猫猫', 'time': '3:09'}
+{'index': '135', 'singer': '贺敬轩', 'song_name': '罗曼蒂克的爱情', 'time': '3:29'}
+{'index': '136', 'singer': '陶喆', 'song_name': '就是爱你', 'time': '4:22'}
+{'index': '137', 'singer': '薛之谦', 'song_name': '认真的雪', 'time': '4:18'}
+{'index': '138', 'singer': '熊梓淇', 'song_name': '说爱你', 'time': '3:35'}
+{'index': '139', 'singer': '蒋雪儿', 'song_name': '爱河', 'time': '3:38'}
+{'index': '140', 'singer': '刘珂矣', 'song_name': '风筝误', 'time': '3:58'}
+{'index': '141', 'singer': '冯提莫', 'song_name': '再见前任', 'time': '3:20'}
+{'index': '142', 'singer': '王雪晶', 'song_name': '拔萝卜', 'time': '1:37'}
+{'index': '143', 'singer': '徐誉滕', 'song_name': '等一分钟', 'time': '3:56'}
+{'index': '144', 'singer': '陈雅森', 'song_name': '我的快乐就是想你', 'time': '5:05'}
+{'index': '145', 'singer': '陆树铭', 'song_name': '一壶老酒', 'time': '4:20'}
+{'index': '146', 'singer': '刘珂矣', 'song_name': '半壶纱', 'time': '3:42'}
+{'index': '147', 'singer': '简弘亦', 'song_name': '体面', 'time': '4:39'}
+{'index': '148', 'singer': 'Idina Menzel', 'song_name': 'Let It Go', 'time': '3:44'}
+{'index': '149', 'singer': '巧千金', 'song_name': '小毛驴', 'time': '2:02'}
+{'index': '150', 'singer': '双笙', 'song_name': '我的一个道姑朋友', 'time': '5:14'}
+{'index': '151', 'singer': '王宝与正午阳光', 'song_name': '儿子 我是你爸爸 (Demo版)', 'time': '1:56'}
+{'index': '152', 'singer': 'KT、Chiu Chiu', 'song_name': '7538 (Me U-Remix)', 'time': '3:30'}
+{'index': '153', 'singer': 'TFBOYS', 'song_name': '魔法城堡', 'time': '4:17'}
+{'index': '154', 'singer': '薛明媛、朱贺', 'song_name': '非酋', 'time': '2:52'}
+{'index': '155', 'singer': '陈奕迅', 'song_name': '十年', 'time': '3:22'}
+{'index': '156', 'singer': '薛之谦', 'song_name': '你还要我怎样', 'time': '5:10'}
+{'index': '157', 'singer': '降央卓玛', 'song_name': '西海情歌', 'time': '5:02'}
+{'index': '158', 'singer': '曾缔', 'song_name': '还是爱了', 'time': '3:52'}
+{'index': '159', 'singer': '任然', 'song_name': '空空如也', 'time': '3:33'}
+{'index': '160', 'singer': '凤凰传奇', 'song_name': '最炫民族风', 'time': '4:45'}
+{'index': '161', 'singer': '薛之谦', 'song_name': '天后 (Live)', 'time': '4:07'}
+{'index': '162', 'singer': 'Justin Bieber、Ludacris', 'song_name': 'Baby', 'time': '3:34'}
+{'index': '163', 'singer': '汪苏泷', 'song_name': '小星星', 'time': '3:16'}
+{'index': '164', 'singer': '易烊千玺', 'song_name': '离骚', 'time': '4:26'}
+{'index': '165', 'singer': '赵天宇、周震南', 'song_name': '吸引力法则', 'time': '4:20'}
+{'index': '166', 'singer': '正云、少薇', 'song_name': '下定决心忘记你', 'time': '3:42'}
+{'index': '167', 'singer': '杨清柠', 'song_name': '四年半', 'time': '3:49'}
+{'index': '168', 'singer': '汪苏泷', 'song_name': '追光者 (Live)', 'time': '4:09'}
+{'index': '169', 'singer': 'DAISHI DANCE、Cecile Corbel', 'song_name': 'Take Me Hand', 'time': '4:19'}
+{'index': '170', 'singer': '华晨宇', 'song_name': '智商二五零', 'time': '3:33'}
+{'index': '171', 'singer': '周传雄', 'song_name': '黄昏', 'time': '5:44'}
+{'index': '172', 'singer': '冷漠、杨小曼', 'song_name': '爱如星火', 'time': '4:20'}
+{'index': '173', 'singer': '南征北战NZBZ', 'song_name': '我的天空', 'time': '3:54'}
+{'index': '174', 'singer': 'TFBOYS', 'song_name': '是你', 'time': '3:51'}
+{'index': '175', 'singer': '李晓杰', 'song_name': '把酒倒满', 'time': '4:26'}
+{'index': '176', 'singer': 'Luis Fonsi', 'song_name': 'Despacito (Versión Pop)', 'time': '3:49'}
+{'index': '177', 'singer': '杨洋', 'song_name': '微微一笑很倾城', 'time': '3:25'}
+{'index': '178', 'singer': '段丽阳', 'song_name': '爸爸妈妈听我说', 'time': '3:27'}
+{'index': '179', 'singer': '陈慧娴', 'song_name': '千千阕歌', 'time': '5:00'}
+{'index': '180', 'singer': '唐古', 'song_name': '你的过去我不介意', 'time': '4:04'}
+{'index': '181', 'singer': '庄心妍', 'song_name': '以后的以后', 'time': '4:58'}
+{'index': '182', 'singer': '周杰伦', 'song_name': '稻香', 'time': '3:43'}
+{'index': '183', 'singer': '冷漠、杨小曼', 'song_name': '心锁', 'time': '4:16'}
+{'index': '184', 'singer': '邓丽君', 'song_name': '我只在乎你', 'time': '4:16'}
+{'index': '185', 'singer': '刘大美人', 'song_name': '你是我爱的人', 'time': '4:00'}
+{'index': '186', 'singer': '王童语', 'song_name': '丫头', 'time': '5:32'}
+{'index': '187', 'singer': '薛之谦', 'song_name': '意外', 'time': '4:47'}
+{'index': '188', 'singer': '许巍', 'song_name': '曾经的你', 'time': '4:23'}
+{'index': '189', 'singer': '车继铃', 'song_name': '最远的你是我最近的爱', 'time': '4:12'}
+{'index': '190', 'singer': '金莎', 'song_name': '爱的魔法', 'time': '3:11'}
+{'index': '191', 'singer': '王冕', 'song_name': '勉为其难', 'time': '4:09'}
+{'index': '192', 'singer': '白鹿', 'song_name': '凤囚凰', 'time': '5:03'}
+{'index': '193', 'singer': '胡彦斌', 'song_name': '你要的全拿走', 'time': '4:59'}
+{'index': '194', 'singer': 'Vicetone、Cozi Zuehlsdorff', 'song_name': 'Nevada', 'time': '3:28'}
+{'index': '195', 'singer': '林俊杰', 'song_name': '当你', 'time': '4:09'}
+{'index': '196', 'singer': '祖海', 'song_name': '好运来', 'time': '3:34'}
+{'index': '197', 'singer': '巧千金', 'song_name': '小宝贝', 'time': '2:31'}
+{'index': '198', 'singer': '董真', 'song_name': '繁花', 'time': '3:45'}
+{'index': '199', 'singer': 'BEYOND', 'song_name': '不再犹豫', 'time': '4:12'}
+{'index': '200', 'singer': '薛之谦', 'song_name': '绅士', 'time': '4:51'}
+{'index': '201', 'singer': '蜘向镜ALine', 'song_name': 'PLANET', 'time': '4:08'}
+{'index': '202', 'singer': 'K.D', 'song_name': 'BINGBIAN病变', 'time': '4:00'}
+{'index': '203', 'singer': '卢冠廷、莫文蔚', 'song_name': '一生所爱', 'time': '4:34'}
+{'index': '204', 'singer': '麦小兜', 'song_name': '心愿便利贴', 'time': '4:17'}
+{'index': '205', 'singer': '薛之谦', 'song_name': '刚刚好', 'time': '4:11'}
+{'index': '206', 'singer': '范晓萱', 'song_name': '我爱洗澡', 'time': '2:50'}
+{'index': '207', 'singer': '杨沛宜', 'song_name': '左手右手', 'time': '2:41'}
+{'index': '208', 'singer': '刀郎', 'song_name': '冲动的惩罚', 'time': '7:50'}
+{'index': '209', 'singer': '薛之谦', 'song_name': '狐狸', 'time': '3:54'}
+{'index': '210', 'singer': '毛宁、杨钰莹', 'song_name': '心雨', 'time': '4:36'}
+{'index': '211', 'singer': 'TFBOYS', 'song_name': '萤火', 'time': '4:12'}
+{'index': '212', 'singer': '大哲', 'song_name': '下定决心忘记你', 'time': '3:43'}
+{'index': '213', 'singer': '逃跑计划', 'song_name': '夜空中最亮的星', 'time': '4:12'}
+{'index': '214', 'singer': 'RADWIMPS', 'song_name': 'ぜんぜんぜんせ', 'time': '4:45'}
+{'index': '215', 'singer': 'KOGIRLS', 'song_name': '微笑糖果', 'time': '3:56'}
+{'index': '216', 'singer': '林忆莲', 'song_name': '至少还有你', 'time': '4:34'}
+{'index': '217', 'singer': '洛天依', 'song_name': '东京不太热', 'time': '4:04'}
+{'index': '218', 'singer': '魏新雨', 'song_name': '恋人心', 'time': '3:28'}
+{'index': '219', 'singer': '李朝、王圣锋', 'song_name': '情话微甜', 'time': '3:28'}
+{'index': '220', 'singer': '熊梓淇、李溪芮', 'song_name': '不是冲动', 'time': '4:27'}
+{'index': '221', 'singer': 'TFBOYS', 'song_name': '不完美小孩', 'time': '4:20'}
+{'index': '222', 'singer': '黑龙', 'song_name': '感谢', 'time': '4:18'}
+{'index': '223', 'singer': '李少白', 'song_name': '山楂树之恋', 'time': '3:04'}
+{'index': '224', 'singer': '卓依婷', 'song_name': '恭喜发财', 'time': '3:20'}
+{'index': '225', 'singer': '夏天播放', 'song_name': '小宝贝', 'time': '3:12'}
+{'index': '226', 'singer': 'Michael Learns to Rock', 'song_name': 'Take Me To Your Heart', 'time': '3:58'}
+{'index': '227', 'singer': 'LAMPHO', 'song_name': '短发', 'time': '3:12'}
+{'index': '228', 'singer': 'Selena Gomez、Charlie Puth', 'song_name': "We Don't Talk Anymore", 'time': '3:37'}
+{'index': '229', 'singer': '张学友', 'song_name': '吻别 (国)', 'time': '4:59'}
+{'index': '230', 'singer': '暖暖笑', 'song_name': '起风了', 'time': '3:56'}
+{'index': '231', 'singer': '前小白', 'song_name': '广东爱情故事', 'time': '3:26'}
+{'index': '232', 'singer': '葛林', 'song_name': '林中鸟', 'time': '3:52'}
+{'index': '233', 'singer': '赵丽颖、张碧晨', 'song_name': '望', 'time': '4:15'}
+{'index': '234', 'singer': '凤凰传奇', 'song_name': '拜新年', 'time': '3:38'}
+{'index': '235', 'singer': 'Meghan Trainor', 'song_name': 'Me Too', 'time': '3:01'}
+{'index': '236', 'singer': '陈百强', 'song_name': '偏偏喜欢你', 'time': '3:32'}
+{'index': '237', 'singer': '杨烁', 'song_name': '小兔子乖乖', 'time': '1:57'}
+{'index': '238', 'singer': '王杰', 'song_name': '不浪漫罪名', 'time': '4:47'}
+{'index': '239', 'singer': '卢焱', 'song_name': '流浪', 'time': '3:21'}
+{'index': '240', 'singer': 'Maroon 5', 'song_name': 'Sugar', 'time': '3:55'}
+{'index': '241', 'singer': '祁隆、乐凡', 'song_name': '等你等了那么久', 'time': '5:06'}
+{'index': '242', 'singer': 'Unlike Pluto、Joanna Jones', 'song_name': 'Wannabe (Spice Girls Cover)', 'time': '3:39'}
+{'index': '243', 'singer': '神马乐团', 'song_name': '爱河', 'time': '5:12'}
+{'index': '244', 'singer': '小虎队', 'song_name': '爱', 'time': '4:31'}
+{'index': '245', 'singer': '门丽、龙飞', 'song_name': '亲爱的你在哪里', 'time': '4:01'}
+{'index': '246', 'singer': '艾福杰尼、黄旭、田羽生', 'song_name': '说散就散', 'time': '3:51'}
+{'index': '247', 'singer': '谭咏麟', 'song_name': '讲不出再见', 'time': '4:52'}
+{'index': '248', 'singer': 'Fly Project', 'song_name': 'Toca Toca (Radio Edit)', 'time': '2:44'}
+{'index': '249', 'singer': '张雨生', 'song_name': '大海', 'time': '4:35'}
+{'index': '250', 'singer': '降央卓玛', 'song_name': '走天涯', 'time': '4:30'}
+{'index': '251', 'singer': '周华健', 'song_name': '风雨无阻', 'time': '4:33'}
+{'index': '252', 'singer': '杨烁', 'song_name': '小燕子', 'time': '2:58'}
+{'index': '253', 'singer': '张韶涵', 'song_name': '隐形的翅膀', 'time': '3:44'}
+{'index': '254', 'singer': '田馥甄', 'song_name': '你就不要想起我', 'time': '4:40'}
+{'index': '255', 'singer': '韩安旭', 'song_name': '多幸运', 'time': '4:09'}
+{'index': '256', 'singer': '萧全', 'song_name': '海草舞', 'time': '4:37'}
+{'index': '257', 'singer': '张芸京', 'song_name': '偏爱', 'time': '3:32'}
+{'index': '258', 'singer': '高安', 'song_name': '你不来我不老', 'time': '4:47'}
+{'index': '259', 'singer': 'Owl City、Carly Rae Jepsen', 'song_name': 'Good Time', 'time': '3:26'}
+{'index': '260', 'singer': 'BIGBANG', 'song_name': 'FANTASTIC BABY', 'time': '3:52'}
+{'index': '261', 'singer': '刘辰希', 'song_name': '专属情歌', 'time': '4:35'}
+{'index': '262', 'singer': 'Miley Cyrus', 'song_name': "We Can't Stop", 'time': '3:52'}
+{'index': '263', 'singer': 'Chris Medina', 'song_name': 'What Are Words', 'time': '3:07'}
+{'index': '264', 'singer': '戴荃', 'song_name': '悟空 (Live)', 'time': '3:20'}
+{'index': '265', 'singer': 'Barbie', 'song_name': 'Good Time', 'time': '3:53'}
+{'index': '266', 'singer': '许歌淳一', 'song_name': '偶像练习生', 'time': '3:03'}
+{'index': '267', 'singer': '刘增瞳', 'song_name': '多想留在你身边', 'time': '3:32'}
+{'index': '268', 'singer': '刘德华', 'song_name': '来生缘', 'time': '3:56'}
+{'index': '269', 'singer': '花姐', 'song_name': '最远的你是我最近的爱', 'time': '4:51'}
+{'index': '270', 'singer': '薛之谦', 'song_name': '暧昧', 'time': '5:12'}
+{'index': '271', 'singer': '梁博', 'song_name': '男孩 (Live)', 'time': '5:11'}
+{'index': '272', 'singer': '易烊千玺', 'song_name': 'Nothing To Lose', 'time': '2:37'}
+{'index': '273', 'singer': '张杰', 'song_name': '星星 (Live)', 'time': '4:32'}
+{'index': '274', 'singer': '杨烁', 'song_name': '虫儿飞', 'time': '2:42'}
+{'index': '275', 'singer': '周杰伦', 'song_name': '晴天', 'time': '4:29'}
+{'index': '276', 'singer': '冯提莫', 'song_name': '远走高飞', 'time': '4:01'}
+{'index': '277', 'singer': '杨烁', 'song_name': '两只老虎', 'time': '1:12'}
+{'index': '278', 'singer': 'Adele', 'song_name': 'Hello', 'time': '4:55'}
+{'index': '279', 'singer': '张津涤', 'song_name': '女人没有错', 'time': '3:20'}
+{'index': '280', 'singer': '许巍', 'song_name': '蓝莲花', 'time': '4:30'}
+{'index': '281', 'singer': '郑智化', 'song_name': '水手', 'time': '4:59'}
+{'index': '282', 'singer': '卓依婷', 'song_name': '明天会更好', 'time': '4:40'}
+{'index': '283', 'singer': '黄龄', 'song_name': '痒', 'time': '3:48'}
+{'index': '284', 'singer': '孙燕姿', 'song_name': '遇见', 'time': '3:29'}
+{'index': '285', 'singer': '李荣浩', 'song_name': '后羿', 'time': '3:25'}
+{'index': '286', 'singer': 'Jam', 'song_name': '七月上', 'time': '3:10'}
+{'index': '287', 'singer': 'BIGBANG', 'song_name': 'BANG BANG BANG (뱅뱅뱅) (Korean Ver.)', 'time': '3:40'}
+{'index': '288', 'singer': '姜鹏', 'song_name': '兄弟想你了', 'time': '3:45'}
+{'index': '289', 'singer': '蒙面哥', 'song_name': '一亿个伤心', 'time': '4:24'}
+{'index': '290', 'singer': '张碧晨', 'song_name': '年轮', 'time': '4:34'}
+{'index': '291', 'singer': '李克勤', 'song_name': '红日', 'time': '4:47'}
+{'index': '292', 'singer': '毛不易', 'song_name': '说散就散', 'time': '1:29'}
+{'index': '293', 'singer': 'Michael Jackson', 'song_name': 'Beat It (Single Version)', 'time': '4:18'}
+{'index': '294', 'singer': '高进、小沈阳', 'song_name': '我的好兄弟', 'time': '4:37'}
+{'index': '295', 'singer': '草蜢', 'song_name': '失恋阵线联盟', 'time': '2:52'}
+{'index': '296', 'singer': '门丽', 'song_name': '死心塌地去爱你', 'time': '3:39'}
+{'index': '297', 'singer': '陈小云', 'song_name': '爱情的骗子我问你 (重制版)', 'time': '4:29'}
+{'index': '298', 'singer': '庞龙', 'song_name': '兄弟抱一下', 'time': '4:25'}
+{'index': '299', 'singer': '云朵', 'song_name': '我的楼兰', 'time': '5:27'}
+{'index': '300', 'singer': '薛之谦、毛不易', 'song_name': '消愁 (Live)', 'time': '2:53'}
+{'index': '301', 'singer': '杨宗纬', 'song_name': '一次就好', 'time': '4:26'}
+{'index': '302', 'singer': '罗大佑', 'song_name': '恋曲1990', 'time': '5:14'}
+{'index': '303', 'singer': '费玉清', 'song_name': '一剪梅', 'time': '3:46'}
+{'index': '304', 'singer': '高胜美', 'song_name': '千年等一回', 'time': '3:36'}
+{'index': '305', 'singer': '小峰峰', 'song_name': '足够', 'time': '1:49'}
+{'index': '306', 'singer': '林俊杰', 'song_name': '曹操', 'time': '4:04'}
+{'index': '307', 'singer': '薛之谦', 'song_name': '像风一样', 'time': '4:15'}
+{'index': '308', 'singer': '李晓东', 'song_name': '消愁 (Live)', 'time': '5:30'}
+{'index': '309', 'singer': '林俊杰', 'song_name': '可惜没如果', 'time': '4:58'}
+{'index': '310', 'singer': '王俊凯', 'song_name': '树读', 'time': '3:56'}
+{'index': '311', 'singer': '李克勤', 'song_name': '月半小夜曲', 'time': '4:53'}
+{'index': '312', 'singer': '张靓颖', 'song_name': '我的梦', 'time': '3:39'}
+{'index': '313', 'singer': '蔡徐坤', 'song_name': 'I Wanna Get Love', 'time': '3:14'}
+{'index': '314', 'singer': '张杰', 'song_name': '着魔', 'time': '3:35'}
+{'index': '315', 'singer': '正云', 'song_name': '不变的情缘', 'time': '4:16'}
+{'index': '316', 'singer': '十二大美女', 'song_name': '爱情骗子我问你', 'time': '4:12'}
+{'index': '317', 'singer': '华晨宇', 'song_name': '一人饮酒醉 (Live)', 'time': '3:35'}
+{'index': '318', 'singer': '王杰', 'song_name': '谁明浪子心', 'time': '5:03'}
+{'index': '319', 'singer': '卓依婷', 'song_name': '财神来到我家门', 'time': '3:03'}
+{'index': '320', 'singer': '汤潮', 'song_name': '妈妈我想你', 'time': '4:40'}
+{'index': '321', 'singer': '郭少杰', 'song_name': '一曲红尘', 'time': '4:30'}
+{'index': '322', 'singer': '易烊千玺', 'song_name': '宝贝', 'time': '2:47'}
+{'index': '323', 'singer': '陈洁丽', 'song_name': '猪猪侠', 'time': '3:36'}
+{'index': '324', 'singer': '张杰', 'song_name': '星辰', 'time': '4:09'}
+{'index': '325', 'singer': '林俊杰', 'song_name': '江南', 'time': '4:28'}
+{'index': '326', 'singer': '李晓杰', 'song_name': '朋友的酒', 'time': '4:23'}
+{'index': '327', 'singer': '杨幂', 'song_name': '爱的供养', 'time': '3:39'}
+{'index': '328', 'singer': '许嵩、何曼婷', 'song_name': '素颜', 'time': '3:58'}
+{'index': '329', 'singer': '馒头', 'song_name': '带你去网吧里偷耳机', 'time': '1:05'}
+{'index': '330', 'singer': '正云、少薇', 'song_name': '不变的情缘', 'time': '4:10'}
+{'index': '331', 'singer': 'TFBOYS', 'song_name': '信仰之名', 'time': '3:46'}
+{'index': '332', 'singer': '那英', 'song_name': '默', 'time': '5:25'}
+{'index': '333', 'singer': '苏芮', 'song_name': '酒干倘卖无', 'time': '4:38'}
+{'index': '334', 'singer': '孙子涵', 'song_name': '回忆那么伤', 'time': '3:57'}
+{'index': '335', 'singer': 'BEYOND', 'song_name': '喜欢你', 'time': '4:29'}
+{'index': '336', 'singer': '陈雅森', 'song_name': '温柔乡', 'time': '4:13'}
+{'index': '337', 'singer': '魏语诺', 'song_name': '一个人的歌', 'time': '3:33'}
+{'index': '338', 'singer': '张杰', 'song_name': '剑心', 'time': '4:12'}
+{'index': '339', 'singer': '胡蒎', 'song_name': '喝醉以后才明白', 'time': '3:52'}
+{'index': '340', 'singer': '冯提莫', 'song_name': '刚好遇见你', 'time': '3:21'}
+{'index': '341', 'singer': '凤凰传奇', 'song_name': '荷塘月色', 'time': '4:10'}
+{'index': '342', 'singer': 'TFBOYS', 'song_name': '样 (YOUNG)', 'time': '4:24'}
+{'index': '343', 'singer': '刀郎、云朵', 'song_name': '爱是你我', 'time': '5:18'}
+{'index': '344', 'singer': '孙露', 'song_name': '离别的秋天', 'time': '4:23'}
+{'index': '345', 'singer': 'G.E.M.邓紫棋', 'song_name': '泡沫', 'time': '4:18'}
+{'index': '346', 'singer': '林志炫', 'song_name': '你的样子', 'time': '4:23'}
+{'index': '347', 'singer': 'Mi2', 'song_name': '勇敢爱', 'time': '4:16'}
+{'index': '348', 'singer': '王蓉', 'song_name': '小鸡小鸡', 'time': '3:32'}
+{'index': '349', 'singer': '张镐哲', 'song_name': '路太远', 'time': '4:37'}
+{'index': '350', 'singer': 'Russ', 'song_name': 'Psycho, Pt. 2', 'time': '2:42'}
+{'index': '351', 'singer': '郁可唯', 'song_name': '思慕', 'time': '5:07'}
+{'index': '352', 'singer': '徐誉滕', 'song_name': '天使的翅膀', 'time': '3:35'}
+{'index': '353', 'singer': '封茗囧菌', 'song_name': '红昭愿', 'time': '2:52'}
+{'index': '354', 'singer': '陈瑞', 'song_name': '白狐', 'time': '5:09'}
+{'index': '355', 'singer': '白小白', 'song_name': '最后我们没在一起', 'time': '3:19'}
+{'index': '356', 'singer': 'Alan Walker', 'song_name': 'Alone', 'time': '2:41'}
+{'index': '357', 'singer': '汪峰', 'song_name': '儿时 (Live)', 'time': '5:44'}
+{'index': '358', 'singer': '刘欢', 'song_name': '好汉歌', 'time': '3:12'}
+{'index': '359', 'singer': '陈势安', 'song_name': '天后', 'time': '4:49'}
+{'index': '360', 'singer': 'Tiësto、Sevenn', 'song_name': 'BOOM', 'time': '2:34'}
+{'index': '361', 'singer': '李溪芮', 'song_name': '抱着都痛', 'time': '4:15'}
+{'index': '362', 'singer': 'Zedd、Jon Bellion', 'song_name': 'Beautiful Now', 'time': '3:38'}
+{'index': '363', 'singer': '大哲', 'song_name': '闯码头', 'time': '3:37'}
+{'index': '364', 'singer': '陈奕迅', 'song_name': '等你爱我', 'time': '4:44'}
+{'index': '365', 'singer': '刘德华', 'song_name': '一起走过的日子', 'time': '3:56'}
+{'index': '366', 'singer': '吴静', 'song_name': '女儿情', 'time': '4:32'}
+{'index': '367', 'singer': 'Punch、灿烈', 'song_name': 'Stay With Me', 'time': '3:12'}
+{'index': '368', 'singer': '金志文、黑墨', 'song_name': '远走高飞 (Live)', 'time': '5:11'}
+{'index': '369', 'singer': '叶洛洛', 'song_name': '咖喱咖喱', 'time': '2:38'}
+{'index': '370', 'singer': '刀郎', 'song_name': '手心里的温柔', 'time': '4:56'}
+{'index': '371', 'singer': '张学友', 'song_name': '只想一生跟你走', 'time': '5:13'}
+{'index': '372', 'singer': '叶倩文', 'song_name': '潇洒走一回', 'time': '4:10'}
+{'index': '373', 'singer': '夏婉安', 'song_name': '一个人', 'time': '3:14'}
+{'index': '374', 'singer': '冷漠、杨小曼', 'song_name': '我爱你胜过你爱我', 'time': '4:43'}
+{'index': '375', 'singer': '卓依婷', 'song_name': '童年', 'time': '3:07'}
+{'index': '376', 'singer': '白小白', 'song_name': '不甘示弱', 'time': '3:32'}
+{'index': '377', 'singer': '张信哲', 'song_name': '过火 (Live)', 'time': '2:34'}
+{'index': '378', 'singer': '刘德华', 'song_name': '忘情水', 'time': '4:25'}
+{'index': '379', 'singer': '林俊杰', 'song_name': '小酒窝', 'time': '3:37'}
+{'index': '380', 'singer': 'Git Fresh', 'song_name': 'Booty Music', 'time': '3:01'}
+{'index': '381', 'singer': '张二嫂', 'song_name': '他真的比我爱你吗', 'time': '4:26'}
+{'index': '382', 'singer': 'BEYOND', 'song_name': '谁伴我闯荡', 'time': '4:12'}
+{'index': '383', 'singer': '周华健', 'song_name': '难念的经', 'time': '4:48'}
+{'index': '384', 'singer': '冷漠', 'song_name': '伤心城市', 'time': '4:24'}
+{'index': '385', 'singer': 'GAI', 'song_name': '苦行僧 (Live)', 'time': '2:23'}
+{'index': '386', 'singer': '黄渤', 'song_name': '正义之道', 'time': '3:34'}
+{'index': '387', 'singer': '徐薇', 'song_name': '体面', 'time': '4:43'}
+{'index': '388', 'singer': '冷漠、张冬玲', 'song_name': '我在红尘中遇见你', 'time': '4:36'}
+{'index': '389', 'singer': '周华健', 'song_name': '朋友', 'time': '5:11'}
+{'index': '390', 'singer': '伍佰&China Blue', 'song_name': '突然的自我 (Live)', 'time': '3:36'}
+{'index': '391', 'singer': '吴亦凡', 'song_name': 'JULY', 'time': '3:06'}
+{'index': '392', 'singer': '贾玲、刘维', 'song_name': '感觉自己萌萌哒', 'time': '3:46'}
+{'index': '393', 'singer': '张碧晨', 'song_name': '下一秒', 'time': '3:14'}
+{'index': '394', 'singer': '梅艳芳', 'song_name': '女人花', 'time': '4:50'}
+{'index': '395', 'singer': '李玉刚', 'song_name': '新贵妃醉酒', 'time': '4:55'}
+{'index': '396', 'singer': '郑源', 'song_name': '爱情码头', 'time': '5:00'}
+{'index': '397', 'singer': '陶钰玉', 'song_name': '你会爱我到什么时候', 'time': '4:02'}
+{'index': '398', 'singer': '侯旭', 'song_name': '逃', 'time': '3:59'}
+{'index': '399', 'singer': '韩宝仪', 'song_name': '粉红色的回忆', 'time': '3:49'}
+{'index': '400', 'singer': 'BEYOND', 'song_name': '灰色轨迹', 'time': '5:26'}
+{'index': '401', 'singer': '樊竹青', 'song_name': '蓝精灵', 'time': '2:06'}
+{'index': '402', 'singer': '六哲', 'song_name': '让全世界知道我爱你', 'time': '4:22'}
+{'index': '403', 'singer': '动力火车', 'song_name': '当', 'time': '5:00'}
+{'index': '404', 'singer': '杨宗纬', 'song_name': '红尘来去一场梦 (Live)', 'time': '4:10'}
+{'index': '405', 'singer': '吴亦凡', 'song_name': '时间煮雨', 'time': '4:08'}
+{'index': '406', 'singer': '高进、大壮', 'song_name': '本色英雄', 'time': '4:02'}
+{'index': '407', 'singer': '张艺兴', 'song_name': '一个人', 'time': '3:51'}
+{'index': '408', 'singer': '梁静茹', 'song_name': '问 (Live)', 'time': '3:27'}
+{'index': '409', 'singer': 'TFBOYS', 'song_name': '真心话太冒险', 'time': '3:40'}
+{'index': '410', 'singer': '张学友', 'song_name': '一千个伤心的理由', 'time': '4:36'}
+{'index': '411', 'singer': '张震岳', 'song_name': '再见', 'time': '3:03'}
+{'index': '412', 'singer': '孙露', 'song_name': '再度重相逢', 'time': '3:27'}
+{'index': '413', 'singer': '薛之谦', 'song_name': '动物世界', 'time': '3:50'}
+{'index': '414', 'singer': '凤凰传奇', 'song_name': '自由飞翔', 'time': '4:12'}
+{'index': '415', 'singer': '庄心妍', 'song_name': '两个人的回忆一个人过', 'time': '4:27'}
+{'index': '416', 'singer': '回音哥', 'song_name': '海绵宝宝', 'time': '3:28'}
+{'index': '417', 'singer': '云菲菲、冷漠', 'song_name': '这条街', 'time': '3:53'}
+{'index': '418', 'singer': '莫露露', 'song_name': '爱情主演', 'time': '3:59'}
+{'index': '419', 'singer': '邓丽君', 'song_name': '漫步人生路', 'time': '3:44'}
+{'index': '420', 'singer': '菲儿', 'song_name': '太想念', 'time': '3:50'}
+{'index': '421', 'singer': '曹越', 'song_name': '你的眼角流着我的泪', 'time': '4:24'}
+{'index': '422', 'singer': '林志炫', 'song_name': '单身情歌', 'time': '4:37'}
+{'index': '423', 'singer': '阿悄、本兮', 'song_name': '无限速', 'time': '2:51'}
+{'index': '424', 'singer': 'Alan Walker', 'song_name': 'The Spectre', 'time': '3:14'}
+{'index': '425', 'singer': '许嵩', 'song_name': '有何不可', 'time': '3:59'}
+{'index': '426', 'singer': '水木年华', 'song_name': '一生有你', 'time': '4:18'}
+{'index': '427', 'singer': '孙晨', 'song_name': '拜托', 'time': '3:45'}
+{'index': '428', 'singer': '刀郎', 'song_name': '2002年的第一场雪', 'time': '4:14'}
+{'index': '429', 'singer': '庄心妍', 'song_name': '再遇不到你这样的人', 'time': '5:22'}
+{'index': '430', 'singer': '雨露', 'song_name': '下一次相遇', 'time': '4:32'}
+{'index': '431', 'singer': '鹿晗', 'song_name': '超级冠军', 'time': '4:29'}
+{'index': '432', 'singer': '毛不易', 'song_name': '无问', 'time': '4:18'}
+{'index': '433', 'singer': '曾咏欣', 'song_name': '心微痛', 'time': '4:07'}
+{'index': '434', 'singer': '孙露', 'song_name': '想着你亲爱的', 'time': '4:05'}
+{'index': '435', 'singer': 'Alex Goot、Madilyn Bailey', 'song_name': 'Something Just Like This', 'time': '2:59'}
+{'index': '436', 'singer': 'Sainkho Namtchylak', 'song_name': 'Lost Rivers', 'time': '7:18'}
+{'index': '437', 'singer': '冷漠', 'song_name': '没有你陪伴我真的好孤单', 'time': '4:49'}
+{'index': '438', 'singer': 'Gibb-Z', 'song_name': 'My Hot Girl', 'time': '3:53'}
+{'index': '439', 'singer': '汪峰', 'song_name': '普通DISCO (Live)', 'time': '4:06'}
+{'index': '440', 'singer': '陈雪凝', 'song_name': '白山茶', 'time': '4:14'}
+{'index': '441', 'singer': '刀郎', 'song_name': '谢谢你', 'time': '5:56'}
+{'index': '442', 'singer': 'Colbie Caillat', 'song_name': 'Try', 'time': '3:44'}
+{'index': '443', 'singer': '张冬玲', 'song_name': '花开的时候你就来看我', 'time': '3:48'}
+{'index': '444', 'singer': '霍建华、赵丽颖', 'song_name': '不可说', 'time': '3:42'}
+{'index': '445', 'singer': '程响', 'song_name': '新娘不是我', 'time': '4:42'}
+{'index': '446', 'singer': '杨峻荣、范晓萱', 'song_name': '健康歌', 'time': '3:00'}
+{'index': '447', 'singer': '张磊', 'song_name': '文艺少年', 'time': '4:21'}
+{'index': '448', 'singer': '胡一天、赵天宇', 'song_name': '带你去旅行 (Live)', 'time': '2:09'}
+{'index': '449', 'singer': 'BEYOND', 'song_name': '大地', 'time': '4:19'}
+{'index': '450', 'singer': '小曾', 'song_name': '军中绿花', 'time': '4:09'}
+{'index': '451', 'singer': '陈小虎', 'song_name': '可乐', 'time': '3:56'}
+{'index': '452', 'singer': '张韶涵', 'song_name': '梦里花 (Live)', 'time': '4:42'}
+{'index': '453', 'singer': '任贤齐', 'song_name': '伤心太平洋', 'time': '4:26'}
+{'index': '454', 'singer': '毛毛', 'song_name': '奇迹再现', 'time': '3:56'}
+{'index': '455', 'singer': '蔡依林、陶喆', 'song_name': '今天你要嫁给我', 'time': '4:32'}
+{'index': '456', 'singer': '刘思涵', 'song_name': '走在冷风中', 'time': '3:35'}
+{'index': '457', 'singer': 'Bridge', 'song_name': '老大 (Live)', 'time': '1:08'}
+{'index': '458', 'singer': '吉克隽逸', 'song_name': '一生所爱', 'time': '4:02'}
+{'index': '459', 'singer': '刘明湘', 'song_name': '漂洋过海来看你', 'time': '5:01'}
+{'index': '460', 'singer': '赖鸿根', 'song_name': '谈判官', 'time': '4:22'}
+{'index': '461', 'singer': '许哲佩', 'song_name': '气球', 'time': '4:17'}
+{'index': '462', 'singer': '周杰伦', 'song_name': '听妈妈的话', 'time': '4:23'}
+{'index': '463', 'singer': '鹿晗', 'song_name': '让我留在你身边', 'time': '3:02'}
+{'index': '464', 'singer': '晨熙、司徒兰芳', 'song_name': '永远放你在心底', 'time': '3:57'}
+{'index': '465', 'singer': '汪苏泷', 'song_name': '那个男孩', 'time': '3:36'}
+{'index': '466', 'singer': '汤宝如、张学友', 'song_name': '相思风雨中', 'time': '4:10'}
+{'index': '467', 'singer': '谭咏麟', 'song_name': '一生中最爱', 'time': '4:27'}
+{'index': '468', 'singer': '赵雷', 'song_name': '我们的时光', 'time': '4:30'}
+{'index': '469', 'singer': '宋祖英', 'song_name': '好日子', 'time': '2:53'}
+{'index': '470', 'singer': '李玉刚、石头', 'song_name': '雨花石', 'time': '5:32'}
+{'index': '471', 'singer': '陈瑞', 'song_name': '相思的债', 'time': '4:50'}
+{'index': '472', 'singer': '麦小兜、校长', 'song_name': '甜了个蜜', 'time': '3:55'}
+{'index': '473', 'singer': '冯提莫', 'song_name': '凉凉', 'time': '5:36'}
+{'index': '474', 'singer': '杜歌', 'song_name': '兄弟难当', 'time': '4:11'}
+{'index': '475', 'singer': '胡歌', 'song_name': '忘记时间', 'time': '4:25'}
+{'index': '476', 'singer': '叶倩文', 'song_name': '曾经心痛', 'time': '4:41'}
+{'index': '477', 'singer': '张宇', 'song_name': '雨一直下', 'time': '4:49'}
+{'index': '478', 'singer': 'Queen', 'song_name': 'We Will Rock You (我们将击败你)', 'time': '2:03'}
+{'index': '479', 'singer': 'Carpenters', 'song_name': 'Yesterday Once More', 'time': '4:01'}
+{'index': '480', 'singer': 'G-DRAGON', 'song_name': '삐딱하게 (Crooked)', 'time': '3:44'}
+{'index': '481', 'singer': '卓依婷', 'song_name': '生日快乐', 'time': '2:02'}
+{'index': '482', 'singer': '门丽', 'song_name': '美美哒', 'time': '3:38'}
+{'index': '483', 'singer': '张宇', 'song_name': '月亮惹的祸', 'time': '4:19'}
+{'index': '484', 'singer': '陈奕迅、王菲', 'song_name': '因为爱情', 'time': '3:37'}
+{'index': '485', 'singer': '张碧晨', 'song_name': '不要忘记我爱你', 'time': '3:45'}
+{'index': '486', 'singer': '程响', 'song_name': '不再联系', 'time': '3:56'}
+{'index': '487', 'singer': '王菲', 'song_name': '匆匆那年', 'time': '4:03'}
+{'index': '488', 'singer': '李圣杰', 'song_name': '痴心绝对', 'time': '4:22'}
+{'index': '489', 'singer': 'G.E.M.邓紫棋', 'song_name': '夜空中最亮的星', 'time': '3:52'}
+{'index': '490', 'singer': '汪苏泷', 'song_name': '不分手的恋爱', 'time': '3:25'}
+{'index': '491', 'singer': '邓丽君', 'song_name': '甜蜜蜜', 'time': '3:29'}
+{'index': '492', 'singer': '李思琳', 'song_name': '三个和尚', 'time': '3:50'}
+{'index': '493', 'singer': '庄心妍', 'song_name': '好可惜', 'time': '5:15'}
+{'index': '494', 'singer': '罗文、甄妮', 'song_name': '铁血丹心', 'time': '2:57'}
+{'index': '495', 'singer': '冰冰超人', 'song_name': '八年的爱', 'time': '3:12'}
+{'index': '496', 'singer': '南宫嘉骏', 'song_name': '回忆总想哭', 'time': '4:50'}
+{'index': '497', 'singer': '光良', 'song_name': '童话', 'time': '4:04'}
+{'index': '498', 'singer': 'Cash Cash、Sofia Reyes', 'song_name': 'How To Love', 'time': '3:38'}
+{'index': '499', 'singer': '薛之谦', 'song_name': '我好像在哪见过你', 'time': '4:39'}
+{'index': '500', 'singer': '蒋蒋', 'song_name': '残雪', 'time': '3:59'}
+{'index': '1', 'singer': '于文文', 'song_name': '体面', 'time': '4:42'}
+{'index': '2', 'singer': '袁娅维', 'song_name': '说散就散', 'time': '4:02'}
+{'index': '3', 'singer': '新乐尘符', 'song_name': '123我爱你', 'time': '3:19'}
+{'index': '4', 'singer': '鞠文娴', 'song_name': 'BINGBIAN病变 (女声版)', 'time': '4:07'}
+{'index': '5', 'singer': '胡66', 'song_name': '空空如也', 'time': '3:31'}
+{'index': '6', 'singer': '广东雨神', 'song_name': '广东爱情故事', 'time': '3:34'}
+{'index': '7', 'singer': '大壮', 'song_name': '我们不一样', 'time': '4:31'}
+{'index': '8', 'singer': '张北北', 'song_name': '拥抱你离去', 'time': '4:02'}
+{'index': '9', 'singer': '买辣椒也用券', 'song_name': '起风了', 'time': '5:24'}
+{'index': '10', 'singer': 'ラムジ', 'song_name': 'PLANET', 'time': '4:08'}
+{'index': '11', 'singer': '杨宗纬、张碧晨', 'song_name': '凉凉', 'time': '5:33'}
+{'index': '12', 'singer': '校长', 'song_name': '带你去旅行', 'time': '3:46'}
+{'index': '13', 'singer': '大壮', 'song_name': '差一步', 'time': '4:05'}
+{'index': '14', 'singer': '麦小兜', 'song_name': '9420', 'time': '3:49'}
+{'index': '15', 'singer': '金志文、徐佳莹', 'song_name': '远走高飞', 'time': '3:55'}
+{'index': '16', 'singer': '岑宁儿', 'song_name': '追光者', 'time': '3:55'}
+{'index': '17', 'singer': '徐秉龙、沈以诚', 'song_name': '白羊', 'time': '2:48'}
+{'index': '18', 'singer': '胡66', 'song_name': '不必说抱歉', 'time': '4:03'}
+{'index': '19', 'singer': '安苏羽', 'song_name': '缺氧', 'time': '4:31'}
+{'index': '20', 'singer': '华语群星', 'song_name': '少林英雄', 'time': '3:00'}
+{'index': '21', 'singer': '李玉刚', 'song_name': '刚好遇见你', 'time': '3:19'}
+{'index': '22', 'singer': '音阙诗听', 'song_name': '红昭愿', 'time': '2:53'}
+{'index': '23', 'singer': '筷子兄弟', 'song_name': '小苹果', 'time': '3:31'}
+{'index': '24', 'singer': 'Matteo', 'song_name': 'Panama', 'time': '3:20'}
+{'index': '25', 'singer': '赵雷', 'song_name': '成都', 'time': '5:28'}
+{'index': '26', 'singer': '青蛙', 'song_name': '小跳蛙', 'time': '2:28'}
+{'index': '27', 'singer': '毛不易', 'song_name': '消愁 (Live)', 'time': '2:59'}
+{'index': '28', 'singer': '罗之豪', 'song_name': 'BINGBIAN病变', 'time': '4:03'}
+{'index': '29', 'singer': '周笔畅', 'song_name': '最美的期待', 'time': '3:30'}
+{'index': '30', 'singer': 'Alan Walker', 'song_name': 'Faded', 'time': '3:33'}
+{'index': '31', 'singer': 'The Chainsmokers、Coldplay', 'song_name': 'Something Just Like This', 'time': '4:07'}
+{'index': '32', 'singer': 'CG', 'song_name': '文爱', 'time': '3:20'}
+{'index': '33', 'singer': 'Dragon Pig、CLOUD WANG、CNBALLER', 'song_name': '全部都是你', 'time': '3:24'}
+{'index': '34', 'singer': '毛不易', 'song_name': '像我这样的人 (Live)', 'time': '2:51'}
+{'index': '35', 'singer': 'PRC 巴音汗', 'song_name': '80000 ! (prod.by DROCY原声版)', 'time': '1:48'}
+{'index': '36', 'singer': '可泽、夏凌兮', 'song_name': '樱花树下的约定 (原版)', 'time': '3:32'}
+{'index': '37', 'singer': '张宇', 'song_name': '给你们', 'time': '4:47'}
+{'index': '38', 'singer': '南宫嘉骏、彭清', 'song_name': '回忆总想哭', 'time': '4:53'}
+{'index': '39', 'singer': '蒋蒋、杨清柠', 'song_name': '小公主', 'time': '3:11'}
+{'index': '40', 'singer': '白小白', 'song_name': '最美情侣', 'time': '4:02'}
+{'index': '41', 'singer': '周杰伦', 'song_name': '告白气球', 'time': '3:36'}
+{'index': '42', 'singer': '白小白、球球', 'song_name': '宠爱吖', 'time': '3:37'}
+{'index': '43', 'singer': '姜玉阳、南宫嘉骏', 'song_name': '回忆总想哭', 'time': '4:52'}
+{'index': '44', 'singer': 'Бамбинтон', 'song_name': 'Зая', 'time': '3:40'}
+{'index': '45', 'singer': '王建房', 'song_name': '在人间', 'time': '3:54'}
+{'index': '46', 'singer': '秋裤大叔', 'song_name': '一晃就老了', 'time': '4:15'}
+{'index': '47', 'singer': '周杰伦', 'song_name': '等你下课 (with 杨瑞代)', 'time': '4:30'}
+{'index': '48', 'singer': '林俊杰', 'song_name': '醉赤壁', 'time': '4:41'}
+{'index': '49', 'singer': '庄心妍', 'song_name': '再见只是陌生人', 'time': '4:12'}
+{'index': '50', 'singer': '张杰', 'song_name': '三生三世', 'time': '4:17'}
+{'index': '51', 'singer': '汪苏泷、By2', 'song_name': '有点甜', 'time': '3:55'}
+{'index': '52', 'singer': '金志文', 'song_name': '远走高飞', 'time': '4:01'}
+{'index': '53', 'singer': '大哲', 'song_name': '三十出头', 'time': '3:23'}
+{'index': '54', 'singer': '彭筝', 'song_name': '太想念', 'time': '3:50'}
+{'index': '55', 'singer': 'Tez Cadey', 'song_name': 'Seve (Radio Edit)', 'time': '3:30'}
+{'index': '56', 'singer': '赵方婧', 'song_name': '尽头', 'time': '4:16'}
+{'index': '57', 'singer': 'TFBOYS', 'song_name': '青春修炼手册', 'time': '4:23'}
+{'index': '58', 'singer': '薛之谦', 'song_name': '演员', 'time': '4:21'}
+{'index': '59', 'singer': '云菲菲', 'song_name': '殇雪', 'time': '4:44'}
+{'index': '60', 'singer': '纳兰珠儿、高安', 'song_name': '花桥流水', 'time': '3:34'}
+{'index': '61', 'singer': '杨清柠、王乐乐', 'song_name': '我们', 'time': '3:40'}
+{'index': '62', 'singer': '陈一发儿', 'song_name': '童话镇', 'time': '4:17'}
+{'index': '63', 'singer': '旭日阳刚刘刚', 'song_name': '怀念青春', 'time': '4:28'}
+{'index': '64', 'singer': '王乐乐', 'song_name': '雨后人去楼也空', 'time': '3:08'}
+{'index': '65', 'singer': '吴亦凡、赵丽颖', 'song_name': '想你', 'time': '4:04'}
+{'index': '66', 'singer': 'BEYOND', 'song_name': '海阔天空', 'time': '5:22'}
+{'index': '67', 'singer': '张杰', 'song_name': '逆战', 'time': '3:49'}
+{'index': '68', 'singer': 'JC', 'song_name': '说散就散', 'time': '3:51'}
+{'index': '69', 'singer': '华晨宇', 'song_name': '齐天 (Live)', 'time': '4:49'}
+{'index': '70', 'singer': '叶炫清', 'song_name': '九张机', 'time': '3:40'}
+{'index': '71', 'singer': 'TFBOYS', 'song_name': '加油!AMIGO', 'time': '4:24'}
+{'index': '72', 'singer': 'TFBOYS', 'song_name': '大梦想家', 'time': '3:46'}
+{'index': '73', 'singer': '尚钰淞', 'song_name': '起风了', 'time': '4:23'}
+{'index': '74', 'singer': '金南玲', 'song_name': '逆流成河', 'time': '2:05'}
+{'index': '75', 'singer': '贾乃亮、贾云馨', 'song_name': '大王叫我来巡山', 'time': '3:41'}
+{'index': '76', 'singer': 'TFBOYS', 'song_name': '宠爱', 'time': '4:26'}
+{'index': '77', 'singer': 'Joel Adams', 'song_name': "Please Don't Go", 'time': '3:31'}
+{'index': '78', 'singer': 'BEYOND', 'song_name': '光辉岁月', 'time': '5:01'}
+{'index': '79', 'singer': '薛之谦', 'song_name': '丑八怪', 'time': '4:13'}
+{'index': '80', 'singer': 'Ed Sheeran', 'song_name': 'Shape of You', 'time': '3:53'}
+{'index': '81', 'singer': '冯提莫', 'song_name': '说散就散', 'time': '3:50'}
+{'index': '82', 'singer': '蒋龙', 'song_name': '行者', 'time': '3:02'}
+{'index': '83', 'singer': 'Luis Fonsi、Daddy Yankee、Justin Bieber', 'song_name': 'Despacito (Remix)', 'time': '3:48'}
+{'index': '84', 'singer': '阿涵', 'song_name': '过客', 'time': '4:30'}
+{'index': '85', 'singer': '张韶涵', 'song_name': '阿刁 (Live)', 'time': '5:21'}
+{'index': '86', 'singer': '王欣宇', 'song_name': '心愿便利贴', 'time': '2:57'}
+{'index': '87', 'singer': '张杰', 'song_name': 'Precious', 'time': '3:43'}
+{'index': '88', 'singer': '张艺兴', 'song_name': '羊 (SHEEP)', 'time': '3:25'}
+{'index': '89', 'singer': '刘佳', 'song_name': '爱的就是你', 'time': '4:33'}
+{'index': '90', 'singer': '鹿晗', 'song_name': '致爱 Your Song', 'time': '3:11'}
+{'index': '91', 'singer': '筷子兄弟', 'song_name': '父亲', 'time': '5:01'}
+{'index': '92', 'singer': '高安、黑鸭子', 'song_name': '红尘情歌', 'time': '3:29'}
+{'index': '93', 'singer': '花姐', 'song_name': '等一分钟 (Live)', 'time': '2:17'}
+{'index': '94', 'singer': '梦然', 'song_name': '没有你陪伴真的好孤单', 'time': '1:03'}
+{'index': '95', 'singer': '林志颖、郭涛、Kimi、张亮、张悦轩、王岳伦、郭子睿、王诗龄', 'song_name': '...', 'time': '4:35'}
+{'index': '96', 'singer': '李荣浩', 'song_name': '李白', 'time': '4:33'}
+{'index': '97', 'singer': '刀郎', 'song_name': '西海情歌', 'time': '5:43'}
+{'index': '98', 'singer': '刘若英', 'song_name': '后来', 'time': '5:41'}
+{'index': '99', 'singer': '田馥甄', 'song_name': '小幸运', 'time': '4:25'}
+{'index': '100', 'singer': '王丽坤、朱亚文', 'song_name': '漂洋过海来看你', 'time': '4:40'}
+{'index': '101', 'singer': '阿冷', 'song_name': '春风吹', 'time': '2:05'}
+{'index': '102', 'singer': '庄心妍', 'song_name': '放过自己', 'time': '4:09'}
+{'index': '103', 'singer': 'Cubi、江澈、Younglife', 'song_name': 'BINGBIAN病变', 'time': '4:02'}
+{'index': '104', 'singer': '齐晨', 'song_name': '咱们结婚吧', 'time': '3:48'}
+{'index': '105', 'singer': '周杰伦', 'song_name': '青花瓷', 'time': '3:57'}
+{'index': '106', 'singer': '庄心妍', 'song_name': '走着走着就散了', 'time': '4:28'}
+{'index': '107', 'singer': '赵鑫', 'song_name': '许多年以后', 'time': '5:12'}
+{'index': '108', 'singer': '黑龙', 'song_name': '盗心贼', 'time': '3:34'}
+{'index': '109', 'singer': '你样哥', 'song_name': '平底锅吃鸡摇', 'time': '3:30'}
+{'index': '110', 'singer': '尢枫', 'song_name': '123我爱你', 'time': '3:19'}
+{'index': '111', 'singer': 'BEYOND', 'song_name': '真的爱你', 'time': '4:38'}
+{'index': '112', 'singer': '周延英(英子-effie)', 'song_name': '那个人', 'time': '4:39'}
+{'index': '113', 'singer': '萧全', 'song_name': '社会摇', 'time': '4:09'}
+{'index': '114', 'singer': 'TFBOYS', 'song_name': '我们的时光', 'time': '3:50'}
+{'index': '115', 'singer': '苏勒亚其其格', 'song_name': '歌在飞', 'time': '4:04'}
+{'index': '116', 'singer': '鹿晗', 'song_name': '追梦赤子心', 'time': '4:56'}
+{'index': '117', 'singer': '刘德华', 'song_name': '恭喜发财', 'time': '3:22'}
+{'index': '118', 'singer': 'G.E.M.邓紫棋', 'song_name': '喜欢你', 'time': '3:59'}
+{'index': '119', 'singer': '王奕心', 'song_name': '我的唇吻不到我爱的人', 'time': '4:39'}
+{'index': '120', 'singer': 'Tungevaag & Raaban', 'song_name': 'Samsara', 'time': '3:31'}
+{'index': '121', 'singer': '刘佳、十二星宿 风之少年', 'song_name': '爱的就是你', 'time': '3:53'}
+{'index': '122', 'singer': '容祖儿', 'song_name': '这种天真', 'time': '5:12'}
+{'index': '123', 'singer': '李翊君', 'song_name': '雨蝶', 'time': '3:52'}
+{'index': '124', 'singer': '张杰', 'song_name': '我们都一样 (Live)', 'time': '5:04'}
+{'index': '125', 'singer': 'Ryan.B of CNBALLER、AY杨佬叁', 'song_name': '再也没有', 'time': '3:32'}
+{'index': '126', 'singer': '汪苏泷', 'song_name': '一笑倾城', 'time': '3:51'}
+{'index': '127', 'singer': '鹿晗', 'song_name': '勋章', 'time': '3:33'}
+{'index': '128', 'singer': '郑源', 'song_name': '包容', 'time': '4:23'}
+{'index': '129', 'singer': 'RADWIMPS', 'song_name': 'スパークル (Movie ver.)', 'time': '8:54'}
+{'index': '130', 'singer': '朴树', 'song_name': '平凡之路', 'time': '5:02'}
+{'index': '131', 'singer': '蒋蒋', 'song_name': '退', 'time': '4:01'}
+{'index': '132', 'singer': 'Wiz Khalifa、Charlie Puth', 'song_name': 'See You Again', 'time': '3:49'}
+{'index': '133', 'singer': '贝瓦儿歌', 'song_name': '拍手歌', 'time': '2:59'}
+{'index': '134', 'singer': 'TFBOYS', 'song_name': '躲猫猫', 'time': '3:09'}
+{'index': '135', 'singer': '贺敬轩', 'song_name': '罗曼蒂克的爱情', 'time': '3:29'}
+{'index': '136', 'singer': '陶喆', 'song_name': '就是爱你', 'time': '4:22'}
+{'index': '137', 'singer': '薛之谦', 'song_name': '认真的雪', 'time': '4:18'}
+{'index': '138', 'singer': '熊梓淇', 'song_name': '说爱你', 'time': '3:35'}
+{'index': '139', 'singer': '蒋雪儿', 'song_name': '爱河', 'time': '3:38'}
+{'index': '140', 'singer': '刘珂矣', 'song_name': '风筝误', 'time': '3:58'}
+{'index': '141', 'singer': '冯提莫', 'song_name': '再见前任', 'time': '3:20'}
+{'index': '142', 'singer': '王雪晶', 'song_name': '拔萝卜', 'time': '1:37'}
+{'index': '143', 'singer': '徐誉滕', 'song_name': '等一分钟', 'time': '3:56'}
+{'index': '144', 'singer': '陈雅森', 'song_name': '我的快乐就是想你', 'time': '5:05'}
+{'index': '145', 'singer': '陆树铭', 'song_name': '一壶老酒', 'time': '4:20'}
+{'index': '146', 'singer': '刘珂矣', 'song_name': '半壶纱', 'time': '3:42'}
+{'index': '147', 'singer': '简弘亦', 'song_name': '体面', 'time': '4:39'}
+{'index': '148', 'singer': 'Idina Menzel', 'song_name': 'Let It Go', 'time': '3:44'}
+{'index': '149', 'singer': '巧千金', 'song_name': '小毛驴', 'time': '2:02'}
+{'index': '150', 'singer': '双笙', 'song_name': '我的一个道姑朋友', 'time': '5:14'}
+{'index': '151', 'singer': '王宝与正午阳光', 'song_name': '儿子 我是你爸爸 (Demo版)', 'time': '1:56'}
+{'index': '152', 'singer': 'KT、Chiu Chiu', 'song_name': '7538 (Me U-Remix)', 'time': '3:30'}
+{'index': '153', 'singer': 'TFBOYS', 'song_name': '魔法城堡', 'time': '4:17'}
+{'index': '154', 'singer': '薛明媛、朱贺', 'song_name': '非酋', 'time': '2:52'}
+{'index': '155', 'singer': '陈奕迅', 'song_name': '十年', 'time': '3:22'}
+{'index': '156', 'singer': '薛之谦', 'song_name': '你还要我怎样', 'time': '5:10'}
+{'index': '157', 'singer': '降央卓玛', 'song_name': '西海情歌', 'time': '5:02'}
+{'index': '158', 'singer': '曾缔', 'song_name': '还是爱了', 'time': '3:52'}
+{'index': '159', 'singer': '任然', 'song_name': '空空如也', 'time': '3:33'}
+{'index': '160', 'singer': '凤凰传奇', 'song_name': '最炫民族风', 'time': '4:45'}
+{'index': '161', 'singer': '薛之谦', 'song_name': '天后 (Live)', 'time': '4:07'}
+{'index': '162', 'singer': 'Justin Bieber、Ludacris', 'song_name': 'Baby', 'time': '3:34'}
+{'index': '163', 'singer': '汪苏泷', 'song_name': '小星星', 'time': '3:16'}
+{'index': '164', 'singer': '易烊千玺', 'song_name': '离骚', 'time': '4:26'}
+{'index': '165', 'singer': '赵天宇、周震南', 'song_name': '吸引力法则', 'time': '4:20'}
+{'index': '166', 'singer': '正云、少薇', 'song_name': '下定决心忘记你', 'time': '3:42'}
+{'index': '167', 'singer': '杨清柠', 'song_name': '四年半', 'time': '3:49'}
+{'index': '168', 'singer': '汪苏泷', 'song_name': '追光者 (Live)', 'time': '4:09'}
+{'index': '169', 'singer': 'DAISHI DANCE、Cecile Corbel', 'song_name': 'Take Me Hand', 'time': '4:19'}
+{'index': '170', 'singer': '华晨宇', 'song_name': '智商二五零', 'time': '3:33'}
+{'index': '171', 'singer': '周传雄', 'song_name': '黄昏', 'time': '5:44'}
+{'index': '172', 'singer': '冷漠、杨小曼', 'song_name': '爱如星火', 'time': '4:20'}
+{'index': '173', 'singer': '南征北战NZBZ', 'song_name': '我的天空', 'time': '3:54'}
+{'index': '174', 'singer': 'TFBOYS', 'song_name': '是你', 'time': '3:51'}
+{'index': '175', 'singer': '李晓杰', 'song_name': '把酒倒满', 'time': '4:26'}
+{'index': '176', 'singer': 'Luis Fonsi', 'song_name': 'Despacito (Versión Pop)', 'time': '3:49'}
+{'index': '177', 'singer': '杨洋', 'song_name': '微微一笑很倾城', 'time': '3:25'}
+{'index': '178', 'singer': '段丽阳', 'song_name': '爸爸妈妈听我说', 'time': '3:27'}
+{'index': '179', 'singer': '陈慧娴', 'song_name': '千千阕歌', 'time': '5:00'}
+{'index': '180', 'singer': '唐古', 'song_name': '你的过去我不介意', 'time': '4:04'}
+{'index': '181', 'singer': '庄心妍', 'song_name': '以后的以后', 'time': '4:58'}
+{'index': '182', 'singer': '周杰伦', 'song_name': '稻香', 'time': '3:43'}
+{'index': '183', 'singer': '冷漠、杨小曼', 'song_name': '心锁', 'time': '4:16'}
+{'index': '184', 'singer': '邓丽君', 'song_name': '我只在乎你', 'time': '4:16'}
+{'index': '185', 'singer': '刘大美人', 'song_name': '你是我爱的人', 'time': '4:00'}
+{'index': '186', 'singer': '王童语', 'song_name': '丫头', 'time': '5:32'}
+{'index': '187', 'singer': '薛之谦', 'song_name': '意外', 'time': '4:47'}
+{'index': '188', 'singer': '许巍', 'song_name': '曾经的你', 'time': '4:23'}
+{'index': '189', 'singer': '车继铃', 'song_name': '最远的你是我最近的爱', 'time': '4:12'}
+{'index': '190', 'singer': '金莎', 'song_name': '爱的魔法', 'time': '3:11'}
+{'index': '191', 'singer': '王冕', 'song_name': '勉为其难', 'time': '4:09'}
+{'index': '192', 'singer': '白鹿', 'song_name': '凤囚凰', 'time': '5:03'}
+{'index': '193', 'singer': '胡彦斌', 'song_name': '你要的全拿走', 'time': '4:59'}
+{'index': '194', 'singer': 'Vicetone、Cozi Zuehlsdorff', 'song_name': 'Nevada', 'time': '3:28'}
+{'index': '195', 'singer': '林俊杰', 'song_name': '当你', 'time': '4:09'}
+{'index': '196', 'singer': '祖海', 'song_name': '好运来', 'time': '3:34'}
+{'index': '197', 'singer': '巧千金', 'song_name': '小宝贝', 'time': '2:31'}
+{'index': '198', 'singer': '董真', 'song_name': '繁花', 'time': '3:45'}
+{'index': '199', 'singer': 'BEYOND', 'song_name': '不再犹豫', 'time': '4:12'}
+{'index': '200', 'singer': '薛之谦', 'song_name': '绅士', 'time': '4:51'}
+{'index': '201', 'singer': '蜘向镜ALine', 'song_name': 'PLANET', 'time': '4:08'}
+{'index': '202', 'singer': 'K.D', 'song_name': 'BINGBIAN病变', 'time': '4:00'}
+{'index': '203', 'singer': '卢冠廷、莫文蔚', 'song_name': '一生所爱', 'time': '4:34'}
+{'index': '204', 'singer': '麦小兜', 'song_name': '心愿便利贴', 'time': '4:17'}
+{'index': '205', 'singer': '薛之谦', 'song_name': '刚刚好', 'time': '4:11'}
+{'index': '206', 'singer': '范晓萱', 'song_name': '我爱洗澡', 'time': '2:50'}
+{'index': '207', 'singer': '杨沛宜', 'song_name': '左手右手', 'time': '2:41'}
+{'index': '208', 'singer': '刀郎', 'song_name': '冲动的惩罚', 'time': '7:50'}
+{'index': '209', 'singer': '薛之谦', 'song_name': '狐狸', 'time': '3:54'}
+{'index': '210', 'singer': '毛宁、杨钰莹', 'song_name': '心雨', 'time': '4:36'}
+{'index': '211', 'singer': 'TFBOYS', 'song_name': '萤火', 'time': '4:12'}
+{'index': '212', 'singer': '大哲', 'song_name': '下定决心忘记你', 'time': '3:43'}
+{'index': '213', 'singer': '逃跑计划', 'song_name': '夜空中最亮的星', 'time': '4:12'}
+{'index': '214', 'singer': 'RADWIMPS', 'song_name': 'ぜんぜんぜんせ', 'time': '4:45'}
+{'index': '215', 'singer': 'KOGIRLS', 'song_name': '微笑糖果', 'time': '3:56'}
+{'index': '216', 'singer': '林忆莲', 'song_name': '至少还有你', 'time': '4:34'}
+{'index': '217', 'singer': '洛天依', 'song_name': '东京不太热', 'time': '4:04'}
+{'index': '218', 'singer': '魏新雨', 'song_name': '恋人心', 'time': '3:28'}
+{'index': '219', 'singer': '李朝、王圣锋', 'song_name': '情话微甜', 'time': '3:28'}
+{'index': '220', 'singer': '熊梓淇、李溪芮', 'song_name': '不是冲动', 'time': '4:27'}
+{'index': '221', 'singer': 'TFBOYS', 'song_name': '不完美小孩', 'time': '4:20'}
+{'index': '222', 'singer': '黑龙', 'song_name': '感谢', 'time': '4:18'}
+{'index': '223', 'singer': '李少白', 'song_name': '山楂树之恋', 'time': '3:04'}
+{'index': '224', 'singer': '卓依婷', 'song_name': '恭喜发财', 'time': '3:20'}
+{'index': '225', 'singer': '夏天播放', 'song_name': '小宝贝', 'time': '3:12'}
+{'index': '226', 'singer': 'Michael Learns to Rock', 'song_name': 'Take Me To Your Heart', 'time': '3:58'}
+{'index': '227', 'singer': 'LAMPHO', 'song_name': '短发', 'time': '3:12'}
+{'index': '228', 'singer': 'Selena Gomez、Charlie Puth', 'song_name': "We Don't Talk Anymore", 'time': '3:37'}
+{'index': '229', 'singer': '张学友', 'song_name': '吻别 (国)', 'time': '4:59'}
+{'index': '230', 'singer': '暖暖笑', 'song_name': '起风了', 'time': '3:56'}
+{'index': '231', 'singer': '前小白', 'song_name': '广东爱情故事', 'time': '3:26'}
+{'index': '232', 'singer': '葛林', 'song_name': '林中鸟', 'time': '3:52'}
+{'index': '233', 'singer': '赵丽颖、张碧晨', 'song_name': '望', 'time': '4:15'}
+{'index': '234', 'singer': '凤凰传奇', 'song_name': '拜新年', 'time': '3:38'}
+{'index': '235', 'singer': 'Meghan Trainor', 'song_name': 'Me Too', 'time': '3:01'}
+{'index': '236', 'singer': '陈百强', 'song_name': '偏偏喜欢你', 'time': '3:32'}
+{'index': '237', 'singer': '杨烁', 'song_name': '小兔子乖乖', 'time': '1:57'}
+{'index': '238', 'singer': '王杰', 'song_name': '不浪漫罪名', 'time': '4:47'}
+{'index': '239', 'singer': '卢焱', 'song_name': '流浪', 'time': '3:21'}
+{'index': '240', 'singer': 'Maroon 5', 'song_name': 'Sugar', 'time': '3:55'}
+{'index': '241', 'singer': '祁隆、乐凡', 'song_name': '等你等了那么久', 'time': '5:06'}
+{'index': '242', 'singer': 'Unlike Pluto、Joanna Jones', 'song_name': 'Wannabe (Spice Girls Cover)', 'time': '3:39'}
+{'index': '243', 'singer': '神马乐团', 'song_name': '爱河', 'time': '5:12'}
+{'index': '244', 'singer': '小虎队', 'song_name': '爱', 'time': '4:31'}
+{'index': '245', 'singer': '门丽、龙飞', 'song_name': '亲爱的你在哪里', 'time': '4:01'}
+{'index': '246', 'singer': '艾福杰尼、黄旭、田羽生', 'song_name': '说散就散', 'time': '3:51'}
+{'index': '247', 'singer': '谭咏麟', 'song_name': '讲不出再见', 'time': '4:52'}
+{'index': '248', 'singer': 'Fly Project', 'song_name': 'Toca Toca (Radio Edit)', 'time': '2:44'}
+{'index': '249', 'singer': '张雨生', 'song_name': '大海', 'time': '4:35'}
+{'index': '250', 'singer': '降央卓玛', 'song_name': '走天涯', 'time': '4:30'}
+{'index': '251', 'singer': '周华健', 'song_name': '风雨无阻', 'time': '4:33'}
+{'index': '252', 'singer': '杨烁', 'song_name': '小燕子', 'time': '2:58'}
+{'index': '253', 'singer': '张韶涵', 'song_name': '隐形的翅膀', 'time': '3:44'}
+{'index': '254', 'singer': '田馥甄', 'song_name': '你就不要想起我', 'time': '4:40'}
+{'index': '255', 'singer': '韩安旭', 'song_name': '多幸运', 'time': '4:09'}
+{'index': '256', 'singer': '萧全', 'song_name': '海草舞', 'time': '4:37'}
+{'index': '257', 'singer': '张芸京', 'song_name': '偏爱', 'time': '3:32'}
+{'index': '258', 'singer': '高安', 'song_name': '你不来我不老', 'time': '4:47'}
+{'index': '259', 'singer': 'Owl City、Carly Rae Jepsen', 'song_name': 'Good Time', 'time': '3:26'}
+{'index': '260', 'singer': 'BIGBANG', 'song_name': 'FANTASTIC BABY', 'time': '3:52'}
+{'index': '261', 'singer': '刘辰希', 'song_name': '专属情歌', 'time': '4:35'}
+{'index': '262', 'singer': 'Miley Cyrus', 'song_name': "We Can't Stop", 'time': '3:52'}
+{'index': '263', 'singer': 'Chris Medina', 'song_name': 'What Are Words', 'time': '3:07'}
+{'index': '264', 'singer': '戴荃', 'song_name': '悟空 (Live)', 'time': '3:20'}
+{'index': '265', 'singer': 'Barbie', 'song_name': 'Good Time', 'time': '3:53'}
+{'index': '266', 'singer': '许歌淳一', 'song_name': '偶像练习生', 'time': '3:03'}
+{'index': '267', 'singer': '刘增瞳', 'song_name': '多想留在你身边', 'time': '3:32'}
+{'index': '268', 'singer': '刘德华', 'song_name': '来生缘', 'time': '3:56'}
+{'index': '269', 'singer': '花姐', 'song_name': '最远的你是我最近的爱', 'time': '4:51'}
+{'index': '270', 'singer': '薛之谦', 'song_name': '暧昧', 'time': '5:12'}
+{'index': '271', 'singer': '梁博', 'song_name': '男孩 (Live)', 'time': '5:11'}
+{'index': '272', 'singer': '易烊千玺', 'song_name': 'Nothing To Lose', 'time': '2:37'}
+{'index': '273', 'singer': '张杰', 'song_name': '星星 (Live)', 'time': '4:32'}
+{'index': '274', 'singer': '杨烁', 'song_name': '虫儿飞', 'time': '2:42'}
+{'index': '275', 'singer': '周杰伦', 'song_name': '晴天', 'time': '4:29'}
+{'index': '276', 'singer': '冯提莫', 'song_name': '远走高飞', 'time': '4:01'}
+{'index': '277', 'singer': '杨烁', 'song_name': '两只老虎', 'time': '1:12'}
+{'index': '278', 'singer': 'Adele', 'song_name': 'Hello', 'time': '4:55'}
+{'index': '279', 'singer': '张津涤', 'song_name': '女人没有错', 'time': '3:20'}
+{'index': '280', 'singer': '许巍', 'song_name': '蓝莲花', 'time': '4:30'}
+{'index': '281', 'singer': '郑智化', 'song_name': '水手', 'time': '4:59'}
+{'index': '282', 'singer': '卓依婷', 'song_name': '明天会更好', 'time': '4:40'}
+{'index': '283', 'singer': '黄龄', 'song_name': '痒', 'time': '3:48'}
+{'index': '284', 'singer': '孙燕姿', 'song_name': '遇见', 'time': '3:29'}
+{'index': '285', 'singer': '李荣浩', 'song_name': '后羿', 'time': '3:25'}
+{'index': '286', 'singer': 'Jam', 'song_name': '七月上', 'time': '3:10'}
+{'index': '287', 'singer': 'BIGBANG', 'song_name': 'BANG BANG BANG (뱅뱅뱅) (Korean Ver.)', 'time': '3:40'}
+{'index': '288', 'singer': '姜鹏', 'song_name': '兄弟想你了', 'time': '3:45'}
+{'index': '289', 'singer': '蒙面哥', 'song_name': '一亿个伤心', 'time': '4:24'}
+{'index': '290', 'singer': '张碧晨', 'song_name': '年轮', 'time': '4:34'}
+{'index': '291', 'singer': '李克勤', 'song_name': '红日', 'time': '4:47'}
+{'index': '292', 'singer': '毛不易', 'song_name': '说散就散', 'time': '1:29'}
+{'index': '293', 'singer': 'Michael Jackson', 'song_name': 'Beat It (Single Version)', 'time': '4:18'}
+{'index': '294', 'singer': '高进、小沈阳', 'song_name': '我的好兄弟', 'time': '4:37'}
+{'index': '295', 'singer': '草蜢', 'song_name': '失恋阵线联盟', 'time': '2:52'}
+{'index': '296', 'singer': '门丽', 'song_name': '死心塌地去爱你', 'time': '3:39'}
+{'index': '297', 'singer': '陈小云', 'song_name': '爱情的骗子我问你 (重制版)', 'time': '4:29'}
+{'index': '298', 'singer': '庞龙', 'song_name': '兄弟抱一下', 'time': '4:25'}
+{'index': '299', 'singer': '云朵', 'song_name': '我的楼兰', 'time': '5:27'}
+{'index': '300', 'singer': '薛之谦、毛不易', 'song_name': '消愁 (Live)', 'time': '2:53'}
+{'index': '301', 'singer': '杨宗纬', 'song_name': '一次就好', 'time': '4:26'}
+{'index': '302', 'singer': '罗大佑', 'song_name': '恋曲1990', 'time': '5:14'}
+{'index': '303', 'singer': '费玉清', 'song_name': '一剪梅', 'time': '3:46'}
+{'index': '304', 'singer': '高胜美', 'song_name': '千年等一回', 'time': '3:36'}
+{'index': '305', 'singer': '小峰峰', 'song_name': '足够', 'time': '1:49'}
+{'index': '306', 'singer': '林俊杰', 'song_name': '曹操', 'time': '4:04'}
+{'index': '307', 'singer': '薛之谦', 'song_name': '像风一样', 'time': '4:15'}
+{'index': '308', 'singer': '李晓东', 'song_name': '消愁 (Live)', 'time': '5:30'}
+{'index': '309', 'singer': '林俊杰', 'song_name': '可惜没如果', 'time': '4:58'}
+{'index': '310', 'singer': '王俊凯', 'song_name': '树读', 'time': '3:56'}
+{'index': '311', 'singer': '李克勤', 'song_name': '月半小夜曲', 'time': '4:53'}
+{'index': '312', 'singer': '张靓颖', 'song_name': '我的梦', 'time': '3:39'}
+{'index': '313', 'singer': '蔡徐坤', 'song_name': 'I Wanna Get Love', 'time': '3:14'}
+{'index': '314', 'singer': '张杰', 'song_name': '着魔', 'time': '3:35'}
+{'index': '315', 'singer': '正云', 'song_name': '不变的情缘', 'time': '4:16'}
+{'index': '316', 'singer': '十二大美女', 'song_name': '爱情骗子我问你', 'time': '4:12'}
+{'index': '317', 'singer': '华晨宇', 'song_name': '一人饮酒醉 (Live)', 'time': '3:35'}
+{'index': '318', 'singer': '王杰', 'song_name': '谁明浪子心', 'time': '5:03'}
+{'index': '319', 'singer': '卓依婷', 'song_name': '财神来到我家门', 'time': '3:03'}
+{'index': '320', 'singer': '汤潮', 'song_name': '妈妈我想你', 'time': '4:40'}
+{'index': '321', 'singer': '郭少杰', 'song_name': '一曲红尘', 'time': '4:30'}
+{'index': '322', 'singer': '易烊千玺', 'song_name': '宝贝', 'time': '2:47'}
+{'index': '323', 'singer': '陈洁丽', 'song_name': '猪猪侠', 'time': '3:36'}
+{'index': '324', 'singer': '张杰', 'song_name': '星辰', 'time': '4:09'}
+{'index': '325', 'singer': '林俊杰', 'song_name': '江南', 'time': '4:28'}
+{'index': '326', 'singer': '李晓杰', 'song_name': '朋友的酒', 'time': '4:23'}
+{'index': '327', 'singer': '杨幂', 'song_name': '爱的供养', 'time': '3:39'}
+{'index': '328', 'singer': '许嵩、何曼婷', 'song_name': '素颜', 'time': '3:58'}
+{'index': '329', 'singer': '馒头', 'song_name': '带你去网吧里偷耳机', 'time': '1:05'}
+{'index': '330', 'singer': '正云、少薇', 'song_name': '不变的情缘', 'time': '4:10'}
+{'index': '331', 'singer': 'TFBOYS', 'song_name': '信仰之名', 'time': '3:46'}
+{'index': '332', 'singer': '那英', 'song_name': '默', 'time': '5:25'}
+{'index': '333', 'singer': '苏芮', 'song_name': '酒干倘卖无', 'time': '4:38'}
+{'index': '334', 'singer': '孙子涵', 'song_name': '回忆那么伤', 'time': '3:57'}
+{'index': '335', 'singer': 'BEYOND', 'song_name': '喜欢你', 'time': '4:29'}
+{'index': '336', 'singer': '陈雅森', 'song_name': '温柔乡', 'time': '4:13'}
+{'index': '337', 'singer': '魏语诺', 'song_name': '一个人的歌', 'time': '3:33'}
+{'index': '338', 'singer': '张杰', 'song_name': '剑心', 'time': '4:12'}
+{'index': '339', 'singer': '胡蒎', 'song_name': '喝醉以后才明白', 'time': '3:52'}
+{'index': '340', 'singer': '冯提莫', 'song_name': '刚好遇见你', 'time': '3:21'}
+{'index': '341', 'singer': '凤凰传奇', 'song_name': '荷塘月色', 'time': '4:10'}
+{'index': '342', 'singer': 'TFBOYS', 'song_name': '样 (YOUNG)', 'time': '4:24'}
+{'index': '343', 'singer': '刀郎、云朵', 'song_name': '爱是你我', 'time': '5:18'}
+{'index': '344', 'singer': '孙露', 'song_name': '离别的秋天', 'time': '4:23'}
+{'index': '345', 'singer': 'G.E.M.邓紫棋', 'song_name': '泡沫', 'time': '4:18'}
+{'index': '346', 'singer': '林志炫', 'song_name': '你的样子', 'time': '4:23'}
+{'index': '347', 'singer': 'Mi2', 'song_name': '勇敢爱', 'time': '4:16'}
+{'index': '348', 'singer': '王蓉', 'song_name': '小鸡小鸡', 'time': '3:32'}
+{'index': '349', 'singer': '张镐哲', 'song_name': '路太远', 'time': '4:37'}
+{'index': '350', 'singer': 'Russ', 'song_name': 'Psycho, Pt. 2', 'time': '2:42'}
+{'index': '351', 'singer': '郁可唯', 'song_name': '思慕', 'time': '5:07'}
+{'index': '352', 'singer': '徐誉滕', 'song_name': '天使的翅膀', 'time': '3:35'}
+{'index': '353', 'singer': '封茗囧菌', 'song_name': '红昭愿', 'time': '2:52'}
+{'index': '354', 'singer': '陈瑞', 'song_name': '白狐', 'time': '5:09'}
+{'index': '355', 'singer': '白小白', 'song_name': '最后我们没在一起', 'time': '3:19'}
+{'index': '356', 'singer': 'Alan Walker', 'song_name': 'Alone', 'time': '2:41'}
+{'index': '357', 'singer': '汪峰', 'song_name': '儿时 (Live)', 'time': '5:44'}
+{'index': '358', 'singer': '刘欢', 'song_name': '好汉歌', 'time': '3:12'}
+{'index': '359', 'singer': '陈势安', 'song_name': '天后', 'time': '4:49'}
+{'index': '360', 'singer': 'Tiësto、Sevenn', 'song_name': 'BOOM', 'time': '2:34'}
+{'index': '361', 'singer': '李溪芮', 'song_name': '抱着都痛', 'time': '4:15'}
+{'index': '362', 'singer': 'Zedd、Jon Bellion', 'song_name': 'Beautiful Now', 'time': '3:38'}
+{'index': '363', 'singer': '大哲', 'song_name': '闯码头', 'time': '3:37'}
+{'index': '364', 'singer': '陈奕迅', 'song_name': '等你爱我', 'time': '4:44'}
+{'index': '365', 'singer': '刘德华', 'song_name': '一起走过的日子', 'time': '3:56'}
+{'index': '366', 'singer': '吴静', 'song_name': '女儿情', 'time': '4:32'}
+{'index': '367', 'singer': 'Punch、灿烈', 'song_name': 'Stay With Me', 'time': '3:12'}
+{'index': '368', 'singer': '金志文、黑墨', 'song_name': '远走高飞 (Live)', 'time': '5:11'}
+{'index': '369', 'singer': '叶洛洛', 'song_name': '咖喱咖喱', 'time': '2:38'}
+{'index': '370', 'singer': '刀郎', 'song_name': '手心里的温柔', 'time': '4:56'}
+{'index': '371', 'singer': '张学友', 'song_name': '只想一生跟你走', 'time': '5:13'}
+{'index': '372', 'singer': '叶倩文', 'song_name': '潇洒走一回', 'time': '4:10'}
+{'index': '373', 'singer': '夏婉安', 'song_name': '一个人', 'time': '3:14'}
+{'index': '374', 'singer': '冷漠、杨小曼', 'song_name': '我爱你胜过你爱我', 'time': '4:43'}
+{'index': '375', 'singer': '卓依婷', 'song_name': '童年', 'time': '3:07'}
+{'index': '376', 'singer': '白小白', 'song_name': '不甘示弱', 'time': '3:32'}
+{'index': '377', 'singer': '张信哲', 'song_name': '过火 (Live)', 'time': '2:34'}
+{'index': '378', 'singer': '刘德华', 'song_name': '忘情水', 'time': '4:25'}
+{'index': '379', 'singer': '林俊杰', 'song_name': '小酒窝', 'time': '3:37'}
+{'index': '380', 'singer': 'Git Fresh', 'song_name': 'Booty Music', 'time': '3:01'}
+{'index': '381', 'singer': '张二嫂', 'song_name': '他真的比我爱你吗', 'time': '4:26'}
+{'index': '382', 'singer': 'BEYOND', 'song_name': '谁伴我闯荡', 'time': '4:12'}
+{'index': '383', 'singer': '周华健', 'song_name': '难念的经', 'time': '4:48'}
+{'index': '384', 'singer': '冷漠', 'song_name': '伤心城市', 'time': '4:24'}
+{'index': '385', 'singer': 'GAI', 'song_name': '苦行僧 (Live)', 'time': '2:23'}
+{'index': '386', 'singer': '黄渤', 'song_name': '正义之道', 'time': '3:34'}
+{'index': '387', 'singer': '徐薇', 'song_name': '体面', 'time': '4:43'}
+{'index': '388', 'singer': '冷漠、张冬玲', 'song_name': '我在红尘中遇见你', 'time': '4:36'}
+{'index': '389', 'singer': '周华健', 'song_name': '朋友', 'time': '5:11'}
+{'index': '390', 'singer': '伍佰&China Blue', 'song_name': '突然的自我 (Live)', 'time': '3:36'}
+{'index': '391', 'singer': '吴亦凡', 'song_name': 'JULY', 'time': '3:06'}
+{'index': '392', 'singer': '贾玲、刘维', 'song_name': '感觉自己萌萌哒', 'time': '3:46'}
+{'index': '393', 'singer': '张碧晨', 'song_name': '下一秒', 'time': '3:14'}
+{'index': '394', 'singer': '梅艳芳', 'song_name': '女人花', 'time': '4:50'}
+{'index': '395', 'singer': '李玉刚', 'song_name': '新贵妃醉酒', 'time': '4:55'}
+{'index': '396', 'singer': '郑源', 'song_name': '爱情码头', 'time': '5:00'}
+{'index': '397', 'singer': '陶钰玉', 'song_name': '你会爱我到什么时候', 'time': '4:02'}
+{'index': '398', 'singer': '侯旭', 'song_name': '逃', 'time': '3:59'}
+{'index': '399', 'singer': '韩宝仪', 'song_name': '粉红色的回忆', 'time': '3:49'}
+{'index': '400', 'singer': 'BEYOND', 'song_name': '灰色轨迹', 'time': '5:26'}
+{'index': '401', 'singer': '樊竹青', 'song_name': '蓝精灵', 'time': '2:06'}
+{'index': '402', 'singer': '六哲', 'song_name': '让全世界知道我爱你', 'time': '4:22'}
+{'index': '403', 'singer': '动力火车', 'song_name': '当', 'time': '5:00'}
+{'index': '404', 'singer': '杨宗纬', 'song_name': '红尘来去一场梦 (Live)', 'time': '4:10'}
+{'index': '405', 'singer': '吴亦凡', 'song_name': '时间煮雨', 'time': '4:08'}
+{'index': '406', 'singer': '高进、大壮', 'song_name': '本色英雄', 'time': '4:02'}
+{'index': '407', 'singer': '张艺兴', 'song_name': '一个人', 'time': '3:51'}
+{'index': '408', 'singer': '梁静茹', 'song_name': '问 (Live)', 'time': '3:27'}
+{'index': '409', 'singer': 'TFBOYS', 'song_name': '真心话太冒险', 'time': '3:40'}
+{'index': '410', 'singer': '张学友', 'song_name': '一千个伤心的理由', 'time': '4:36'}
+{'index': '411', 'singer': '张震岳', 'song_name': '再见', 'time': '3:03'}
+{'index': '412', 'singer': '孙露', 'song_name': '再度重相逢', 'time': '3:27'}
+{'index': '413', 'singer': '薛之谦', 'song_name': '动物世界', 'time': '3:50'}
+{'index': '414', 'singer': '凤凰传奇', 'song_name': '自由飞翔', 'time': '4:12'}
+{'index': '415', 'singer': '庄心妍', 'song_name': '两个人的回忆一个人过', 'time': '4:27'}
+{'index': '416', 'singer': '回音哥', 'song_name': '海绵宝宝', 'time': '3:28'}
+{'index': '417', 'singer': '云菲菲、冷漠', 'song_name': '这条街', 'time': '3:53'}
+{'index': '418', 'singer': '莫露露', 'song_name': '爱情主演', 'time': '3:59'}
+{'index': '419', 'singer': '邓丽君', 'song_name': '漫步人生路', 'time': '3:44'}
+{'index': '420', 'singer': '菲儿', 'song_name': '太想念', 'time': '3:50'}
+{'index': '421', 'singer': '曹越', 'song_name': '你的眼角流着我的泪', 'time': '4:24'}
+{'index': '422', 'singer': '林志炫', 'song_name': '单身情歌', 'time': '4:37'}
+{'index': '423', 'singer': '阿悄、本兮', 'song_name': '无限速', 'time': '2:51'}
+{'index': '424', 'singer': 'Alan Walker', 'song_name': 'The Spectre', 'time': '3:14'}
+{'index': '425', 'singer': '许嵩', 'song_name': '有何不可', 'time': '3:59'}
+{'index': '426', 'singer': '水木年华', 'song_name': '一生有你', 'time': '4:18'}
+{'index': '427', 'singer': '孙晨', 'song_name': '拜托', 'time': '3:45'}
+{'index': '428', 'singer': '刀郎', 'song_name': '2002年的第一场雪', 'time': '4:14'}
+{'index': '429', 'singer': '庄心妍', 'song_name': '再遇不到你这样的人', 'time': '5:22'}
+{'index': '430', 'singer': '雨露', 'song_name': '下一次相遇', 'time': '4:32'}
+{'index': '431', 'singer': '鹿晗', 'song_name': '超级冠军', 'time': '4:29'}
+{'index': '432', 'singer': '毛不易', 'song_name': '无问', 'time': '4:18'}
+{'index': '433', 'singer': '曾咏欣', 'song_name': '心微痛', 'time': '4:07'}
+{'index': '434', 'singer': '孙露', 'song_name': '想着你亲爱的', 'time': '4:05'}
+{'index': '435', 'singer': 'Alex Goot、Madilyn Bailey', 'song_name': 'Something Just Like This', 'time': '2:59'}
+{'index': '436', 'singer': 'Sainkho Namtchylak', 'song_name': 'Lost Rivers', 'time': '7:18'}
+{'index': '437', 'singer': '冷漠', 'song_name': '没有你陪伴我真的好孤单', 'time': '4:49'}
+{'index': '438', 'singer': 'Gibb-Z', 'song_name': 'My Hot Girl', 'time': '3:53'}
+{'index': '439', 'singer': '汪峰', 'song_name': '普通DISCO (Live)', 'time': '4:06'}
+{'index': '440', 'singer': '陈雪凝', 'song_name': '白山茶', 'time': '4:14'}
+{'index': '441', 'singer': '刀郎', 'song_name': '谢谢你', 'time': '5:56'}
+{'index': '442', 'singer': 'Colbie Caillat', 'song_name': 'Try', 'time': '3:44'}
+{'index': '443', 'singer': '张冬玲', 'song_name': '花开的时候你就来看我', 'time': '3:48'}
+{'index': '444', 'singer': '霍建华、赵丽颖', 'song_name': '不可说', 'time': '3:42'}
+{'index': '445', 'singer': '程响', 'song_name': '新娘不是我', 'time': '4:42'}
+{'index': '446', 'singer': '杨峻荣、范晓萱', 'song_name': '健康歌', 'time': '3:00'}
+{'index': '447', 'singer': '张磊', 'song_name': '文艺少年', 'time': '4:21'}
+{'index': '448', 'singer': '胡一天、赵天宇', 'song_name': '带你去旅行 (Live)', 'time': '2:09'}
+{'index': '449', 'singer': 'BEYOND', 'song_name': '大地', 'time': '4:19'}
+{'index': '450', 'singer': '小曾', 'song_name': '军中绿花', 'time': '4:09'}
+{'index': '451', 'singer': '陈小虎', 'song_name': '可乐', 'time': '3:56'}
+{'index': '452', 'singer': '张韶涵', 'song_name': '梦里花 (Live)', 'time': '4:42'}
+{'index': '453', 'singer': '任贤齐', 'song_name': '伤心太平洋', 'time': '4:26'}
+{'index': '454', 'singer': '毛毛', 'song_name': '奇迹再现', 'time': '3:56'}
+{'index': '455', 'singer': '蔡依林、陶喆', 'song_name': '今天你要嫁给我', 'time': '4:32'}
+{'index': '456', 'singer': '刘思涵', 'song_name': '走在冷风中', 'time': '3:35'}
+{'index': '457', 'singer': 'Bridge', 'song_name': '老大 (Live)', 'time': '1:08'}
+{'index': '458', 'singer': '吉克隽逸', 'song_name': '一生所爱', 'time': '4:02'}
+{'index': '459', 'singer': '刘明湘', 'song_name': '漂洋过海来看你', 'time': '5:01'}
+{'index': '460', 'singer': '赖鸿根', 'song_name': '谈判官', 'time': '4:22'}
+{'index': '461', 'singer': '许哲佩', 'song_name': '气球', 'time': '4:17'}
+{'index': '462', 'singer': '周杰伦', 'song_name': '听妈妈的话', 'time': '4:23'}
+{'index': '463', 'singer': '鹿晗', 'song_name': '让我留在你身边', 'time': '3:02'}
+{'index': '464', 'singer': '晨熙、司徒兰芳', 'song_name': '永远放你在心底', 'time': '3:57'}
+{'index': '465', 'singer': '汪苏泷', 'song_name': '那个男孩', 'time': '3:36'}
+{'index': '466', 'singer': '汤宝如、张学友', 'song_name': '相思风雨中', 'time': '4:10'}
+{'index': '467', 'singer': '谭咏麟', 'song_name': '一生中最爱', 'time': '4:27'}
+{'index': '468', 'singer': '赵雷', 'song_name': '我们的时光', 'time': '4:30'}
+{'index': '469', 'singer': '宋祖英', 'song_name': '好日子', 'time': '2:53'}
+{'index': '470', 'singer': '李玉刚、石头', 'song_name': '雨花石', 'time': '5:32'}
+{'index': '471', 'singer': '陈瑞', 'song_name': '相思的债', 'time': '4:50'}
+{'index': '472', 'singer': '麦小兜、校长', 'song_name': '甜了个蜜', 'time': '3:55'}
+{'index': '473', 'singer': '冯提莫', 'song_name': '凉凉', 'time': '5:36'}
+{'index': '474', 'singer': '杜歌', 'song_name': '兄弟难当', 'time': '4:11'}
+{'index': '475', 'singer': '胡歌', 'song_name': '忘记时间', 'time': '4:25'}
+{'index': '476', 'singer': '叶倩文', 'song_name': '曾经心痛', 'time': '4:41'}
+{'index': '477', 'singer': '张宇', 'song_name': '雨一直下', 'time': '4:49'}
+{'index': '478', 'singer': 'Queen', 'song_name': 'We Will Rock You (我们将击败你)', 'time': '2:03'}
+{'index': '479', 'singer': 'Carpenters', 'song_name': 'Yesterday Once More', 'time': '4:01'}
+{'index': '480', 'singer': 'G-DRAGON', 'song_name': '삐딱하게 (Crooked)', 'time': '3:44'}
+{'index': '481', 'singer': '卓依婷', 'song_name': '生日快乐', 'time': '2:02'}
+{'index': '482', 'singer': '门丽', 'song_name': '美美哒', 'time': '3:38'}
+{'index': '483', 'singer': '张宇', 'song_name': '月亮惹的祸', 'time': '4:19'}
+{'index': '484', 'singer': '陈奕迅、王菲', 'song_name': '因为爱情', 'time': '3:37'}
+{'index': '485', 'singer': '张碧晨', 'song_name': '不要忘记我爱你', 'time': '3:45'}
+{'index': '486', 'singer': '程响', 'song_name': '不再联系', 'time': '3:56'}
+{'index': '487', 'singer': '王菲', 'song_name': '匆匆那年', 'time': '4:03'}
+{'index': '488', 'singer': '李圣杰', 'song_name': '痴心绝对', 'time': '4:22'}
+{'index': '489', 'singer': 'G.E.M.邓紫棋', 'song_name': '夜空中最亮的星', 'time': '3:52'}
+{'index': '490', 'singer': '汪苏泷', 'song_name': '不分手的恋爱', 'time': '3:25'}
+{'index': '491', 'singer': '邓丽君', 'song_name': '甜蜜蜜', 'time': '3:29'}
+{'index': '492', 'singer': '李思琳', 'song_name': '三个和尚', 'time': '3:50'}
+{'index': '493', 'singer': '庄心妍', 'song_name': '好可惜', 'time': '5:15'}
+{'index': '494', 'singer': '罗文、甄妮', 'song_name': '铁血丹心', 'time': '2:57'}
+{'index': '495', 'singer': '冰冰超人', 'song_name': '八年的爱', 'time': '3:12'}
+{'index': '496', 'singer': '南宫嘉骏', 'song_name': '回忆总想哭', 'time': '4:50'}
+{'index': '497', 'singer': '光良', 'song_name': '童话', 'time': '4:04'}
+{'index': '498', 'singer': 'Cash Cash、Sofia Reyes', 'song_name': 'How To Love', 'time': '3:38'}
+{'index': '499', 'singer': '薛之谦', 'song_name': '我好像在哪见过你', 'time': '4:39'}
+{'index': '500', 'singer': '蒋蒋', 'song_name': '残雪', 'time': '3:59'}
+{'index': '1', 'singer': '于文文', 'song_name': '体面', 'time': '4:42'}
+{'index': '2', 'singer': '袁娅维', 'song_name': '说散就散', 'time': '4:02'}
+{'index': '3', 'singer': '新乐尘符', 'song_name': '123我爱你', 'time': '3:19'}
+{'index': '4', 'singer': '鞠文娴', 'song_name': 'BINGBIAN病变 (女声版)', 'time': '4:07'}
+{'index': '5', 'singer': '胡66', 'song_name': '空空如也', 'time': '3:31'}
+{'index': '6', 'singer': '广东雨神', 'song_name': '广东爱情故事', 'time': '3:34'}
+{'index': '7', 'singer': '大壮', 'song_name': '我们不一样', 'time': '4:31'}
+{'index': '8', 'singer': '张北北', 'song_name': '拥抱你离去', 'time': '4:02'}
+{'index': '9', 'singer': '买辣椒也用券', 'song_name': '起风了', 'time': '5:24'}
+{'index': '10', 'singer': 'ラムジ', 'song_name': 'PLANET', 'time': '4:08'}
+{'index': '11', 'singer': '杨宗纬、张碧晨', 'song_name': '凉凉', 'time': '5:33'}
+{'index': '12', 'singer': '校长', 'song_name': '带你去旅行', 'time': '3:46'}
+{'index': '13', 'singer': '大壮', 'song_name': '差一步', 'time': '4:05'}
+{'index': '14', 'singer': '麦小兜', 'song_name': '9420', 'time': '3:49'}
+{'index': '15', 'singer': '金志文、徐佳莹', 'song_name': '远走高飞', 'time': '3:55'}
+{'index': '16', 'singer': '岑宁儿', 'song_name': '追光者', 'time': '3:55'}
+{'index': '17', 'singer': '徐秉龙、沈以诚', 'song_name': '白羊', 'time': '2:48'}
+{'index': '18', 'singer': '胡66', 'song_name': '不必说抱歉', 'time': '4:03'}
+{'index': '19', 'singer': '安苏羽', 'song_name': '缺氧', 'time': '4:31'}
+{'index': '20', 'singer': '华语群星', 'song_name': '少林英雄', 'time': '3:00'}
+{'index': '21', 'singer': '李玉刚', 'song_name': '刚好遇见你', 'time': '3:19'}
+{'index': '22', 'singer': '音阙诗听', 'song_name': '红昭愿', 'time': '2:53'}
+{'index': '23', 'singer': '筷子兄弟', 'song_name': '小苹果', 'time': '3:31'}
+{'index': '24', 'singer': 'Matteo', 'song_name': 'Panama', 'time': '3:20'}
+{'index': '25', 'singer': '赵雷', 'song_name': '成都', 'time': '5:28'}
+{'index': '26', 'singer': '青蛙', 'song_name': '小跳蛙', 'time': '2:28'}
+{'index': '27', 'singer': '毛不易', 'song_name': '消愁 (Live)', 'time': '2:59'}
+{'index': '28', 'singer': '罗之豪', 'song_name': 'BINGBIAN病变', 'time': '4:03'}
+{'index': '29', 'singer': '周笔畅', 'song_name': '最美的期待', 'time': '3:30'}
+{'index': '30', 'singer': 'Alan Walker', 'song_name': 'Faded', 'time': '3:33'}
+{'index': '31', 'singer': 'The Chainsmokers、Coldplay', 'song_name': 'Something Just Like This', 'time': '4:07'}
+{'index': '32', 'singer': 'CG', 'song_name': '文爱', 'time': '3:20'}
+{'index': '33', 'singer': 'Dragon Pig、CLOUD WANG、CNBALLER', 'song_name': '全部都是你', 'time': '3:24'}
+{'index': '34', 'singer': '毛不易', 'song_name': '像我这样的人 (Live)', 'time': '2:51'}
+{'index': '35', 'singer': 'PRC 巴音汗', 'song_name': '80000 ! (prod.by DROCY原声版)', 'time': '1:48'}
+{'index': '36', 'singer': '可泽、夏凌兮', 'song_name': '樱花树下的约定 (原版)', 'time': '3:32'}
+{'index': '37', 'singer': '张宇', 'song_name': '给你们', 'time': '4:47'}
+{'index': '38', 'singer': '南宫嘉骏、彭清', 'song_name': '回忆总想哭', 'time': '4:53'}
+{'index': '39', 'singer': '蒋蒋、杨清柠', 'song_name': '小公主', 'time': '3:11'}
+{'index': '40', 'singer': '白小白', 'song_name': '最美情侣', 'time': '4:02'}
+{'index': '41', 'singer': '周杰伦', 'song_name': '告白气球', 'time': '3:36'}
+{'index': '42', 'singer': '白小白、球球', 'song_name': '宠爱吖', 'time': '3:37'}
+{'index': '43', 'singer': '姜玉阳、南宫嘉骏', 'song_name': '回忆总想哭', 'time': '4:52'}
+{'index': '44', 'singer': 'Бамбинтон', 'song_name': 'Зая', 'time': '3:40'}
+{'index': '45', 'singer': '王建房', 'song_name': '在人间', 'time': '3:54'}
+{'index': '46', 'singer': '秋裤大叔', 'song_name': '一晃就老了', 'time': '4:15'}
+{'index': '47', 'singer': '周杰伦', 'song_name': '等你下课 (with 杨瑞代)', 'time': '4:30'}
+{'index': '48', 'singer': '林俊杰', 'song_name': '醉赤壁', 'time': '4:41'}
+{'index': '49', 'singer': '庄心妍', 'song_name': '再见只是陌生人', 'time': '4:12'}
+{'index': '50', 'singer': '张杰', 'song_name': '三生三世', 'time': '4:17'}
+{'index': '51', 'singer': '汪苏泷、By2', 'song_name': '有点甜', 'time': '3:55'}
+{'index': '52', 'singer': '金志文', 'song_name': '远走高飞', 'time': '4:01'}
+{'index': '53', 'singer': '大哲', 'song_name': '三十出头', 'time': '3:23'}
+{'index': '54', 'singer': '彭筝', 'song_name': '太想念', 'time': '3:50'}
+{'index': '55', 'singer': 'Tez Cadey', 'song_name': 'Seve (Radio Edit)', 'time': '3:30'}
+{'index': '56', 'singer': '赵方婧', 'song_name': '尽头', 'time': '4:16'}
+{'index': '57', 'singer': 'TFBOYS', 'song_name': '青春修炼手册', 'time': '4:23'}
+{'index': '58', 'singer': '薛之谦', 'song_name': '演员', 'time': '4:21'}
+{'index': '59', 'singer': '云菲菲', 'song_name': '殇雪', 'time': '4:44'}
+{'index': '60', 'singer': '纳兰珠儿、高安', 'song_name': '花桥流水', 'time': '3:34'}
+{'index': '61', 'singer': '杨清柠、王乐乐', 'song_name': '我们', 'time': '3:40'}
+{'index': '62', 'singer': '陈一发儿', 'song_name': '童话镇', 'time': '4:17'}
+{'index': '63', 'singer': '旭日阳刚刘刚', 'song_name': '怀念青春', 'time': '4:28'}
+{'index': '64', 'singer': '王乐乐', 'song_name': '雨后人去楼也空', 'time': '3:08'}
+{'index': '65', 'singer': '吴亦凡、赵丽颖', 'song_name': '想你', 'time': '4:04'}
+{'index': '66', 'singer': 'BEYOND', 'song_name': '海阔天空', 'time': '5:22'}
+{'index': '67', 'singer': '张杰', 'song_name': '逆战', 'time': '3:49'}
+{'index': '68', 'singer': 'JC', 'song_name': '说散就散', 'time': '3:51'}
+{'index': '69', 'singer': '华晨宇', 'song_name': '齐天 (Live)', 'time': '4:49'}
+{'index': '70', 'singer': '叶炫清', 'song_name': '九张机', 'time': '3:40'}
+{'index': '71', 'singer': 'TFBOYS', 'song_name': '加油!AMIGO', 'time': '4:24'}
+{'index': '72', 'singer': 'TFBOYS', 'song_name': '大梦想家', 'time': '3:46'}
+{'index': '73', 'singer': '尚钰淞', 'song_name': '起风了', 'time': '4:23'}
+{'index': '74', 'singer': '金南玲', 'song_name': '逆流成河', 'time': '2:05'}
+{'index': '75', 'singer': '贾乃亮、贾云馨', 'song_name': '大王叫我来巡山', 'time': '3:41'}
+{'index': '76', 'singer': 'TFBOYS', 'song_name': '宠爱', 'time': '4:26'}
+{'index': '77', 'singer': 'Joel Adams', 'song_name': "Please Don't Go", 'time': '3:31'}
+{'index': '78', 'singer': 'BEYOND', 'song_name': '光辉岁月', 'time': '5:01'}
+{'index': '79', 'singer': '薛之谦', 'song_name': '丑八怪', 'time': '4:13'}
+{'index': '80', 'singer': 'Ed Sheeran', 'song_name': 'Shape of You', 'time': '3:53'}
+{'index': '81', 'singer': '冯提莫', 'song_name': '说散就散', 'time': '3:50'}
+{'index': '82', 'singer': '蒋龙', 'song_name': '行者', 'time': '3:02'}
+{'index': '83', 'singer': 'Luis Fonsi、Daddy Yankee、Justin Bieber', 'song_name': 'Despacito (Remix)', 'time': '3:48'}
+{'index': '84', 'singer': '阿涵', 'song_name': '过客', 'time': '4:30'}
+{'index': '85', 'singer': '张韶涵', 'song_name': '阿刁 (Live)', 'time': '5:21'}
+{'index': '86', 'singer': '王欣宇', 'song_name': '心愿便利贴', 'time': '2:57'}
+{'index': '87', 'singer': '张杰', 'song_name': 'Precious', 'time': '3:43'}
+{'index': '88', 'singer': '张艺兴', 'song_name': '羊 (SHEEP)', 'time': '3:25'}
+{'index': '89', 'singer': '刘佳', 'song_name': '爱的就是你', 'time': '4:33'}
+{'index': '90', 'singer': '鹿晗', 'song_name': '致爱 Your Song', 'time': '3:11'}
+{'index': '91', 'singer': '筷子兄弟', 'song_name': '父亲', 'time': '5:01'}
+{'index': '92', 'singer': '高安、黑鸭子', 'song_name': '红尘情歌', 'time': '3:29'}
+{'index': '93', 'singer': '花姐', 'song_name': '等一分钟 (Live)', 'time': '2:17'}
+{'index': '94', 'singer': '梦然', 'song_name': '没有你陪伴真的好孤单', 'time': '1:03'}
+{'index': '95', 'singer': '林志颖、郭涛、Kimi、张亮、张悦轩、王岳伦、郭子睿、王诗龄', 'song_name': '...', 'time': '4:35'}
+{'index': '96', 'singer': '李荣浩', 'song_name': '李白', 'time': '4:33'}
+{'index': '97', 'singer': '刀郎', 'song_name': '西海情歌', 'time': '5:43'}
+{'index': '98', 'singer': '刘若英', 'song_name': '后来', 'time': '5:41'}
+{'index': '99', 'singer': '田馥甄', 'song_name': '小幸运', 'time': '4:25'}
+{'index': '100', 'singer': '王丽坤、朱亚文', 'song_name': '漂洋过海来看你', 'time': '4:40'}
+{'index': '101', 'singer': '阿冷', 'song_name': '春风吹', 'time': '2:05'}
+{'index': '102', 'singer': '庄心妍', 'song_name': '放过自己', 'time': '4:09'}
+{'index': '103', 'singer': 'Cubi、江澈、Younglife', 'song_name': 'BINGBIAN病变', 'time': '4:02'}
+{'index': '104', 'singer': '齐晨', 'song_name': '咱们结婚吧', 'time': '3:48'}
+{'index': '105', 'singer': '周杰伦', 'song_name': '青花瓷', 'time': '3:57'}
+{'index': '106', 'singer': '庄心妍', 'song_name': '走着走着就散了', 'time': '4:28'}
+{'index': '107', 'singer': '赵鑫', 'song_name': '许多年以后', 'time': '5:12'}
+{'index': '108', 'singer': '黑龙', 'song_name': '盗心贼', 'time': '3:34'}
+{'index': '109', 'singer': '你样哥', 'song_name': '平底锅吃鸡摇', 'time': '3:30'}
+{'index': '110', 'singer': '尢枫', 'song_name': '123我爱你', 'time': '3:19'}
+{'index': '111', 'singer': 'BEYOND', 'song_name': '真的爱你', 'time': '4:38'}
+{'index': '112', 'singer': '周延英(英子-effie)', 'song_name': '那个人', 'time': '4:39'}
+{'index': '113', 'singer': '萧全', 'song_name': '社会摇', 'time': '4:09'}
+{'index': '114', 'singer': 'TFBOYS', 'song_name': '我们的时光', 'time': '3:50'}
+{'index': '115', 'singer': '苏勒亚其其格', 'song_name': '歌在飞', 'time': '4:04'}
+{'index': '116', 'singer': '鹿晗', 'song_name': '追梦赤子心', 'time': '4:56'}
+{'index': '117', 'singer': '刘德华', 'song_name': '恭喜发财', 'time': '3:22'}
+{'index': '118', 'singer': 'G.E.M.邓紫棋', 'song_name': '喜欢你', 'time': '3:59'}
+{'index': '119', 'singer': '王奕心', 'song_name': '我的唇吻不到我爱的人', 'time': '4:39'}
+{'index': '120', 'singer': 'Tungevaag & Raaban', 'song_name': 'Samsara', 'time': '3:31'}
+{'index': '121', 'singer': '刘佳、十二星宿 风之少年', 'song_name': '爱的就是你', 'time': '3:53'}
+{'index': '122', 'singer': '容祖儿', 'song_name': '这种天真', 'time': '5:12'}
+{'index': '123', 'singer': '李翊君', 'song_name': '雨蝶', 'time': '3:52'}
+{'index': '124', 'singer': '张杰', 'song_name': '我们都一样 (Live)', 'time': '5:04'}
+{'index': '125', 'singer': 'Ryan.B of CNBALLER、AY杨佬叁', 'song_name': '再也没有', 'time': '3:32'}
+{'index': '126', 'singer': '汪苏泷', 'song_name': '一笑倾城', 'time': '3:51'}
+{'index': '127', 'singer': '鹿晗', 'song_name': '勋章', 'time': '3:33'}
+{'index': '128', 'singer': '郑源', 'song_name': '包容', 'time': '4:23'}
+{'index': '129', 'singer': 'RADWIMPS', 'song_name': 'スパークル (Movie ver.)', 'time': '8:54'}
+{'index': '130', 'singer': '朴树', 'song_name': '平凡之路', 'time': '5:02'}
+{'index': '131', 'singer': '蒋蒋', 'song_name': '退', 'time': '4:01'}
+{'index': '132', 'singer': 'Wiz Khalifa、Charlie Puth', 'song_name': 'See You Again', 'time': '3:49'}
+{'index': '133', 'singer': '贝瓦儿歌', 'song_name': '拍手歌', 'time': '2:59'}
+{'index': '134', 'singer': 'TFBOYS', 'song_name': '躲猫猫', 'time': '3:09'}
+{'index': '135', 'singer': '贺敬轩', 'song_name': '罗曼蒂克的爱情', 'time': '3:29'}
+{'index': '136', 'singer': '陶喆', 'song_name': '就是爱你', 'time': '4:22'}
+{'index': '137', 'singer': '薛之谦', 'song_name': '认真的雪', 'time': '4:18'}
+{'index': '138', 'singer': '熊梓淇', 'song_name': '说爱你', 'time': '3:35'}
+{'index': '139', 'singer': '蒋雪儿', 'song_name': '爱河', 'time': '3:38'}
+{'index': '140', 'singer': '刘珂矣', 'song_name': '风筝误', 'time': '3:58'}
+{'index': '141', 'singer': '冯提莫', 'song_name': '再见前任', 'time': '3:20'}
+{'index': '142', 'singer': '王雪晶', 'song_name': '拔萝卜', 'time': '1:37'}
+{'index': '143', 'singer': '徐誉滕', 'song_name': '等一分钟', 'time': '3:56'}
+{'index': '144', 'singer': '陈雅森', 'song_name': '我的快乐就是想你', 'time': '5:05'}
+{'index': '145', 'singer': '陆树铭', 'song_name': '一壶老酒', 'time': '4:20'}
+{'index': '146', 'singer': '刘珂矣', 'song_name': '半壶纱', 'time': '3:42'}
+{'index': '147', 'singer': '简弘亦', 'song_name': '体面', 'time': '4:39'}
+{'index': '148', 'singer': 'Idina Menzel', 'song_name': 'Let It Go', 'time': '3:44'}
+{'index': '149', 'singer': '巧千金', 'song_name': '小毛驴', 'time': '2:02'}
+{'index': '150', 'singer': '双笙', 'song_name': '我的一个道姑朋友', 'time': '5:14'}
+{'index': '151', 'singer': '王宝与正午阳光', 'song_name': '儿子 我是你爸爸 (Demo版)', 'time': '1:56'}
+{'index': '152', 'singer': 'KT、Chiu Chiu', 'song_name': '7538 (Me U-Remix)', 'time': '3:30'}
+{'index': '153', 'singer': 'TFBOYS', 'song_name': '魔法城堡', 'time': '4:17'}
+{'index': '154', 'singer': '薛明媛、朱贺', 'song_name': '非酋', 'time': '2:52'}
+{'index': '155', 'singer': '陈奕迅', 'song_name': '十年', 'time': '3:22'}
+{'index': '156', 'singer': '薛之谦', 'song_name': '你还要我怎样', 'time': '5:10'}
+{'index': '157', 'singer': '降央卓玛', 'song_name': '西海情歌', 'time': '5:02'}
+{'index': '158', 'singer': '曾缔', 'song_name': '还是爱了', 'time': '3:52'}
+{'index': '159', 'singer': '任然', 'song_name': '空空如也', 'time': '3:33'}
+{'index': '160', 'singer': '凤凰传奇', 'song_name': '最炫民族风', 'time': '4:45'}
+{'index': '161', 'singer': '薛之谦', 'song_name': '天后 (Live)', 'time': '4:07'}
+{'index': '162', 'singer': 'Justin Bieber、Ludacris', 'song_name': 'Baby', 'time': '3:34'}
+{'index': '163', 'singer': '汪苏泷', 'song_name': '小星星', 'time': '3:16'}
+{'index': '164', 'singer': '易烊千玺', 'song_name': '离骚', 'time': '4:26'}
+{'index': '165', 'singer': '赵天宇、周震南', 'song_name': '吸引力法则', 'time': '4:20'}
+{'index': '166', 'singer': '正云、少薇', 'song_name': '下定决心忘记你', 'time': '3:42'}
+{'index': '167', 'singer': '杨清柠', 'song_name': '四年半', 'time': '3:49'}
+{'index': '168', 'singer': '汪苏泷', 'song_name': '追光者 (Live)', 'time': '4:09'}
+{'index': '169', 'singer': 'DAISHI DANCE、Cecile Corbel', 'song_name': 'Take Me Hand', 'time': '4:19'}
+{'index': '170', 'singer': '华晨宇', 'song_name': '智商二五零', 'time': '3:33'}
+{'index': '171', 'singer': '周传雄', 'song_name': '黄昏', 'time': '5:44'}
+{'index': '172', 'singer': '冷漠、杨小曼', 'song_name': '爱如星火', 'time': '4:20'}
+{'index': '173', 'singer': '南征北战NZBZ', 'song_name': '我的天空', 'time': '3:54'}
+{'index': '174', 'singer': 'TFBOYS', 'song_name': '是你', 'time': '3:51'}
+{'index': '175', 'singer': '李晓杰', 'song_name': '把酒倒满', 'time': '4:26'}
+{'index': '176', 'singer': 'Luis Fonsi', 'song_name': 'Despacito (Versión Pop)', 'time': '3:49'}
+{'index': '177', 'singer': '杨洋', 'song_name': '微微一笑很倾城', 'time': '3:25'}
+{'index': '178', 'singer': '段丽阳', 'song_name': '爸爸妈妈听我说', 'time': '3:27'}
+{'index': '179', 'singer': '陈慧娴', 'song_name': '千千阕歌', 'time': '5:00'}
+{'index': '180', 'singer': '唐古', 'song_name': '你的过去我不介意', 'time': '4:04'}
+{'index': '181', 'singer': '庄心妍', 'song_name': '以后的以后', 'time': '4:58'}
+{'index': '182', 'singer': '周杰伦', 'song_name': '稻香', 'time': '3:43'}
+{'index': '183', 'singer': '冷漠、杨小曼', 'song_name': '心锁', 'time': '4:16'}
+{'index': '184', 'singer': '邓丽君', 'song_name': '我只在乎你', 'time': '4:16'}
+{'index': '185', 'singer': '刘大美人', 'song_name': '你是我爱的人', 'time': '4:00'}
+{'index': '186', 'singer': '王童语', 'song_name': '丫头', 'time': '5:32'}
+{'index': '187', 'singer': '薛之谦', 'song_name': '意外', 'time': '4:47'}
+{'index': '188', 'singer': '许巍', 'song_name': '曾经的你', 'time': '4:23'}
+{'index': '189', 'singer': '车继铃', 'song_name': '最远的你是我最近的爱', 'time': '4:12'}
+{'index': '190', 'singer': '金莎', 'song_name': '爱的魔法', 'time': '3:11'}
+{'index': '191', 'singer': '王冕', 'song_name': '勉为其难', 'time': '4:09'}
+{'index': '192', 'singer': '白鹿', 'song_name': '凤囚凰', 'time': '5:03'}
+{'index': '193', 'singer': '胡彦斌', 'song_name': '你要的全拿走', 'time': '4:59'}
+{'index': '194', 'singer': 'Vicetone、Cozi Zuehlsdorff', 'song_name': 'Nevada', 'time': '3:28'}
+{'index': '195', 'singer': '林俊杰', 'song_name': '当你', 'time': '4:09'}
+{'index': '196', 'singer': '祖海', 'song_name': '好运来', 'time': '3:34'}
+{'index': '197', 'singer': '巧千金', 'song_name': '小宝贝', 'time': '2:31'}
+{'index': '198', 'singer': '董真', 'song_name': '繁花', 'time': '3:45'}
+{'index': '199', 'singer': 'BEYOND', 'song_name': '不再犹豫', 'time': '4:12'}
+{'index': '200', 'singer': '薛之谦', 'song_name': '绅士', 'time': '4:51'}
+{'index': '201', 'singer': '蜘向镜ALine', 'song_name': 'PLANET', 'time': '4:08'}
+{'index': '202', 'singer': 'K.D', 'song_name': 'BINGBIAN病变', 'time': '4:00'}
+{'index': '203', 'singer': '卢冠廷、莫文蔚', 'song_name': '一生所爱', 'time': '4:34'}
+{'index': '204', 'singer': '麦小兜', 'song_name': '心愿便利贴', 'time': '4:17'}
+{'index': '205', 'singer': '薛之谦', 'song_name': '刚刚好', 'time': '4:11'}
+{'index': '206', 'singer': '范晓萱', 'song_name': '我爱洗澡', 'time': '2:50'}
+{'index': '207', 'singer': '杨沛宜', 'song_name': '左手右手', 'time': '2:41'}
+{'index': '208', 'singer': '刀郎', 'song_name': '冲动的惩罚', 'time': '7:50'}
+{'index': '209', 'singer': '薛之谦', 'song_name': '狐狸', 'time': '3:54'}
+{'index': '210', 'singer': '毛宁、杨钰莹', 'song_name': '心雨', 'time': '4:36'}
+{'index': '211', 'singer': 'TFBOYS', 'song_name': '萤火', 'time': '4:12'}
+{'index': '212', 'singer': '大哲', 'song_name': '下定决心忘记你', 'time': '3:43'}
+{'index': '213', 'singer': '逃跑计划', 'song_name': '夜空中最亮的星', 'time': '4:12'}
+{'index': '214', 'singer': 'RADWIMPS', 'song_name': 'ぜんぜんぜんせ', 'time': '4:45'}
+{'index': '215', 'singer': 'KOGIRLS', 'song_name': '微笑糖果', 'time': '3:56'}
+{'index': '216', 'singer': '林忆莲', 'song_name': '至少还有你', 'time': '4:34'}
+{'index': '217', 'singer': '洛天依', 'song_name': '东京不太热', 'time': '4:04'}
+{'index': '218', 'singer': '魏新雨', 'song_name': '恋人心', 'time': '3:28'}
+{'index': '219', 'singer': '李朝、王圣锋', 'song_name': '情话微甜', 'time': '3:28'}
+{'index': '220', 'singer': '熊梓淇、李溪芮', 'song_name': '不是冲动', 'time': '4:27'}
+{'index': '221', 'singer': 'TFBOYS', 'song_name': '不完美小孩', 'time': '4:20'}
+{'index': '222', 'singer': '黑龙', 'song_name': '感谢', 'time': '4:18'}
+{'index': '223', 'singer': '李少白', 'song_name': '山楂树之恋', 'time': '3:04'}
+{'index': '224', 'singer': '卓依婷', 'song_name': '恭喜发财', 'time': '3:20'}
+{'index': '225', 'singer': '夏天播放', 'song_name': '小宝贝', 'time': '3:12'}
+{'index': '226', 'singer': 'Michael Learns to Rock', 'song_name': 'Take Me To Your Heart', 'time': '3:58'}
+{'index': '227', 'singer': 'LAMPHO', 'song_name': '短发', 'time': '3:12'}
+{'index': '228', 'singer': 'Selena Gomez、Charlie Puth', 'song_name': "We Don't Talk Anymore", 'time': '3:37'}
+{'index': '229', 'singer': '张学友', 'song_name': '吻别 (国)', 'time': '4:59'}
+{'index': '230', 'singer': '暖暖笑', 'song_name': '起风了', 'time': '3:56'}
+{'index': '231', 'singer': '前小白', 'song_name': '广东爱情故事', 'time': '3:26'}
+{'index': '232', 'singer': '葛林', 'song_name': '林中鸟', 'time': '3:52'}
+{'index': '233', 'singer': '赵丽颖、张碧晨', 'song_name': '望', 'time': '4:15'}
+{'index': '234', 'singer': '凤凰传奇', 'song_name': '拜新年', 'time': '3:38'}
+{'index': '235', 'singer': 'Meghan Trainor', 'song_name': 'Me Too', 'time': '3:01'}
+{'index': '236', 'singer': '陈百强', 'song_name': '偏偏喜欢你', 'time': '3:32'}
+{'index': '237', 'singer': '杨烁', 'song_name': '小兔子乖乖', 'time': '1:57'}
+{'index': '238', 'singer': '王杰', 'song_name': '不浪漫罪名', 'time': '4:47'}
+{'index': '239', 'singer': '卢焱', 'song_name': '流浪', 'time': '3:21'}
+{'index': '240', 'singer': 'Maroon 5', 'song_name': 'Sugar', 'time': '3:55'}
+{'index': '241', 'singer': '祁隆、乐凡', 'song_name': '等你等了那么久', 'time': '5:06'}
+{'index': '242', 'singer': 'Unlike Pluto、Joanna Jones', 'song_name': 'Wannabe (Spice Girls Cover)', 'time': '3:39'}
+{'index': '243', 'singer': '神马乐团', 'song_name': '爱河', 'time': '5:12'}
+{'index': '244', 'singer': '小虎队', 'song_name': '爱', 'time': '4:31'}
+{'index': '245', 'singer': '门丽、龙飞', 'song_name': '亲爱的你在哪里', 'time': '4:01'}
+{'index': '246', 'singer': '艾福杰尼、黄旭、田羽生', 'song_name': '说散就散', 'time': '3:51'}
+{'index': '247', 'singer': '谭咏麟', 'song_name': '讲不出再见', 'time': '4:52'}
+{'index': '248', 'singer': 'Fly Project', 'song_name': 'Toca Toca (Radio Edit)', 'time': '2:44'}
+{'index': '249', 'singer': '张雨生', 'song_name': '大海', 'time': '4:35'}
+{'index': '250', 'singer': '降央卓玛', 'song_name': '走天涯', 'time': '4:30'}
+{'index': '251', 'singer': '周华健', 'song_name': '风雨无阻', 'time': '4:33'}
+{'index': '252', 'singer': '杨烁', 'song_name': '小燕子', 'time': '2:58'}
+{'index': '253', 'singer': '张韶涵', 'song_name': '隐形的翅膀', 'time': '3:44'}
+{'index': '254', 'singer': '田馥甄', 'song_name': '你就不要想起我', 'time': '4:40'}
+{'index': '255', 'singer': '韩安旭', 'song_name': '多幸运', 'time': '4:09'}
+{'index': '256', 'singer': '萧全', 'song_name': '海草舞', 'time': '4:37'}
+{'index': '257', 'singer': '张芸京', 'song_name': '偏爱', 'time': '3:32'}
+{'index': '258', 'singer': '高安', 'song_name': '你不来我不老', 'time': '4:47'}
+{'index': '259', 'singer': 'Owl City、Carly Rae Jepsen', 'song_name': 'Good Time', 'time': '3:26'}
+{'index': '260', 'singer': 'BIGBANG', 'song_name': 'FANTASTIC BABY', 'time': '3:52'}
+{'index': '261', 'singer': '刘辰希', 'song_name': '专属情歌', 'time': '4:35'}
+{'index': '262', 'singer': 'Miley Cyrus', 'song_name': "We Can't Stop", 'time': '3:52'}
+{'index': '263', 'singer': 'Chris Medina', 'song_name': 'What Are Words', 'time': '3:07'}
+{'index': '264', 'singer': '戴荃', 'song_name': '悟空 (Live)', 'time': '3:20'}
+{'index': '265', 'singer': 'Barbie', 'song_name': 'Good Time', 'time': '3:53'}
+{'index': '266', 'singer': '许歌淳一', 'song_name': '偶像练习生', 'time': '3:03'}
+{'index': '267', 'singer': '刘增瞳', 'song_name': '多想留在你身边', 'time': '3:32'}
+{'index': '268', 'singer': '刘德华', 'song_name': '来生缘', 'time': '3:56'}
+{'index': '269', 'singer': '花姐', 'song_name': '最远的你是我最近的爱', 'time': '4:51'}
+{'index': '270', 'singer': '薛之谦', 'song_name': '暧昧', 'time': '5:12'}
+{'index': '271', 'singer': '梁博', 'song_name': '男孩 (Live)', 'time': '5:11'}
+{'index': '272', 'singer': '易烊千玺', 'song_name': 'Nothing To Lose', 'time': '2:37'}
+{'index': '273', 'singer': '张杰', 'song_name': '星星 (Live)', 'time': '4:32'}
+{'index': '274', 'singer': '杨烁', 'song_name': '虫儿飞', 'time': '2:42'}
+{'index': '275', 'singer': '周杰伦', 'song_name': '晴天', 'time': '4:29'}
+{'index': '276', 'singer': '冯提莫', 'song_name': '远走高飞', 'time': '4:01'}
+{'index': '277', 'singer': '杨烁', 'song_name': '两只老虎', 'time': '1:12'}
+{'index': '278', 'singer': 'Adele', 'song_name': 'Hello', 'time': '4:55'}
+{'index': '279', 'singer': '张津涤', 'song_name': '女人没有错', 'time': '3:20'}
+{'index': '280', 'singer': '许巍', 'song_name': '蓝莲花', 'time': '4:30'}
+{'index': '281', 'singer': '郑智化', 'song_name': '水手', 'time': '4:59'}
+{'index': '282', 'singer': '卓依婷', 'song_name': '明天会更好', 'time': '4:40'}
+{'index': '283', 'singer': '黄龄', 'song_name': '痒', 'time': '3:48'}
+{'index': '284', 'singer': '孙燕姿', 'song_name': '遇见', 'time': '3:29'}
+{'index': '285', 'singer': '李荣浩', 'song_name': '后羿', 'time': '3:25'}
+{'index': '286', 'singer': 'Jam', 'song_name': '七月上', 'time': '3:10'}
+{'index': '287', 'singer': 'BIGBANG', 'song_name': 'BANG BANG BANG (뱅뱅뱅) (Korean Ver.)', 'time': '3:40'}
+{'index': '288', 'singer': '姜鹏', 'song_name': '兄弟想你了', 'time': '3:45'}
+{'index': '289', 'singer': '蒙面哥', 'song_name': '一亿个伤心', 'time': '4:24'}
+{'index': '290', 'singer': '张碧晨', 'song_name': '年轮', 'time': '4:34'}
+{'index': '291', 'singer': '李克勤', 'song_name': '红日', 'time': '4:47'}
+{'index': '292', 'singer': '毛不易', 'song_name': '说散就散', 'time': '1:29'}
+{'index': '293', 'singer': 'Michael Jackson', 'song_name': 'Beat It (Single Version)', 'time': '4:18'}
+{'index': '294', 'singer': '高进、小沈阳', 'song_name': '我的好兄弟', 'time': '4:37'}
+{'index': '295', 'singer': '草蜢', 'song_name': '失恋阵线联盟', 'time': '2:52'}
+{'index': '296', 'singer': '门丽', 'song_name': '死心塌地去爱你', 'time': '3:39'}
+{'index': '297', 'singer': '陈小云', 'song_name': '爱情的骗子我问你 (重制版)', 'time': '4:29'}
+{'index': '298', 'singer': '庞龙', 'song_name': '兄弟抱一下', 'time': '4:25'}
+{'index': '299', 'singer': '云朵', 'song_name': '我的楼兰', 'time': '5:27'}
+{'index': '300', 'singer': '薛之谦、毛不易', 'song_name': '消愁 (Live)', 'time': '2:53'}
+{'index': '301', 'singer': '杨宗纬', 'song_name': '一次就好', 'time': '4:26'}
+{'index': '302', 'singer': '罗大佑', 'song_name': '恋曲1990', 'time': '5:14'}
+{'index': '303', 'singer': '费玉清', 'song_name': '一剪梅', 'time': '3:46'}
+{'index': '304', 'singer': '高胜美', 'song_name': '千年等一回', 'time': '3:36'}
+{'index': '305', 'singer': '小峰峰', 'song_name': '足够', 'time': '1:49'}
+{'index': '306', 'singer': '林俊杰', 'song_name': '曹操', 'time': '4:04'}
+{'index': '307', 'singer': '薛之谦', 'song_name': '像风一样', 'time': '4:15'}
+{'index': '308', 'singer': '李晓东', 'song_name': '消愁 (Live)', 'time': '5:30'}
+{'index': '309', 'singer': '林俊杰', 'song_name': '可惜没如果', 'time': '4:58'}
+{'index': '310', 'singer': '王俊凯', 'song_name': '树读', 'time': '3:56'}
+{'index': '311', 'singer': '李克勤', 'song_name': '月半小夜曲', 'time': '4:53'}
+{'index': '312', 'singer': '张靓颖', 'song_name': '我的梦', 'time': '3:39'}
+{'index': '313', 'singer': '蔡徐坤', 'song_name': 'I Wanna Get Love', 'time': '3:14'}
+{'index': '314', 'singer': '张杰', 'song_name': '着魔', 'time': '3:35'}
+{'index': '315', 'singer': '正云', 'song_name': '不变的情缘', 'time': '4:16'}
+{'index': '316', 'singer': '十二大美女', 'song_name': '爱情骗子我问你', 'time': '4:12'}
+{'index': '317', 'singer': '华晨宇', 'song_name': '一人饮酒醉 (Live)', 'time': '3:35'}
+{'index': '318', 'singer': '王杰', 'song_name': '谁明浪子心', 'time': '5:03'}
+{'index': '319', 'singer': '卓依婷', 'song_name': '财神来到我家门', 'time': '3:03'}
+{'index': '320', 'singer': '汤潮', 'song_name': '妈妈我想你', 'time': '4:40'}
+{'index': '321', 'singer': '郭少杰', 'song_name': '一曲红尘', 'time': '4:30'}
+{'index': '322', 'singer': '易烊千玺', 'song_name': '宝贝', 'time': '2:47'}
+{'index': '323', 'singer': '陈洁丽', 'song_name': '猪猪侠', 'time': '3:36'}
+{'index': '324', 'singer': '张杰', 'song_name': '星辰', 'time': '4:09'}
+{'index': '325', 'singer': '林俊杰', 'song_name': '江南', 'time': '4:28'}
+{'index': '326', 'singer': '李晓杰', 'song_name': '朋友的酒', 'time': '4:23'}
+{'index': '327', 'singer': '杨幂', 'song_name': '爱的供养', 'time': '3:39'}
+{'index': '328', 'singer': '许嵩、何曼婷', 'song_name': '素颜', 'time': '3:58'}
+{'index': '329', 'singer': '馒头', 'song_name': '带你去网吧里偷耳机', 'time': '1:05'}
+{'index': '330', 'singer': '正云、少薇', 'song_name': '不变的情缘', 'time': '4:10'}
+{'index': '331', 'singer': 'TFBOYS', 'song_name': '信仰之名', 'time': '3:46'}
+{'index': '332', 'singer': '那英', 'song_name': '默', 'time': '5:25'}
+{'index': '333', 'singer': '苏芮', 'song_name': '酒干倘卖无', 'time': '4:38'}
+{'index': '334', 'singer': '孙子涵', 'song_name': '回忆那么伤', 'time': '3:57'}
+{'index': '335', 'singer': 'BEYOND', 'song_name': '喜欢你', 'time': '4:29'}
+{'index': '336', 'singer': '陈雅森', 'song_name': '温柔乡', 'time': '4:13'}
+{'index': '337', 'singer': '魏语诺', 'song_name': '一个人的歌', 'time': '3:33'}
+{'index': '338', 'singer': '张杰', 'song_name': '剑心', 'time': '4:12'}
+{'index': '339', 'singer': '胡蒎', 'song_name': '喝醉以后才明白', 'time': '3:52'}
+{'index': '340', 'singer': '冯提莫', 'song_name': '刚好遇见你', 'time': '3:21'}
+{'index': '341', 'singer': '凤凰传奇', 'song_name': '荷塘月色', 'time': '4:10'}
+{'index': '342', 'singer': 'TFBOYS', 'song_name': '样 (YOUNG)', 'time': '4:24'}
+{'index': '343', 'singer': '刀郎、云朵', 'song_name': '爱是你我', 'time': '5:18'}
+{'index': '344', 'singer': '孙露', 'song_name': '离别的秋天', 'time': '4:23'}
+{'index': '345', 'singer': 'G.E.M.邓紫棋', 'song_name': '泡沫', 'time': '4:18'}
+{'index': '346', 'singer': '林志炫', 'song_name': '你的样子', 'time': '4:23'}
+{'index': '347', 'singer': 'Mi2', 'song_name': '勇敢爱', 'time': '4:16'}
+{'index': '348', 'singer': '王蓉', 'song_name': '小鸡小鸡', 'time': '3:32'}
+{'index': '349', 'singer': '张镐哲', 'song_name': '路太远', 'time': '4:37'}
+{'index': '350', 'singer': 'Russ', 'song_name': 'Psycho, Pt. 2', 'time': '2:42'}
+{'index': '351', 'singer': '郁可唯', 'song_name': '思慕', 'time': '5:07'}
+{'index': '352', 'singer': '徐誉滕', 'song_name': '天使的翅膀', 'time': '3:35'}
+{'index': '353', 'singer': '封茗囧菌', 'song_name': '红昭愿', 'time': '2:52'}
+{'index': '354', 'singer': '陈瑞', 'song_name': '白狐', 'time': '5:09'}
+{'index': '355', 'singer': '白小白', 'song_name': '最后我们没在一起', 'time': '3:19'}
+{'index': '356', 'singer': 'Alan Walker', 'song_name': 'Alone', 'time': '2:41'}
+{'index': '357', 'singer': '汪峰', 'song_name': '儿时 (Live)', 'time': '5:44'}
+{'index': '358', 'singer': '刘欢', 'song_name': '好汉歌', 'time': '3:12'}
+{'index': '359', 'singer': '陈势安', 'song_name': '天后', 'time': '4:49'}
+{'index': '360', 'singer': 'Tiësto、Sevenn', 'song_name': 'BOOM', 'time': '2:34'}
+{'index': '361', 'singer': '李溪芮', 'song_name': '抱着都痛', 'time': '4:15'}
+{'index': '362', 'singer': 'Zedd、Jon Bellion', 'song_name': 'Beautiful Now', 'time': '3:38'}
+{'index': '363', 'singer': '大哲', 'song_name': '闯码头', 'time': '3:37'}
+{'index': '364', 'singer': '陈奕迅', 'song_name': '等你爱我', 'time': '4:44'}
+{'index': '365', 'singer': '刘德华', 'song_name': '一起走过的日子', 'time': '3:56'}
+{'index': '366', 'singer': '吴静', 'song_name': '女儿情', 'time': '4:32'}
+{'index': '367', 'singer': 'Punch、灿烈', 'song_name': 'Stay With Me', 'time': '3:12'}
+{'index': '368', 'singer': '金志文、黑墨', 'song_name': '远走高飞 (Live)', 'time': '5:11'}
+{'index': '369', 'singer': '叶洛洛', 'song_name': '咖喱咖喱', 'time': '2:38'}
+{'index': '370', 'singer': '刀郎', 'song_name': '手心里的温柔', 'time': '4:56'}
+{'index': '371', 'singer': '张学友', 'song_name': '只想一生跟你走', 'time': '5:13'}
+{'index': '372', 'singer': '叶倩文', 'song_name': '潇洒走一回', 'time': '4:10'}
+{'index': '373', 'singer': '夏婉安', 'song_name': '一个人', 'time': '3:14'}
+{'index': '374', 'singer': '冷漠、杨小曼', 'song_name': '我爱你胜过你爱我', 'time': '4:43'}
+{'index': '375', 'singer': '卓依婷', 'song_name': '童年', 'time': '3:07'}
+{'index': '376', 'singer': '白小白', 'song_name': '不甘示弱', 'time': '3:32'}
+{'index': '377', 'singer': '张信哲', 'song_name': '过火 (Live)', 'time': '2:34'}
+{'index': '378', 'singer': '刘德华', 'song_name': '忘情水', 'time': '4:25'}
+{'index': '379', 'singer': '林俊杰', 'song_name': '小酒窝', 'time': '3:37'}
+{'index': '380', 'singer': 'Git Fresh', 'song_name': 'Booty Music', 'time': '3:01'}
+{'index': '381', 'singer': '张二嫂', 'song_name': '他真的比我爱你吗', 'time': '4:26'}
+{'index': '382', 'singer': 'BEYOND', 'song_name': '谁伴我闯荡', 'time': '4:12'}
+{'index': '383', 'singer': '周华健', 'song_name': '难念的经', 'time': '4:48'}
+{'index': '384', 'singer': '冷漠', 'song_name': '伤心城市', 'time': '4:24'}
+{'index': '385', 'singer': 'GAI', 'song_name': '苦行僧 (Live)', 'time': '2:23'}
+{'index': '386', 'singer': '黄渤', 'song_name': '正义之道', 'time': '3:34'}
+{'index': '387', 'singer': '徐薇', 'song_name': '体面', 'time': '4:43'}
+{'index': '388', 'singer': '冷漠、张冬玲', 'song_name': '我在红尘中遇见你', 'time': '4:36'}
+{'index': '389', 'singer': '周华健', 'song_name': '朋友', 'time': '5:11'}
+{'index': '390', 'singer': '伍佰&China Blue', 'song_name': '突然的自我 (Live)', 'time': '3:36'}
+{'index': '391', 'singer': '吴亦凡', 'song_name': 'JULY', 'time': '3:06'}
+{'index': '392', 'singer': '贾玲、刘维', 'song_name': '感觉自己萌萌哒', 'time': '3:46'}
+{'index': '393', 'singer': '张碧晨', 'song_name': '下一秒', 'time': '3:14'}
+{'index': '394', 'singer': '梅艳芳', 'song_name': '女人花', 'time': '4:50'}
+{'index': '395', 'singer': '李玉刚', 'song_name': '新贵妃醉酒', 'time': '4:55'}
+{'index': '396', 'singer': '郑源', 'song_name': '爱情码头', 'time': '5:00'}
+{'index': '397', 'singer': '陶钰玉', 'song_name': '你会爱我到什么时候', 'time': '4:02'}
+{'index': '398', 'singer': '侯旭', 'song_name': '逃', 'time': '3:59'}
+{'index': '399', 'singer': '韩宝仪', 'song_name': '粉红色的回忆', 'time': '3:49'}
+{'index': '400', 'singer': 'BEYOND', 'song_name': '灰色轨迹', 'time': '5:26'}
+{'index': '401', 'singer': '樊竹青', 'song_name': '蓝精灵', 'time': '2:06'}
+{'index': '402', 'singer': '六哲', 'song_name': '让全世界知道我爱你', 'time': '4:22'}
+{'index': '403', 'singer': '动力火车', 'song_name': '当', 'time': '5:00'}
+{'index': '404', 'singer': '杨宗纬', 'song_name': '红尘来去一场梦 (Live)', 'time': '4:10'}
+{'index': '405', 'singer': '吴亦凡', 'song_name': '时间煮雨', 'time': '4:08'}
+{'index': '406', 'singer': '高进、大壮', 'song_name': '本色英雄', 'time': '4:02'}
+{'index': '407', 'singer': '张艺兴', 'song_name': '一个人', 'time': '3:51'}
+{'index': '408', 'singer': '梁静茹', 'song_name': '问 (Live)', 'time': '3:27'}
+{'index': '409', 'singer': 'TFBOYS', 'song_name': '真心话太冒险', 'time': '3:40'}
+{'index': '410', 'singer': '张学友', 'song_name': '一千个伤心的理由', 'time': '4:36'}
+{'index': '411', 'singer': '张震岳', 'song_name': '再见', 'time': '3:03'}
+{'index': '412', 'singer': '孙露', 'song_name': '再度重相逢', 'time': '3:27'}
+{'index': '413', 'singer': '薛之谦', 'song_name': '动物世界', 'time': '3:50'}
+{'index': '414', 'singer': '凤凰传奇', 'song_name': '自由飞翔', 'time': '4:12'}
+{'index': '415', 'singer': '庄心妍', 'song_name': '两个人的回忆一个人过', 'time': '4:27'}
+{'index': '416', 'singer': '回音哥', 'song_name': '海绵宝宝', 'time': '3:28'}
+{'index': '417', 'singer': '云菲菲、冷漠', 'song_name': '这条街', 'time': '3:53'}
+{'index': '418', 'singer': '莫露露', 'song_name': '爱情主演', 'time': '3:59'}
+{'index': '419', 'singer': '邓丽君', 'song_name': '漫步人生路', 'time': '3:44'}
+{'index': '420', 'singer': '菲儿', 'song_name': '太想念', 'time': '3:50'}
+{'index': '421', 'singer': '曹越', 'song_name': '你的眼角流着我的泪', 'time': '4:24'}
+{'index': '422', 'singer': '林志炫', 'song_name': '单身情歌', 'time': '4:37'}
+{'index': '423', 'singer': '阿悄、本兮', 'song_name': '无限速', 'time': '2:51'}
+{'index': '424', 'singer': 'Alan Walker', 'song_name': 'The Spectre', 'time': '3:14'}
+{'index': '425', 'singer': '许嵩', 'song_name': '有何不可', 'time': '3:59'}
+{'index': '426', 'singer': '水木年华', 'song_name': '一生有你', 'time': '4:18'}
+{'index': '427', 'singer': '孙晨', 'song_name': '拜托', 'time': '3:45'}
+{'index': '428', 'singer': '刀郎', 'song_name': '2002年的第一场雪', 'time': '4:14'}
+{'index': '429', 'singer': '庄心妍', 'song_name': '再遇不到你这样的人', 'time': '5:22'}
+{'index': '430', 'singer': '雨露', 'song_name': '下一次相遇', 'time': '4:32'}
+{'index': '431', 'singer': '鹿晗', 'song_name': '超级冠军', 'time': '4:29'}
+{'index': '432', 'singer': '毛不易', 'song_name': '无问', 'time': '4:18'}
+{'index': '433', 'singer': '曾咏欣', 'song_name': '心微痛', 'time': '4:07'}
+{'index': '434', 'singer': '孙露', 'song_name': '想着你亲爱的', 'time': '4:05'}
+{'index': '435', 'singer': 'Alex Goot、Madilyn Bailey', 'song_name': 'Something Just Like This', 'time': '2:59'}
+{'index': '436', 'singer': 'Sainkho Namtchylak', 'song_name': 'Lost Rivers', 'time': '7:18'}
+{'index': '437', 'singer': '冷漠', 'song_name': '没有你陪伴我真的好孤单', 'time': '4:49'}
+{'index': '438', 'singer': 'Gibb-Z', 'song_name': 'My Hot Girl', 'time': '3:53'}
+{'index': '439', 'singer': '汪峰', 'song_name': '普通DISCO (Live)', 'time': '4:06'}
+{'index': '440', 'singer': '陈雪凝', 'song_name': '白山茶', 'time': '4:14'}
+{'index': '441', 'singer': '刀郎', 'song_name': '谢谢你', 'time': '5:56'}
+{'index': '442', 'singer': 'Colbie Caillat', 'song_name': 'Try', 'time': '3:44'}
+{'index': '443', 'singer': '张冬玲', 'song_name': '花开的时候你就来看我', 'time': '3:48'}
+{'index': '444', 'singer': '霍建华、赵丽颖', 'song_name': '不可说', 'time': '3:42'}
+{'index': '445', 'singer': '程响', 'song_name': '新娘不是我', 'time': '4:42'}
+{'index': '446', 'singer': '杨峻荣、范晓萱', 'song_name': '健康歌', 'time': '3:00'}
+{'index': '447', 'singer': '张磊', 'song_name': '文艺少年', 'time': '4:21'}
+{'index': '448', 'singer': '胡一天、赵天宇', 'song_name': '带你去旅行 (Live)', 'time': '2:09'}
+{'index': '449', 'singer': 'BEYOND', 'song_name': '大地', 'time': '4:19'}
+{'index': '450', 'singer': '小曾', 'song_name': '军中绿花', 'time': '4:09'}
+{'index': '451', 'singer': '陈小虎', 'song_name': '可乐', 'time': '3:56'}
+{'index': '452', 'singer': '张韶涵', 'song_name': '梦里花 (Live)', 'time': '4:42'}
+{'index': '453', 'singer': '任贤齐', 'song_name': '伤心太平洋', 'time': '4:26'}
+{'index': '454', 'singer': '毛毛', 'song_name': '奇迹再现', 'time': '3:56'}
+{'index': '455', 'singer': '蔡依林、陶喆', 'song_name': '今天你要嫁给我', 'time': '4:32'}
+{'index': '456', 'singer': '刘思涵', 'song_name': '走在冷风中', 'time': '3:35'}
+{'index': '457', 'singer': 'Bridge', 'song_name': '老大 (Live)', 'time': '1:08'}
+{'index': '458', 'singer': '吉克隽逸', 'song_name': '一生所爱', 'time': '4:02'}
+{'index': '459', 'singer': '刘明湘', 'song_name': '漂洋过海来看你', 'time': '5:01'}
+{'index': '460', 'singer': '赖鸿根', 'song_name': '谈判官', 'time': '4:22'}
+{'index': '461', 'singer': '许哲佩', 'song_name': '气球', 'time': '4:17'}
+{'index': '462', 'singer': '周杰伦', 'song_name': '听妈妈的话', 'time': '4:23'}
+{'index': '463', 'singer': '鹿晗', 'song_name': '让我留在你身边', 'time': '3:02'}
+{'index': '464', 'singer': '晨熙、司徒兰芳', 'song_name': '永远放你在心底', 'time': '3:57'}
+{'index': '465', 'singer': '汪苏泷', 'song_name': '那个男孩', 'time': '3:36'}
+{'index': '466', 'singer': '汤宝如、张学友', 'song_name': '相思风雨中', 'time': '4:10'}
+{'index': '467', 'singer': '谭咏麟', 'song_name': '一生中最爱', 'time': '4:27'}
+{'index': '468', 'singer': '赵雷', 'song_name': '我们的时光', 'time': '4:30'}
+{'index': '469', 'singer': '宋祖英', 'song_name': '好日子', 'time': '2:53'}
+{'index': '470', 'singer': '李玉刚、石头', 'song_name': '雨花石', 'time': '5:32'}
+{'index': '471', 'singer': '陈瑞', 'song_name': '相思的债', 'time': '4:50'}
+{'index': '472', 'singer': '麦小兜、校长', 'song_name': '甜了个蜜', 'time': '3:55'}
+{'index': '473', 'singer': '冯提莫', 'song_name': '凉凉', 'time': '5:36'}
+{'index': '474', 'singer': '杜歌', 'song_name': '兄弟难当', 'time': '4:11'}
+{'index': '475', 'singer': '胡歌', 'song_name': '忘记时间', 'time': '4:25'}
+{'index': '476', 'singer': '叶倩文', 'song_name': '曾经心痛', 'time': '4:41'}
+{'index': '477', 'singer': '张宇', 'song_name': '雨一直下', 'time': '4:49'}
+{'index': '478', 'singer': 'Queen', 'song_name': 'We Will Rock You (我们将击败你)', 'time': '2:03'}
+{'index': '479', 'singer': 'Carpenters', 'song_name': 'Yesterday Once More', 'time': '4:01'}
+{'index': '480', 'singer': 'G-DRAGON', 'song_name': '삐딱하게 (Crooked)', 'time': '3:44'}
+{'index': '481', 'singer': '卓依婷', 'song_name': '生日快乐', 'time': '2:02'}
+{'index': '482', 'singer': '门丽', 'song_name': '美美哒', 'time': '3:38'}
+{'index': '483', 'singer': '张宇', 'song_name': '月亮惹的祸', 'time': '4:19'}
+{'index': '484', 'singer': '陈奕迅、王菲', 'song_name': '因为爱情', 'time': '3:37'}
+{'index': '485', 'singer': '张碧晨', 'song_name': '不要忘记我爱你', 'time': '3:45'}
+{'index': '486', 'singer': '程响', 'song_name': '不再联系', 'time': '3:56'}
+{'index': '487', 'singer': '王菲', 'song_name': '匆匆那年', 'time': '4:03'}
+{'index': '488', 'singer': '李圣杰', 'song_name': '痴心绝对', 'time': '4:22'}
+{'index': '489', 'singer': 'G.E.M.邓紫棋', 'song_name': '夜空中最亮的星', 'time': '3:52'}
+{'index': '490', 'singer': '汪苏泷', 'song_name': '不分手的恋爱', 'time': '3:25'}
+{'index': '491', 'singer': '邓丽君', 'song_name': '甜蜜蜜', 'time': '3:29'}
+{'index': '492', 'singer': '李思琳', 'song_name': '三个和尚', 'time': '3:50'}
+{'index': '493', 'singer': '庄心妍', 'song_name': '好可惜', 'time': '5:15'}
+{'index': '494', 'singer': '罗文、甄妮', 'song_name': '铁血丹心', 'time': '2:57'}
+{'index': '495', 'singer': '冰冰超人', 'song_name': '八年的爱', 'time': '3:12'}
+{'index': '496', 'singer': '南宫嘉骏', 'song_name': '回忆总想哭', 'time': '4:50'}
+{'index': '497', 'singer': '光良', 'song_name': '童话', 'time': '4:04'}
+{'index': '498', 'singer': 'Cash Cash、Sofia Reyes', 'song_name': 'How To Love', 'time': '3:38'}
+{'index': '499', 'singer': '薛之谦', 'song_name': '我好像在哪见过你', 'time': '4:39'}
+{'index': '500', 'singer': '蒋蒋', 'song_name': '残雪', 'time': '3:59'}
+{'index': '1', 'singer': '于文文', 'song_name': '体面', 'time': '4:42'}
+{'index': '2', 'singer': '袁娅维', 'song_name': '说散就散', 'time': '4:02'}
+{'index': '3', 'singer': '新乐尘符', 'song_name': '123我爱你', 'time': '3:19'}
+{'index': '4', 'singer': '鞠文娴', 'song_name': 'BINGBIAN病变 (女声版)', 'time': '4:07'}
+{'index': '5', 'singer': '胡66', 'song_name': '空空如也', 'time': '3:31'}
+{'index': '6', 'singer': '广东雨神', 'song_name': '广东爱情故事', 'time': '3:34'}
+{'index': '7', 'singer': '大壮', 'song_name': '我们不一样', 'time': '4:31'}
+{'index': '8', 'singer': '张北北', 'song_name': '拥抱你离去', 'time': '4:02'}
+{'index': '9', 'singer': '买辣椒也用券', 'song_name': '起风了', 'time': '5:24'}
+{'index': '10', 'singer': 'ラムジ', 'song_name': 'PLANET', 'time': '4:08'}
+{'index': '11', 'singer': '杨宗纬、张碧晨', 'song_name': '凉凉', 'time': '5:33'}
+{'index': '12', 'singer': '校长', 'song_name': '带你去旅行', 'time': '3:46'}
+{'index': '13', 'singer': '大壮', 'song_name': '差一步', 'time': '4:05'}
+{'index': '14', 'singer': '麦小兜', 'song_name': '9420', 'time': '3:49'}
+{'index': '15', 'singer': '金志文、徐佳莹', 'song_name': '远走高飞', 'time': '3:55'}
+{'index': '16', 'singer': '岑宁儿', 'song_name': '追光者', 'time': '3:55'}
+{'index': '17', 'singer': '徐秉龙、沈以诚', 'song_name': '白羊', 'time': '2:48'}
+{'index': '18', 'singer': '胡66', 'song_name': '不必说抱歉', 'time': '4:03'}
+{'index': '19', 'singer': '安苏羽', 'song_name': '缺氧', 'time': '4:31'}
+{'index': '20', 'singer': '华语群星', 'song_name': '少林英雄', 'time': '3:00'}
+{'index': '21', 'singer': '李玉刚', 'song_name': '刚好遇见你', 'time': '3:19'}
+{'index': '22', 'singer': '音阙诗听', 'song_name': '红昭愿', 'time': '2:53'}
+{'index': '45', 'singer': '王建房', 'song_name': '在人间', 'time': '3:54'}
+{'index': '46', 'singer': '秋裤大叔', 'song_name': '一晃就老了', 'time': '4:15'}
+{'index': '47', 'singer': '周杰伦', 'song_name': '等你下课 (with 杨瑞代)', 'time': '4:30'}
+{'index': '48', 'singer': '林俊杰', 'song_name': '醉赤壁', 'time': '4:41'}
+{'index': '49', 'singer': '庄心妍', 'song_name': '再见只是陌生人', 'time': '4:12'}
+{'index': '50', 'singer': '张杰', 'song_name': '三生三世', 'time': '4:17'}
+{'index': '51', 'singer': '汪苏泷、By2', 'song_name': '有点甜', 'time': '3:55'}
+{'index': '52', 'singer': '金志文', 'song_name': '远走高飞', 'time': '4:01'}
+{'index': '53', 'singer': '大哲', 'song_name': '三十出头', 'time': '3:23'}
+{'index': '54', 'singer': '彭筝', 'song_name': '太想念', 'time': '3:50'}
+{'index': '55', 'singer': 'Tez Cadey', 'song_name': 'Seve (Radio Edit)', 'time': '3:30'}
+{'index': '56', 'singer': '赵方婧', 'song_name': '尽头', 'time': '4:16'}
+{'index': '57', 'singer': 'TFBOYS', 'song_name': '青春修炼手册', 'time': '4:23'}
+{'index': '58', 'singer': '薛之谦', 'song_name': '演员', 'time': '4:21'}
+{'index': '59', 'singer': '云菲菲', 'song_name': '殇雪', 'time': '4:44'}
+{'index': '60', 'singer': '纳兰珠儿、高安', 'song_name': '花桥流水', 'time': '3:34'}
+{'index': '61', 'singer': '杨清柠、王乐乐', 'song_name': '我们', 'time': '3:40'}
+{'index': '62', 'singer': '陈一发儿', 'song_name': '童话镇', 'time': '4:17'}
+{'index': '63', 'singer': '旭日阳刚刘刚', 'song_name': '怀念青春', 'time': '4:28'}
+{'index': '64', 'singer': '王乐乐', 'song_name': '雨后人去楼也空', 'time': '3:08'}
+{'index': '65', 'singer': '吴亦凡、赵丽颖', 'song_name': '想你', 'time': '4:04'}
+{'index': '66', 'singer': 'BEYOND', 'song_name': '海阔天空', 'time': '5:22'}
+{'index': '67', 'singer': '张杰', 'song_name': '逆战', 'time': '3:49'}
+{'index': '68', 'singer': 'JC', 'song_name': '说散就散', 'time': '3:51'}
+{'index': '69', 'singer': '华晨宇', 'song_name': '齐天 (Live)', 'time': '4:49'}
+{'index': '70', 'singer': '叶炫清', 'song_name': '九张机', 'time': '3:40'}
+{'index': '71', 'singer': 'TFBOYS', 'song_name': '加油!AMIGO', 'time': '4:24'}
+{'index': '72', 'singer': 'TFBOYS', 'song_name': '大梦想家', 'time': '3:46'}
+{'index': '73', 'singer': '尚钰淞', 'song_name': '起风了', 'time': '4:23'}
+{'index': '74', 'singer': '金南玲', 'song_name': '逆流成河', 'time': '2:05'}
+{'index': '75', 'singer': '贾乃亮、贾云馨', 'song_name': '大王叫我来巡山', 'time': '3:41'}
+{'index': '76', 'singer': 'TFBOYS', 'song_name': '宠爱', 'time': '4:26'}
+{'index': '77', 'singer': 'Joel Adams', 'song_name': "Please Don't Go", 'time': '3:31'}
+{'index': '78', 'singer': 'BEYOND', 'song_name': '光辉岁月', 'time': '5:01'}
+{'index': '79', 'singer': '薛之谦', 'song_name': '丑八怪', 'time': '4:13'}
+{'index': '80', 'singer': 'Ed Sheeran', 'song_name': 'Shape of You', 'time': '3:53'}
+{'index': '81', 'singer': '冯提莫', 'song_name': '说散就散', 'time': '3:50'}
+{'index': '82', 'singer': '蒋龙', 'song_name': '行者', 'time': '3:02'}
+{'index': '83', 'singer': 'Luis Fonsi、Daddy Yankee、Justin Bieber', 'song_name': 'Despacito (Remix)', 'time': '3:48'}
+{'index': '84', 'singer': '阿涵', 'song_name': '过客', 'time': '4:30'}
+{'index': '85', 'singer': '张韶涵', 'song_name': '阿刁 (Live)', 'time': '5:21'}
+{'index': '86', 'singer': '王欣宇', 'song_name': '心愿便利贴', 'time': '2:57'}
+{'index': '87', 'singer': '张杰', 'song_name': 'Precious', 'time': '3:43'}
+{'index': '88', 'singer': '张艺兴', 'song_name': '羊 (SHEEP)', 'time': '3:25'}
+{'index': '89', 'singer': '刘佳', 'song_name': '爱的就是你', 'time': '4:33'}
+{'index': '90', 'singer': '鹿晗', 'song_name': '致爱 Your Song', 'time': '3:11'}
+{'index': '91', 'singer': '筷子兄弟', 'song_name': '父亲', 'time': '5:01'}
+{'index': '92', 'singer': '高安、黑鸭子', 'song_name': '红尘情歌', 'time': '3:29'}
+{'index': '93', 'singer': '花姐', 'song_name': '等一分钟 (Live)', 'time': '2:17'}
+{'index': '94', 'singer': '梦然', 'song_name': '没有你陪伴真的好孤单', 'time': '1:03'}
+{'index': '95', 'singer': '林志颖、郭涛、Kimi、张亮、张悦轩、王岳伦、郭子睿、王诗龄', 'song_name': '...', 'time': '4:35'}
+{'index': '96', 'singer': '李荣浩', 'song_name': '李白', 'time': '4:33'}
+{'index': '97', 'singer': '刀郎', 'song_name': '西海情歌', 'time': '5:43'}
+{'index': '98', 'singer': '刘若英', 'song_name': '后来', 'time': '5:41'}
+{'index': '99', 'singer': '田馥甄', 'song_name': '小幸运', 'time': '4:25'}
+{'index': '100', 'singer': '王丽坤、朱亚文', 'song_name': '漂洋过海来看你', 'time': '4:40'}
+{'index': '101', 'singer': '阿冷', 'song_name': '春风吹', 'time': '2:05'}
+{'index': '102', 'singer': '庄心妍', 'song_name': '放过自己', 'time': '4:09'}
+{'index': '103', 'singer': 'Cubi、江澈、Younglife', 'song_name': 'BINGBIAN病变', 'time': '4:02'}
+{'index': '104', 'singer': '齐晨', 'song_name': '咱们结婚吧', 'time': '3:48'}
+{'index': '105', 'singer': '周杰伦', 'song_name': '青花瓷', 'time': '3:57'}
+{'index': '106', 'singer': '庄心妍', 'song_name': '走着走着就散了', 'time': '4:28'}
+{'index': '107', 'singer': '赵鑫', 'song_name': '许多年以后', 'time': '5:12'}
+{'index': '108', 'singer': '黑龙', 'song_name': '盗心贼', 'time': '3:34'}
+{'index': '109', 'singer': '你样哥', 'song_name': '平底锅吃鸡摇', 'time': '3:30'}
+{'index': '110', 'singer': '尢枫', 'song_name': '123我爱你', 'time': '3:19'}
+{'index': '111', 'singer': 'BEYOND', 'song_name': '真的爱你', 'time': '4:38'}
+{'index': '112', 'singer': '周延英(英子-effie)', 'song_name': '那个人', 'time': '4:39'}
+{'index': '113', 'singer': '萧全', 'song_name': '社会摇', 'time': '4:09'}
+{'index': '114', 'singer': 'TFBOYS', 'song_name': '我们的时光', 'time': '3:50'}
+{'index': '115', 'singer': '苏勒亚其其格', 'song_name': '歌在飞', 'time': '4:04'}
+{'index': '116', 'singer': '鹿晗', 'song_name': '追梦赤子心', 'time': '4:56'}
+{'index': '117', 'singer': '刘德华', 'song_name': '恭喜发财', 'time': '3:22'}
+{'index': '118', 'singer': 'G.E.M.邓紫棋', 'song_name': '喜欢你', 'time': '3:59'}
+{'index': '119', 'singer': '王奕心', 'song_name': '我的唇吻不到我爱的人', 'time': '4:39'}
+{'index': '120', 'singer': 'Tungevaag & Raaban', 'song_name': 'Samsara', 'time': '3:31'}
+{'index': '121', 'singer': '刘佳、十二星宿 风之少年', 'song_name': '爱的就是你', 'time': '3:53'}
+{'index': '122', 'singer': '容祖儿', 'song_name': '这种天真', 'time': '5:12'}
+{'index': '123', 'singer': '李翊君', 'song_name': '雨蝶', 'time': '3:52'}
+{'index': '124', 'singer': '张杰', 'song_name': '我们都一样 (Live)', 'time': '5:04'}
+{'index': '125', 'singer': 'Ryan.B of CNBALLER、AY杨佬叁', 'song_name': '再也没有', 'time': '3:32'}
+{'index': '126', 'singer': '汪苏泷', 'song_name': '一笑倾城', 'time': '3:51'}
+{'index': '127', 'singer': '鹿晗', 'song_name': '勋章', 'time': '3:33'}
+{'index': '128', 'singer': '郑源', 'song_name': '包容', 'time': '4:23'}
+{'index': '129', 'singer': 'RADWIMPS', 'song_name': 'スパークル (Movie ver.)', 'time': '8:54'}
+{'index': '130', 'singer': '朴树', 'song_name': '平凡之路', 'time': '5:02'}
+{'index': '131', 'singer': '蒋蒋', 'song_name': '退', 'time': '4:01'}
+{'index': '132', 'singer': 'Wiz Khalifa、Charlie Puth', 'song_name': 'See You Again', 'time': '3:49'}
+{'index': '133', 'singer': '贝瓦儿歌', 'song_name': '拍手歌', 'time': '2:59'}
+{'index': '134', 'singer': 'TFBOYS', 'song_name': '躲猫猫', 'time': '3:09'}
+{'index': '135', 'singer': '贺敬轩', 'song_name': '罗曼蒂克的爱情', 'time': '3:29'}
+{'index': '136', 'singer': '陶喆', 'song_name': '就是爱你', 'time': '4:22'}
+{'index': '137', 'singer': '薛之谦', 'song_name': '认真的雪', 'time': '4:18'}
+{'index': '138', 'singer': '熊梓淇', 'song_name': '说爱你', 'time': '3:35'}
+{'index': '139', 'singer': '蒋雪儿', 'song_name': '爱河', 'time': '3:38'}
+{'index': '140', 'singer': '刘珂矣', 'song_name': '风筝误', 'time': '3:58'}
+{'index': '141', 'singer': '冯提莫', 'song_name': '再见前任', 'time': '3:20'}
+{'index': '142', 'singer': '王雪晶', 'song_name': '拔萝卜', 'time': '1:37'}
+{'index': '143', 'singer': '徐誉滕', 'song_name': '等一分钟', 'time': '3:56'}
+{'index': '144', 'singer': '陈雅森', 'song_name': '我的快乐就是想你', 'time': '5:05'}
+{'index': '145', 'singer': '陆树铭', 'song_name': '一壶老酒', 'time': '4:20'}
+{'index': '146', 'singer': '刘珂矣', 'song_name': '半壶纱', 'time': '3:42'}
+{'index': '147', 'singer': '简弘亦', 'song_name': '体面', 'time': '4:39'}
+{'index': '148', 'singer': 'Idina Menzel', 'song_name': 'Let It Go', 'time': '3:44'}
+{'index': '149', 'singer': '巧千金', 'song_name': '小毛驴', 'time': '2:02'}
+{'index': '150', 'singer': '双笙', 'song_name': '我的一个道姑朋友', 'time': '5:14'}
+{'index': '151', 'singer': '王宝与正午阳光', 'song_name': '儿子 我是你爸爸 (Demo版)', 'time': '1:56'}
+{'index': '152', 'singer': 'KT、Chiu Chiu', 'song_name': '7538 (Me U-Remix)', 'time': '3:30'}
+{'index': '153', 'singer': 'TFBOYS', 'song_name': '魔法城堡', 'time': '4:17'}
+{'index': '154', 'singer': '薛明媛、朱贺', 'song_name': '非酋', 'time': '2:52'}
+{'index': '155', 'singer': '陈奕迅', 'song_name': '十年', 'time': '3:22'}
+{'index': '156', 'singer': '薛之谦', 'song_name': '你还要我怎样', 'time': '5:10'}
+{'index': '157', 'singer': '降央卓玛', 'song_name': '西海情歌', 'time': '5:02'}
+{'index': '158', 'singer': '曾缔', 'song_name': '还是爱了', 'time': '3:52'}
+{'index': '159', 'singer': '任然', 'song_name': '空空如也', 'time': '3:33'}
+{'index': '160', 'singer': '凤凰传奇', 'song_name': '最炫民族风', 'time': '4:45'}
+{'index': '161', 'singer': '薛之谦', 'song_name': '天后 (Live)', 'time': '4:07'}
+{'index': '162', 'singer': 'Justin Bieber、Ludacris', 'song_name': 'Baby', 'time': '3:34'}
+{'index': '163', 'singer': '汪苏泷', 'song_name': '小星星', 'time': '3:16'}
+{'index': '164', 'singer': '易烊千玺', 'song_name': '离骚', 'time': '4:26'}
+{'index': '165', 'singer': '赵天宇、周震南', 'song_name': '吸引力法则', 'time': '4:20'}
+{'index': '166', 'singer': '正云、少薇', 'song_name': '下定决心忘记你', 'time': '3:42'}
+{'index': '167', 'singer': '杨清柠', 'song_name': '四年半', 'time': '3:49'}
+{'index': '168', 'singer': '汪苏泷', 'song_name': '追光者 (Live)', 'time': '4:09'}
+{'index': '169', 'singer': 'DAISHI DANCE、Cecile Corbel', 'song_name': 'Take Me Hand', 'time': '4:19'}
+{'index': '170', 'singer': '华晨宇', 'song_name': '智商二五零', 'time': '3:33'}
+{'index': '171', 'singer': '周传雄', 'song_name': '黄昏', 'time': '5:44'}
+{'index': '172', 'singer': '冷漠、杨小曼', 'song_name': '爱如星火', 'time': '4:20'}
+{'index': '173', 'singer': '南征北战NZBZ', 'song_name': '我的天空', 'time': '3:54'}
+{'index': '174', 'singer': 'TFBOYS', 'song_name': '是你', 'time': '3:51'}
+{'index': '175', 'singer': '李晓杰', 'song_name': '把酒倒满', 'time': '4:26'}
+{'index': '176', 'singer': 'Luis Fonsi', 'song_name': 'Despacito (Versión Pop)', 'time': '3:49'}
+{'index': '177', 'singer': '杨洋', 'song_name': '微微一笑很倾城', 'time': '3:25'}
+{'index': '178', 'singer': '段丽阳', 'song_name': '爸爸妈妈听我说', 'time': '3:27'}
+{'index': '179', 'singer': '陈慧娴', 'song_name': '千千阕歌', 'time': '5:00'}
+{'index': '180', 'singer': '唐古', 'song_name': '你的过去我不介意', 'time': '4:04'}
+{'index': '181', 'singer': '庄心妍', 'song_name': '以后的以后', 'time': '4:58'}
+{'index': '182', 'singer': '周杰伦', 'song_name': '稻香', 'time': '3:43'}
+{'index': '183', 'singer': '冷漠、杨小曼', 'song_name': '心锁', 'time': '4:16'}
+{'index': '184', 'singer': '邓丽君', 'song_name': '我只在乎你', 'time': '4:16'}
+{'index': '185', 'singer': '刘大美人', 'song_name': '你是我爱的人', 'time': '4:00'}
+{'index': '186', 'singer': '王童语', 'song_name': '丫头', 'time': '5:32'}
+{'index': '187', 'singer': '薛之谦', 'song_name': '意外', 'time': '4:47'}
+{'index': '188', 'singer': '许巍', 'song_name': '曾经的你', 'time': '4:23'}
+{'index': '189', 'singer': '车继铃', 'song_name': '最远的你是我最近的爱', 'time': '4:12'}
+{'index': '190', 'singer': '金莎', 'song_name': '爱的魔法', 'time': '3:11'}
+{'index': '191', 'singer': '王冕', 'song_name': '勉为其难', 'time': '4:09'}
+{'index': '192', 'singer': '白鹿', 'song_name': '凤囚凰', 'time': '5:03'}
+{'index': '193', 'singer': '胡彦斌', 'song_name': '你要的全拿走', 'time': '4:59'}
+{'index': '194', 'singer': 'Vicetone、Cozi Zuehlsdorff', 'song_name': 'Nevada', 'time': '3:28'}
+{'index': '195', 'singer': '林俊杰', 'song_name': '当你', 'time': '4:09'}
+{'index': '196', 'singer': '祖海', 'song_name': '好运来', 'time': '3:34'}
+{'index': '197', 'singer': '巧千金', 'song_name': '小宝贝', 'time': '2:31'}
+{'index': '198', 'singer': '董真', 'song_name': '繁花', 'time': '3:45'}
+{'index': '199', 'singer': 'BEYOND', 'song_name': '不再犹豫', 'time': '4:12'}
+{'index': '200', 'singer': '薛之谦', 'song_name': '绅士', 'time': '4:51'}
+{'index': '201', 'singer': '蜘向镜ALine', 'song_name': 'PLANET', 'time': '4:08'}
+{'index': '202', 'singer': 'K.D', 'song_name': 'BINGBIAN病变', 'time': '4:00'}
+{'index': '203', 'singer': '卢冠廷、莫文蔚', 'song_name': '一生所爱', 'time': '4:34'}
+{'index': '204', 'singer': '麦小兜', 'song_name': '心愿便利贴', 'time': '4:17'}
+{'index': '205', 'singer': '薛之谦', 'song_name': '刚刚好', 'time': '4:11'}
+{'index': '206', 'singer': '范晓萱', 'song_name': '我爱洗澡', 'time': '2:50'}
+{'index': '207', 'singer': '杨沛宜', 'song_name': '左手右手', 'time': '2:41'}
+{'index': '208', 'singer': '刀郎', 'song_name': '冲动的惩罚', 'time': '7:50'}
+{'index': '209', 'singer': '薛之谦', 'song_name': '狐狸', 'time': '3:54'}
+{'index': '210', 'singer': '毛宁、杨钰莹', 'song_name': '心雨', 'time': '4:36'}
+{'index': '211', 'singer': 'TFBOYS', 'song_name': '萤火', 'time': '4:12'}
+{'index': '212', 'singer': '大哲', 'song_name': '下定决心忘记你', 'time': '3:43'}
+{'index': '213', 'singer': '逃跑计划', 'song_name': '夜空中最亮的星', 'time': '4:12'}
+{'index': '214', 'singer': 'RADWIMPS', 'song_name': 'ぜんぜんぜんせ', 'time': '4:45'}
+{'index': '215', 'singer': 'KOGIRLS', 'song_name': '微笑糖果', 'time': '3:56'}
+{'index': '216', 'singer': '林忆莲', 'song_name': '至少还有你', 'time': '4:34'}
+{'index': '217', 'singer': '洛天依', 'song_name': '东京不太热', 'time': '4:04'}
+{'index': '218', 'singer': '魏新雨', 'song_name': '恋人心', 'time': '3:28'}
+{'index': '219', 'singer': '李朝、王圣锋', 'song_name': '情话微甜', 'time': '3:28'}
+{'index': '220', 'singer': '熊梓淇、李溪芮', 'song_name': '不是冲动', 'time': '4:27'}
+{'index': '221', 'singer': 'TFBOYS', 'song_name': '不完美小孩', 'time': '4:20'}
+{'index': '222', 'singer': '黑龙', 'song_name': '感谢', 'time': '4:18'}
+{'index': '223', 'singer': '李少白', 'song_name': '山楂树之恋', 'time': '3:04'}
+{'index': '224', 'singer': '卓依婷', 'song_name': '恭喜发财', 'time': '3:20'}
+{'index': '225', 'singer': '夏天播放', 'song_name': '小宝贝', 'time': '3:12'}
+{'index': '226', 'singer': 'Michael Learns to Rock', 'song_name': 'Take Me To Your Heart', 'time': '3:58'}
+{'index': '227', 'singer': 'LAMPHO', 'song_name': '短发', 'time': '3:12'}
+{'index': '228', 'singer': 'Selena Gomez、Charlie Puth', 'song_name': "We Don't Talk Anymore", 'time': '3:37'}
+{'index': '229', 'singer': '张学友', 'song_name': '吻别 (国)', 'time': '4:59'}
+{'index': '230', 'singer': '暖暖笑', 'song_name': '起风了', 'time': '3:56'}
+{'index': '231', 'singer': '前小白', 'song_name': '广东爱情故事', 'time': '3:26'}
+{'index': '232', 'singer': '葛林', 'song_name': '林中鸟', 'time': '3:52'}
+{'index': '233', 'singer': '赵丽颖、张碧晨', 'song_name': '望', 'time': '4:15'}
+{'index': '234', 'singer': '凤凰传奇', 'song_name': '拜新年', 'time': '3:38'}
+{'index': '235', 'singer': 'Meghan Trainor', 'song_name': 'Me Too', 'time': '3:01'}
+{'index': '236', 'singer': '陈百强', 'song_name': '偏偏喜欢你', 'time': '3:32'}
+{'index': '237', 'singer': '杨烁', 'song_name': '小兔子乖乖', 'time': '1:57'}
+{'index': '238', 'singer': '王杰', 'song_name': '不浪漫罪名', 'time': '4:47'}
+{'index': '239', 'singer': '卢焱', 'song_name': '流浪', 'time': '3:21'}
+{'index': '240', 'singer': 'Maroon 5', 'song_name': 'Sugar', 'time': '3:55'}
+{'index': '241', 'singer': '祁隆、乐凡', 'song_name': '等你等了那么久', 'time': '5:06'}
+{'index': '242', 'singer': 'Unlike Pluto、Joanna Jones', 'song_name': 'Wannabe (Spice Girls Cover)', 'time': '3:39'}
+{'index': '243', 'singer': '神马乐团', 'song_name': '爱河', 'time': '5:12'}
+{'index': '244', 'singer': '小虎队', 'song_name': '爱', 'time': '4:31'}
+{'index': '245', 'singer': '门丽、龙飞', 'song_name': '亲爱的你在哪里', 'time': '4:01'}
+{'index': '246', 'singer': '艾福杰尼、黄旭、田羽生', 'song_name': '说散就散', 'time': '3:51'}
+{'index': '247', 'singer': '谭咏麟', 'song_name': '讲不出再见', 'time': '4:52'}
+{'index': '248', 'singer': 'Fly Project', 'song_name': 'Toca Toca (Radio Edit)', 'time': '2:44'}
+{'index': '249', 'singer': '张雨生', 'song_name': '大海', 'time': '4:35'}
+{'index': '250', 'singer': '降央卓玛', 'song_name': '走天涯', 'time': '4:30'}
+{'index': '251', 'singer': '周华健', 'song_name': '风雨无阻', 'time': '4:33'}
+{'index': '252', 'singer': '杨烁', 'song_name': '小燕子', 'time': '2:58'}
+{'index': '253', 'singer': '张韶涵', 'song_name': '隐形的翅膀', 'time': '3:44'}
+{'index': '254', 'singer': '田馥甄', 'song_name': '你就不要想起我', 'time': '4:40'}
+{'index': '255', 'singer': '韩安旭', 'song_name': '多幸运', 'time': '4:09'}
+{'index': '256', 'singer': '萧全', 'song_name': '海草舞', 'time': '4:37'}
+{'index': '257', 'singer': '张芸京', 'song_name': '偏爱', 'time': '3:32'}
+{'index': '258', 'singer': '高安', 'song_name': '你不来我不老', 'time': '4:47'}
+{'index': '259', 'singer': 'Owl City、Carly Rae Jepsen', 'song_name': 'Good Time', 'time': '3:26'}
+{'index': '260', 'singer': 'BIGBANG', 'song_name': 'FANTASTIC BABY', 'time': '3:52'}
+{'index': '261', 'singer': '刘辰希', 'song_name': '专属情歌', 'time': '4:35'}
+{'index': '262', 'singer': 'Miley Cyrus', 'song_name': "We Can't Stop", 'time': '3:52'}
+{'index': '263', 'singer': 'Chris Medina', 'song_name': 'What Are Words', 'time': '3:07'}
+{'index': '264', 'singer': '戴荃', 'song_name': '悟空 (Live)', 'time': '3:20'}
+{'index': '265', 'singer': 'Barbie', 'song_name': 'Good Time', 'time': '3:53'}
+{'index': '266', 'singer': '许歌淳一', 'song_name': '偶像练习生', 'time': '3:03'}
+{'index': '267', 'singer': '刘增瞳', 'song_name': '多想留在你身边', 'time': '3:32'}
+{'index': '268', 'singer': '刘德华', 'song_name': '来生缘', 'time': '3:56'}
+{'index': '269', 'singer': '花姐', 'song_name': '最远的你是我最近的爱', 'time': '4:51'}
+{'index': '270', 'singer': '薛之谦', 'song_name': '暧昧', 'time': '5:12'}
+{'index': '271', 'singer': '梁博', 'song_name': '男孩 (Live)', 'time': '5:11'}
+{'index': '272', 'singer': '易烊千玺', 'song_name': 'Nothing To Lose', 'time': '2:37'}
+{'index': '273', 'singer': '张杰', 'song_name': '星星 (Live)', 'time': '4:32'}
+{'index': '274', 'singer': '杨烁', 'song_name': '虫儿飞', 'time': '2:42'}
+{'index': '275', 'singer': '周杰伦', 'song_name': '晴天', 'time': '4:29'}
+{'index': '276', 'singer': '冯提莫', 'song_name': '远走高飞', 'time': '4:01'}
+{'index': '277', 'singer': '杨烁', 'song_name': '两只老虎', 'time': '1:12'}
+{'index': '278', 'singer': 'Adele', 'song_name': 'Hello', 'time': '4:55'}
+{'index': '279', 'singer': '张津涤', 'song_name': '女人没有错', 'time': '3:20'}
+{'index': '280', 'singer': '许巍', 'song_name': '蓝莲花', 'time': '4:30'}
+{'index': '281', 'singer': '郑智化', 'song_name': '水手', 'time': '4:59'}
+{'index': '282', 'singer': '卓依婷', 'song_name': '明天会更好', 'time': '4:40'}
+{'index': '283', 'singer': '黄龄', 'song_name': '痒', 'time': '3:48'}
+{'index': '284', 'singer': '孙燕姿', 'song_name': '遇见', 'time': '3:29'}
+{'index': '285', 'singer': '李荣浩', 'song_name': '后羿', 'time': '3:25'}
+{'index': '286', 'singer': 'Jam', 'song_name': '七月上', 'time': '3:10'}
+{'index': '287', 'singer': 'BIGBANG', 'song_name': 'BANG BANG BANG (뱅뱅뱅) (Korean Ver.)', 'time': '3:40'}
+{'index': '288', 'singer': '姜鹏', 'song_name': '兄弟想你了', 'time': '3:45'}
+{'index': '289', 'singer': '蒙面哥', 'song_name': '一亿个伤心', 'time': '4:24'}
+{'index': '290', 'singer': '张碧晨', 'song_name': '年轮', 'time': '4:34'}
+{'index': '291', 'singer': '李克勤', 'song_name': '红日', 'time': '4:47'}
+{'index': '292', 'singer': '毛不易', 'song_name': '说散就散', 'time': '1:29'}
+{'index': '293', 'singer': 'Michael Jackson', 'song_name': 'Beat It (Single Version)', 'time': '4:18'}
+{'index': '294', 'singer': '高进、小沈阳', 'song_name': '我的好兄弟', 'time': '4:37'}
+{'index': '295', 'singer': '草蜢', 'song_name': '失恋阵线联盟', 'time': '2:52'}
+{'index': '296', 'singer': '门丽', 'song_name': '死心塌地去爱你', 'time': '3:39'}
+{'index': '297', 'singer': '陈小云', 'song_name': '爱情的骗子我问你 (重制版)', 'time': '4:29'}
+{'index': '298', 'singer': '庞龙', 'song_name': '兄弟抱一下', 'time': '4:25'}
+{'index': '299', 'singer': '云朵', 'song_name': '我的楼兰', 'time': '5:27'}
+{'index': '300', 'singer': '薛之谦、毛不易', 'song_name': '消愁 (Live)', 'time': '2:53'}
+{'index': '301', 'singer': '杨宗纬', 'song_name': '一次就好', 'time': '4:26'}
+{'index': '302', 'singer': '罗大佑', 'song_name': '恋曲1990', 'time': '5:14'}
+{'index': '303', 'singer': '费玉清', 'song_name': '一剪梅', 'time': '3:46'}
+{'index': '304', 'singer': '高胜美', 'song_name': '千年等一回', 'time': '3:36'}
+{'index': '305', 'singer': '小峰峰', 'song_name': '足够', 'time': '1:49'}
+{'index': '306', 'singer': '林俊杰', 'song_name': '曹操', 'time': '4:04'}
+{'index': '307', 'singer': '薛之谦', 'song_name': '像风一样', 'time': '4:15'}
+{'index': '308', 'singer': '李晓东', 'song_name': '消愁 (Live)', 'time': '5:30'}
+{'index': '309', 'singer': '林俊杰', 'song_name': '可惜没如果', 'time': '4:58'}
+{'index': '310', 'singer': '王俊凯', 'song_name': '树读', 'time': '3:56'}
+{'index': '311', 'singer': '李克勤', 'song_name': '月半小夜曲', 'time': '4:53'}
+{'index': '312', 'singer': '张靓颖', 'song_name': '我的梦', 'time': '3:39'}
+{'index': '313', 'singer': '蔡徐坤', 'song_name': 'I Wanna Get Love', 'time': '3:14'}
+{'index': '314', 'singer': '张杰', 'song_name': '着魔', 'time': '3:35'}
+{'index': '315', 'singer': '正云', 'song_name': '不变的情缘', 'time': '4:16'}
+{'index': '316', 'singer': '十二大美女', 'song_name': '爱情骗子我问你', 'time': '4:12'}
+{'index': '317', 'singer': '华晨宇', 'song_name': '一人饮酒醉 (Live)', 'time': '3:35'}
+{'index': '318', 'singer': '王杰', 'song_name': '谁明浪子心', 'time': '5:03'}
+{'index': '319', 'singer': '卓依婷', 'song_name': '财神来到我家门', 'time': '3:03'}
+{'index': '320', 'singer': '汤潮', 'song_name': '妈妈我想你', 'time': '4:40'}
+{'index': '321', 'singer': '郭少杰', 'song_name': '一曲红尘', 'time': '4:30'}
+{'index': '322', 'singer': '易烊千玺', 'song_name': '宝贝', 'time': '2:47'}
+{'index': '323', 'singer': '陈洁丽', 'song_name': '猪猪侠', 'time': '3:36'}
+{'index': '324', 'singer': '张杰', 'song_name': '星辰', 'time': '4:09'}
+{'index': '325', 'singer': '林俊杰', 'song_name': '江南', 'time': '4:28'}
+{'index': '326', 'singer': '李晓杰', 'song_name': '朋友的酒', 'time': '4:23'}
+{'index': '327', 'singer': '杨幂', 'song_name': '爱的供养', 'time': '3:39'}
+{'index': '328', 'singer': '许嵩、何曼婷', 'song_name': '素颜', 'time': '3:58'}
+{'index': '329', 'singer': '馒头', 'song_name': '带你去网吧里偷耳机', 'time': '1:05'}
+{'index': '330', 'singer': '正云、少薇', 'song_name': '不变的情缘', 'time': '4:10'}
+{'index': '331', 'singer': 'TFBOYS', 'song_name': '信仰之名', 'time': '3:46'}
+{'index': '332', 'singer': '那英', 'song_name': '默', 'time': '5:25'}
+{'index': '333', 'singer': '苏芮', 'song_name': '酒干倘卖无', 'time': '4:38'}
+{'index': '334', 'singer': '孙子涵', 'song_name': '回忆那么伤', 'time': '3:57'}
+{'index': '335', 'singer': 'BEYOND', 'song_name': '喜欢你', 'time': '4:29'}
+{'index': '336', 'singer': '陈雅森', 'song_name': '温柔乡', 'time': '4:13'}
+{'index': '337', 'singer': '魏语诺', 'song_name': '一个人的歌', 'time': '3:33'}
+{'index': '338', 'singer': '张杰', 'song_name': '剑心', 'time': '4:12'}
+{'index': '339', 'singer': '胡蒎', 'song_name': '喝醉以后才明白', 'time': '3:52'}
+{'index': '340', 'singer': '冯提莫', 'song_name': '刚好遇见你', 'time': '3:21'}
+{'index': '341', 'singer': '凤凰传奇', 'song_name': '荷塘月色', 'time': '4:10'}
+{'index': '342', 'singer': 'TFBOYS', 'song_name': '样 (YOUNG)', 'time': '4:24'}
+{'index': '343', 'singer': '刀郎、云朵', 'song_name': '爱是你我', 'time': '5:18'}
+{'index': '344', 'singer': '孙露', 'song_name': '离别的秋天', 'time': '4:23'}
+{'index': '345', 'singer': 'G.E.M.邓紫棋', 'song_name': '泡沫', 'time': '4:18'}
+{'index': '346', 'singer': '林志炫', 'song_name': '你的样子', 'time': '4:23'}
+{'index': '347', 'singer': 'Mi2', 'song_name': '勇敢爱', 'time': '4:16'}
+{'index': '348', 'singer': '王蓉', 'song_name': '小鸡小鸡', 'time': '3:32'}
+{'index': '349', 'singer': '张镐哲', 'song_name': '路太远', 'time': '4:37'}
+{'index': '350', 'singer': 'Russ', 'song_name': 'Psycho, Pt. 2', 'time': '2:42'}
+{'index': '351', 'singer': '郁可唯', 'song_name': '思慕', 'time': '5:07'}
+{'index': '352', 'singer': '徐誉滕', 'song_name': '天使的翅膀', 'time': '3:35'}
+{'index': '353', 'singer': '封茗囧菌', 'song_name': '红昭愿', 'time': '2:52'}
+{'index': '354', 'singer': '陈瑞', 'song_name': '白狐', 'time': '5:09'}
+{'index': '355', 'singer': '白小白', 'song_name': '最后我们没在一起', 'time': '3:19'}
+{'index': '356', 'singer': 'Alan Walker', 'song_name': 'Alone', 'time': '2:41'}
+{'index': '357', 'singer': '汪峰', 'song_name': '儿时 (Live)', 'time': '5:44'}
+{'index': '358', 'singer': '刘欢', 'song_name': '好汉歌', 'time': '3:12'}
+{'index': '359', 'singer': '陈势安', 'song_name': '天后', 'time': '4:49'}
+{'index': '360', 'singer': 'Tiësto、Sevenn', 'song_name': 'BOOM', 'time': '2:34'}
+{'index': '361', 'singer': '李溪芮', 'song_name': '抱着都痛', 'time': '4:15'}
+{'index': '362', 'singer': 'Zedd、Jon Bellion', 'song_name': 'Beautiful Now', 'time': '3:38'}
+{'index': '363', 'singer': '大哲', 'song_name': '闯码头', 'time': '3:37'}
+{'index': '364', 'singer': '陈奕迅', 'song_name': '等你爱我', 'time': '4:44'}
+{'index': '365', 'singer': '刘德华', 'song_name': '一起走过的日子', 'time': '3:56'}
+{'index': '366', 'singer': '吴静', 'song_name': '女儿情', 'time': '4:32'}
+{'index': '367', 'singer': 'Punch、灿烈', 'song_name': 'Stay With Me', 'time': '3:12'}
+{'index': '368', 'singer': '金志文、黑墨', 'song_name': '远走高飞 (Live)', 'time': '5:11'}
+{'index': '369', 'singer': '叶洛洛', 'song_name': '咖喱咖喱', 'time': '2:38'}
+{'index': '370', 'singer': '刀郎', 'song_name': '手心里的温柔', 'time': '4:56'}
+{'index': '371', 'singer': '张学友', 'song_name': '只想一生跟你走', 'time': '5:13'}
+{'index': '372', 'singer': '叶倩文', 'song_name': '潇洒走一回', 'time': '4:10'}
+{'index': '373', 'singer': '夏婉安', 'song_name': '一个人', 'time': '3:14'}
+{'index': '374', 'singer': '冷漠、杨小曼', 'song_name': '我爱你胜过你爱我', 'time': '4:43'}
+{'index': '375', 'singer': '卓依婷', 'song_name': '童年', 'time': '3:07'}
+{'index': '376', 'singer': '白小白', 'song_name': '不甘示弱', 'time': '3:32'}
+{'index': '377', 'singer': '张信哲', 'song_name': '过火 (Live)', 'time': '2:34'}
+{'index': '378', 'singer': '刘德华', 'song_name': '忘情水', 'time': '4:25'}
+{'index': '379', 'singer': '林俊杰', 'song_name': '小酒窝', 'time': '3:37'}
+{'index': '380', 'singer': 'Git Fresh', 'song_name': 'Booty Music', 'time': '3:01'}
+{'index': '381', 'singer': '张二嫂', 'song_name': '他真的比我爱你吗', 'time': '4:26'}
+{'index': '382', 'singer': 'BEYOND', 'song_name': '谁伴我闯荡', 'time': '4:12'}
+{'index': '383', 'singer': '周华健', 'song_name': '难念的经', 'time': '4:48'}
+{'index': '384', 'singer': '冷漠', 'song_name': '伤心城市', 'time': '4:24'}
+{'index': '385', 'singer': 'GAI', 'song_name': '苦行僧 (Live)', 'time': '2:23'}
+{'index': '386', 'singer': '黄渤', 'song_name': '正义之道', 'time': '3:34'}
+{'index': '387', 'singer': '徐薇', 'song_name': '体面', 'time': '4:43'}
+{'index': '388', 'singer': '冷漠、张冬玲', 'song_name': '我在红尘中遇见你', 'time': '4:36'}
+{'index': '389', 'singer': '周华健', 'song_name': '朋友', 'time': '5:11'}
+{'index': '390', 'singer': '伍佰&China Blue', 'song_name': '突然的自我 (Live)', 'time': '3:36'}
+{'index': '391', 'singer': '吴亦凡', 'song_name': 'JULY', 'time': '3:06'}
+{'index': '392', 'singer': '贾玲、刘维', 'song_name': '感觉自己萌萌哒', 'time': '3:46'}
+{'index': '393', 'singer': '张碧晨', 'song_name': '下一秒', 'time': '3:14'}
+{'index': '394', 'singer': '梅艳芳', 'song_name': '女人花', 'time': '4:50'}
+{'index': '395', 'singer': '李玉刚', 'song_name': '新贵妃醉酒', 'time': '4:55'}
+{'index': '396', 'singer': '郑源', 'song_name': '爱情码头', 'time': '5:00'}
+{'index': '397', 'singer': '陶钰玉', 'song_name': '你会爱我到什么时候', 'time': '4:02'}
+{'index': '398', 'singer': '侯旭', 'song_name': '逃', 'time': '3:59'}
+{'index': '399', 'singer': '韩宝仪', 'song_name': '粉红色的回忆', 'time': '3:49'}
+{'index': '400', 'singer': 'BEYOND', 'song_name': '灰色轨迹', 'time': '5:26'}
+{'index': '401', 'singer': '樊竹青', 'song_name': '蓝精灵', 'time': '2:06'}
+{'index': '402', 'singer': '六哲', 'song_name': '让全世界知道我爱你', 'time': '4:22'}
+{'index': '403', 'singer': '动力火车', 'song_name': '当', 'time': '5:00'}
+{'index': '404', 'singer': '杨宗纬', 'song_name': '红尘来去一场梦 (Live)', 'time': '4:10'}
+{'index': '405', 'singer': '吴亦凡', 'song_name': '时间煮雨', 'time': '4:08'}
+{'index': '406', 'singer': '高进、大壮', 'song_name': '本色英雄', 'time': '4:02'}
+{'index': '407', 'singer': '张艺兴', 'song_name': '一个人', 'time': '3:51'}
+{'index': '408', 'singer': '梁静茹', 'song_name': '问 (Live)', 'time': '3:27'}
+{'index': '409', 'singer': 'TFBOYS', 'song_name': '真心话太冒险', 'time': '3:40'}
+{'index': '410', 'singer': '张学友', 'song_name': '一千个伤心的理由', 'time': '4:36'}
+{'index': '411', 'singer': '张震岳', 'song_name': '再见', 'time': '3:03'}
+{'index': '412', 'singer': '孙露', 'song_name': '再度重相逢', 'time': '3:27'}
+{'index': '413', 'singer': '薛之谦', 'song_name': '动物世界', 'time': '3:50'}
+{'index': '414', 'singer': '凤凰传奇', 'song_name': '自由飞翔', 'time': '4:12'}
+{'index': '415', 'singer': '庄心妍', 'song_name': '两个人的回忆一个人过', 'time': '4:27'}
+{'index': '416', 'singer': '回音哥', 'song_name': '海绵宝宝', 'time': '3:28'}
+{'index': '417', 'singer': '云菲菲、冷漠', 'song_name': '这条街', 'time': '3:53'}
+{'index': '418', 'singer': '莫露露', 'song_name': '爱情主演', 'time': '3:59'}
+{'index': '419', 'singer': '邓丽君', 'song_name': '漫步人生路', 'time': '3:44'}
+{'index': '420', 'singer': '菲儿', 'song_name': '太想念', 'time': '3:50'}
+{'index': '421', 'singer': '曹越', 'song_name': '你的眼角流着我的泪', 'time': '4:24'}
+{'index': '422', 'singer': '林志炫', 'song_name': '单身情歌', 'time': '4:37'}
+{'index': '423', 'singer': '阿悄、本兮', 'song_name': '无限速', 'time': '2:51'}
+{'index': '424', 'singer': 'Alan Walker', 'song_name': 'The Spectre', 'time': '3:14'}
+{'index': '425', 'singer': '许嵩', 'song_name': '有何不可', 'time': '3:59'}
+{'index': '426', 'singer': '水木年华', 'song_name': '一生有你', 'time': '4:18'}
+{'index': '427', 'singer': '孙晨', 'song_name': '拜托', 'time': '3:45'}
+{'index': '428', 'singer': '刀郎', 'song_name': '2002年的第一场雪', 'time': '4:14'}
+{'index': '429', 'singer': '庄心妍', 'song_name': '再遇不到你这样的人', 'time': '5:22'}
+{'index': '430', 'singer': '雨露', 'song_name': '下一次相遇', 'time': '4:32'}
+{'index': '431', 'singer': '鹿晗', 'song_name': '超级冠军', 'time': '4:29'}
+{'index': '432', 'singer': '毛不易', 'song_name': '无问', 'time': '4:18'}
+{'index': '433', 'singer': '曾咏欣', 'song_name': '心微痛', 'time': '4:07'}
+{'index': '434', 'singer': '孙露', 'song_name': '想着你亲爱的', 'time': '4:05'}
+{'index': '435', 'singer': 'Alex Goot、Madilyn Bailey', 'song_name': 'Something Just Like This', 'time': '2:59'}
+{'index': '436', 'singer': 'Sainkho Namtchylak', 'song_name': 'Lost Rivers', 'time': '7:18'}
+{'index': '437', 'singer': '冷漠', 'song_name': '没有你陪伴我真的好孤单', 'time': '4:49'}
+{'index': '438', 'singer': 'Gibb-Z', 'song_name': 'My Hot Girl', 'time': '3:53'}
+{'index': '439', 'singer': '汪峰', 'song_name': '普通DISCO (Live)', 'time': '4:06'}
+{'index': '440', 'singer': '陈雪凝', 'song_name': '白山茶', 'time': '4:14'}
+{'index': '441', 'singer': '刀郎', 'song_name': '谢谢你', 'time': '5:56'}
+{'index': '442', 'singer': 'Colbie Caillat', 'song_name': 'Try', 'time': '3:44'}
+{'index': '443', 'singer': '张冬玲', 'song_name': '花开的时候你就来看我', 'time': '3:48'}
+{'index': '444', 'singer': '霍建华、赵丽颖', 'song_name': '不可说', 'time': '3:42'}
+{'index': '445', 'singer': '程响', 'song_name': '新娘不是我', 'time': '4:42'}
+{'index': '446', 'singer': '杨峻荣、范晓萱', 'song_name': '健康歌', 'time': '3:00'}
+{'index': '447', 'singer': '张磊', 'song_name': '文艺少年', 'time': '4:21'}
+{'index': '448', 'singer': '胡一天、赵天宇', 'song_name': '带你去旅行 (Live)', 'time': '2:09'}
+{'index': '449', 'singer': 'BEYOND', 'song_name': '大地', 'time': '4:19'}
+{'index': '450', 'singer': '小曾', 'song_name': '军中绿花', 'time': '4:09'}
+{'index': '451', 'singer': '陈小虎', 'song_name': '可乐', 'time': '3:56'}
+{'index': '452', 'singer': '张韶涵', 'song_name': '梦里花 (Live)', 'time': '4:42'}
+{'index': '453', 'singer': '任贤齐', 'song_name': '伤心太平洋', 'time': '4:26'}
+{'index': '454', 'singer': '毛毛', 'song_name': '奇迹再现', 'time': '3:56'}
+{'index': '455', 'singer': '蔡依林、陶喆', 'song_name': '今天你要嫁给我', 'time': '4:32'}
+{'index': '456', 'singer': '刘思涵', 'song_name': '走在冷风中', 'time': '3:35'}
+{'index': '457', 'singer': 'Bridge', 'song_name': '老大 (Live)', 'time': '1:08'}
+{'index': '458', 'singer': '吉克隽逸', 'song_name': '一生所爱', 'time': '4:02'}
+{'index': '459', 'singer': '刘明湘', 'song_name': '漂洋过海来看你', 'time': '5:01'}
+{'index': '460', 'singer': '赖鸿根', 'song_name': '谈判官', 'time': '4:22'}
+{'index': '461', 'singer': '许哲佩', 'song_name': '气球', 'time': '4:17'}
+{'index': '462', 'singer': '周杰伦', 'song_name': '听妈妈的话', 'time': '4:23'}
+{'index': '463', 'singer': '鹿晗', 'song_name': '让我留在你身边', 'time': '3:02'}
+{'index': '464', 'singer': '晨熙、司徒兰芳', 'song_name': '永远放你在心底', 'time': '3:57'}
+{'index': '465', 'singer': '汪苏泷', 'song_name': '那个男孩', 'time': '3:36'}
+{'index': '466', 'singer': '汤宝如、张学友', 'song_name': '相思风雨中', 'time': '4:10'}
+{'index': '467', 'singer': '谭咏麟', 'song_name': '一生中最爱', 'time': '4:27'}
+{'index': '468', 'singer': '赵雷', 'song_name': '我们的时光', 'time': '4:30'}
+{'index': '469', 'singer': '宋祖英', 'song_name': '好日子', 'time': '2:53'}
+{'index': '470', 'singer': '李玉刚、石头', 'song_name': '雨花石', 'time': '5:32'}
+{'index': '471', 'singer': '陈瑞', 'song_name': '相思的债', 'time': '4:50'}
+{'index': '472', 'singer': '麦小兜、校长', 'song_name': '甜了个蜜', 'time': '3:55'}
+{'index': '473', 'singer': '冯提莫', 'song_name': '凉凉', 'time': '5:36'}
+{'index': '474', 'singer': '杜歌', 'song_name': '兄弟难当', 'time': '4:11'}
+{'index': '475', 'singer': '胡歌', 'song_name': '忘记时间', 'time': '4:25'}
+{'index': '476', 'singer': '叶倩文', 'song_name': '曾经心痛', 'time': '4:41'}
+{'index': '477', 'singer': '张宇', 'song_name': '雨一直下', 'time': '4:49'}
+{'index': '478', 'singer': 'Queen', 'song_name': 'We Will Rock You (我们将击败你)', 'time': '2:03'}
+{'index': '479', 'singer': 'Carpenters', 'song_name': 'Yesterday Once More', 'time': '4:01'}
+{'index': '480', 'singer': 'G-DRAGON', 'song_name': '삐딱하게 (Crooked)', 'time': '3:44'}
+{'index': '481', 'singer': '卓依婷', 'song_name': '生日快乐', 'time': '2:02'}
+{'index': '482', 'singer': '门丽', 'song_name': '美美哒', 'time': '3:38'}
+{'index': '483', 'singer': '张宇', 'song_name': '月亮惹的祸', 'time': '4:19'}
+{'index': '484', 'singer': '陈奕迅、王菲', 'song_name': '因为爱情', 'time': '3:37'}
+{'index': '485', 'singer': '张碧晨', 'song_name': '不要忘记我爱你', 'time': '3:45'}
+{'index': '486', 'singer': '程响', 'song_name': '不再联系', 'time': '3:56'}
+{'index': '487', 'singer': '王菲', 'song_name': '匆匆那年', 'time': '4:03'}
+{'index': '488', 'singer': '李圣杰', 'song_name': '痴心绝对', 'time': '4:22'}
+{'index': '489', 'singer': 'G.E.M.邓紫棋', 'song_name': '夜空中最亮的星', 'time': '3:52'}
+{'index': '490', 'singer': '汪苏泷', 'song_name': '不分手的恋爱', 'time': '3:25'}
+{'index': '491', 'singer': '邓丽君', 'song_name': '甜蜜蜜', 'time': '3:29'}
+{'index': '492', 'singer': '李思琳', 'song_name': '三个和尚', 'time': '3:50'}
+{'index': '493', 'singer': '庄心妍', 'song_name': '好可惜', 'time': '5:15'}
+{'index': '494', 'singer': '罗文、甄妮', 'song_name': '铁血丹心', 'time': '2:57'}
+{'index': '495', 'singer': '冰冰超人', 'song_name': '八年的爱', 'time': '3:12'}
+{'index': '496', 'singer': '南宫嘉骏', 'song_name': '回忆总想哭', 'time': '4:50'}
+{'index': '497', 'singer': '光良', 'song_name': '童话', 'time': '4:04'}
+{'index': '498', 'singer': 'Cash Cash、Sofia Reyes', 'song_name': 'How To Love', 'time': '3:38'}
+{'index': '499', 'singer': '薛之谦', 'song_name': '我好像在哪见过你', 'time': '4:39'}
+{'index': '500', 'singer': '蒋蒋', 'song_name': '残雪', 'time': '3:59'}
