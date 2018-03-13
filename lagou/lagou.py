@@ -45,8 +45,8 @@ def get_page_num(url):
 	html = requests.post(url,data=params, headers=headers)
 	json_data = json.loads(html.text)
 	total_count = json_data['content']['positionResult']['totalCount'] #ajax 返回的json 数据中的招聘企业总数
-	# page_number = math.ceil(total_count / 15) #每页展示15家，整除后得到抓取页数
-	get_info(url,2)
+	page_number = math.ceil(total_count / 15) #每页展示15家，整除后得到抓取页数
+	get_info(url,page_number)
 
 
 #获取具体数据
