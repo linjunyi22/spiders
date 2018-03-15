@@ -1,4 +1,9 @@
 # -*- coding: utf--8 -*-
+
+'''
+按照博客博主教程学习的第一个爬虫
+博客地址：https://cuiqingcai.com/993.html
+'''
 import urllib.request 
 import urllib.error
 import re
