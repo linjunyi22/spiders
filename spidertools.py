@@ -1,6 +1,5 @@
 '''
-记录一些爬虫常用工具和小技巧
-持续更新...
+记录一些常用工具
 '''
 
 #生成一些常用的 UA
@@ -29,3 +28,12 @@ def ua_random():
 	return ua_list[random.randint(0,len(ua_list))]
 
 
+# 统计程序运行时间的装饰器
+def time_decorator(func):
+        import time
+        def wrapper(*arg,**kwarg):
+                start = time.time()
+                func(*arg,**kwarg)
+                end = time.time()
+                print('运行时间:',end-start)
+        return wrapper
