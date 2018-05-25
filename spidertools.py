@@ -37,3 +37,9 @@ def time_decorator(func):
                 end = time.time()
                 print('运行时间:',end-start)
         return wrapper
+
+
+# 在 IDE 中运行 Scrapy
+from scrapy.cmdline import execute
+# 第三个参数放入 spider 的 name
+execute(['scrapy', 'crawl', '###'])
